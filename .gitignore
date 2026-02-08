@@ -41,3 +41,7 @@ Desktop.ini
 *.dmg
 *.exe
 *.msi
+
+# HERRAMIENTAS PERSONALES DE WORKFLOW
+# Scripts personales que cada colaborador puede mantener localmente
+empujar.py
