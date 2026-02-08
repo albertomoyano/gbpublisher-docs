@@ -4,6 +4,12 @@ title = "gbpublisher - Documentación"
 languageCode = "es-ar"
 defaultContentLanguage = "es"
 
+# CONFIGURACIÓN DE OUTPUTS PARA BÚSQUEDA LOCAL
+# Hugo debe generar archivos JSON además de HTML para que Lunr pueda indexar el contenido
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS", "JSON"]
+
 # TAXONOMÍAS (AL NIVEL RAÍZ, NO DENTRO DE PARAMS)
 [taxonomies]
   tag = "tags"
@@ -28,11 +34,16 @@ defaultContentLanguage = "es"
   description = "Manual de uso de gbpublisher y guía de escritura científica"
   author = "Alberto Moyano - Estudio 2A"
 
+  # HABILITAR BÚSQUEDA LOCAL CON LUNR
+  offlineSearch = true
+  offlineSearchSummaryLength = 200
+  offlineSearchMaxResults = 10
+
   # CONFIGURACIÓN DE INTERFAZ
   [params.ui]
     sidebar_menu_compact = true
     breadcrumb_disable = false
-    sidebar_search_disable = true
+    sidebar_search_disable = false
     navbar_logo = true
     footer_about_disable = false
 
