@@ -6,7 +6,6 @@ hugo_stats.json
 
 # ARCHIVOS DE NODE Y NPM
 node_modules/
-package-lock.json
 
 # CACHÉ DE MÓDULOS HUGO
 # Hugo descarga módulos en el cache del sistema, no en el proyecto
