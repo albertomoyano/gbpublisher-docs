@@ -4,6 +4,11 @@ title = "gbpublisher - Documentación"
 languageCode = "es-ar"
 defaultContentLanguage = "es"
 
+# TAXONOMÍAS (AL NIVEL RAÍZ, NO DENTRO DE PARAMS)
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 # USAR HUGO MODULES PARA DOCSY (FORMA CORRECTA Y SIMPLE)
 [module]
   proxy = "direct"
@@ -25,8 +30,8 @@ defaultContentLanguage = "es"
   copyright = "Estudio 2A"
 
   # REPOSITORIO PARA EDICIÓN
-  github_repo = "https://github.com/albertomoyano/gbpublisher-docs"
-  github_branch = "main"
+  # github_repo = "https://github.com/albertomoyano/gbpublisher-docs"
+  # github_branch = "main"
 
   # CONFIGURACIÓN DE INTERFAZ
   [params.ui]
@@ -35,6 +40,11 @@ defaultContentLanguage = "es"
     sidebar_search_disable = true
     navbar_logo = true
     footer_about_disable = false
+
+  # HABILITAR WIDGETS DE FEEDBACK (opcional)
+  # Esto permite que los usuarios indiquen si la página les fue útil
+  [params.ui.feedback]
+    enable = false
 
   # ENLACES EN EL PIE Y NAVBAR
   [params.links]
@@ -67,13 +77,11 @@ defaultContentLanguage = "es"
     contentDir = "content/es"
     weight = 1
     title = "gbpublisher - Documentación"
-
   [languages.en]
     languageName = "English"
     contentDir = "content/en"
     weight = 2
     title = "gbpublisher - Documentation"
-
   [languages.pt]
     languageName = "Português"
     contentDir = "content/pt"
