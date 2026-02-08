@@ -29,10 +29,6 @@ defaultContentLanguage = "es"
   author = "Alberto Moyano - Estudio 2A"
   copyright = "Estudio 2A"
 
-  # REPOSITORIO PARA EDICIÓN
-  # github_repo = "https://github.com/albertomoyano/gbpublisher-docs"
-  # github_branch = "main"
-
   # CONFIGURACIÓN DE INTERFAZ
   [params.ui]
     sidebar_menu_compact = true
@@ -40,11 +36,6 @@ defaultContentLanguage = "es"
     sidebar_search_disable = true
     navbar_logo = true
     footer_about_disable = false
-
-  # HABILITAR WIDGETS DE FEEDBACK (opcional)
-  # Esto permite que los usuarios indiquen si la página les fue útil
-  [params.ui.feedback]
-    enable = false
 
   # ENLACES EN EL PIE Y NAVBAR
   [params.links]
@@ -58,17 +49,6 @@ defaultContentLanguage = "es"
       url = "https://estudio2a.netlify.app/"
       icon = "fas fa-home"
       desc = "Sitio web de Estudio 2A"
-
-# MENÚ PRINCIPAL
-[menu]
-  [[menu.main]]
-    name = "Documentación"
-    weight = 10
-    url = "/docs/"
-  [[menu.main]]
-    name = "Blog"
-    weight = 20
-    url = "/blog/"
 
 # IDIOMAS - CONFIGURACIÓN MULTILINGÜE
 [languages]
