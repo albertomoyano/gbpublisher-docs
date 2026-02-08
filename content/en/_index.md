@@ -5,7 +5,7 @@ linkTitle: "Home"
 ---
 
 {{< blocks/cover title="gbpublisher" image_anchor="top" height="full" >}}
-<p class="display-6">XML-JATS without complications</p>
+<p class="display-6">JATS without complications</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
