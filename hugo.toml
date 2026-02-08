@@ -27,7 +27,6 @@ defaultContentLanguage = "es"
 [params]
   description = "Manual de uso de gbpublisher y guía de escritura científica"
   author = "Alberto Moyano - Estudio 2A"
-  copyright = "Estudio 2A"
 
   # CONFIGURACIÓN DE INTERFAZ
   [params.ui]
@@ -52,18 +51,32 @@ defaultContentLanguage = "es"
 
 # IDIOMAS - CONFIGURACIÓN MULTILINGÜE
 [languages]
-  [languages.es]
-    languageName = "Español"
-    contentDir = "content/es"
-    weight = 1
-    title = "gbpublisher - Documentación"
-  [languages.en]
-    languageName = "English"
-    contentDir = "content/en"
-    weight = 2
-    title = "gbpublisher - Documentation"
-  [languages.pt]
-    languageName = "Português"
-    contentDir = "content/pt"
-    weight = 3
-    title = "gbpublisher - Documentação"
+[languages.es]
+  languageName = "Español"
+  contentDir = "content/es"
+  weight = 1
+  title = "gbpublisher - Documentación"
+  [languages.es.params]
+    [languages.es.params.copyright]
+      authors = "Estudio 2A | Contenido bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es)"
+      from_year = 2025
+
+[languages.en]
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 2
+  title = "gbpublisher - Documentation"
+  [languages.en.params]
+    [languages.en.params.copyright]
+      authors = "Estudio 2A | Content licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)"
+      from_year = 2025
+
+[languages.pt]
+  languageName = "Português"
+  contentDir = "content/pt"
+  weight = 3
+  title = "gbpublisher - Documentação"
+  [languages.pt.params]
+    [languages.pt.params.copyright]
+      authors = "Estudio 2A | Conteúdo sob licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt)"
+      from_year = 2025
