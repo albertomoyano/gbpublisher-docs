@@ -1,0 +1,43 @@
+# ARCHIVOS GENERADOS POR HUGO
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# ARCHIVOS DE NODE Y NPM
+node_modules/
+package-lock.json
+
+# CACHÉ DE MÓDULOS HUGO
+# Hugo descarga módulos en el cache del sistema, no en el proyecto
+# Pero por si acaso, excluimos posibles cachés locales
+.hugo_build.lock
+
+# ARCHIVOS TEMPORALES DEL SISTEMA OPERATIVO
+# macOS
+.DS_Store
+# Linux
+*~
+.directory
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ARCHIVOS DE EDITORES E IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ARCHIVOS DE BACKUP
+*.bak
+*.tmp
+
+# PAQUETES DE INSTALACIÓN
+*.deb
+*.rpm
+*.dmg
+*.exe
+*.msi

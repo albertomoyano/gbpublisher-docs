@@ -1,0 +1,8 @@
+# CONFIGURACIÓN ESPECÍFICA PARA PRODUCCIÓN (GITHUB ACTIONS)
+# Este archivo se usa solo cuando Hugo corre con HUGO_ENVIRONMENT=production
+
+# Habilitar minificación en producción para optimizar tamaño de archivos
+[minify]
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepWhitespace = false

@@ -1,0 +1,104 @@
+# NOMBRE DEL WORKFLOW QUE APARECERÁ EN LA INTERFAZ DE GITHUB
+name: Deploy Hugo site to GitHub Pages
+
+# EVENTOS QUE DISPARAN ESTE WORKFLOW
+on:
+  # Se ejecuta en pushes a la rama main
+  push:
+    branches:
+      - main
+
+  # Permite ejecutar este workflow manualmente desde la pestaña Actions de GitHub
+  workflow_dispatch:
+
+# PERMISOS NECESARIOS PARA QUE EL WORKFLOW PUEDA ESCRIBIR EN GITHUB PAGES
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# GARANTIZA QUE SOLO UNA INSTANCIA DE ESTE WORKFLOW CORRA A LA VEZ
+# Si haces dos pushes seguidos, el segundo esperará a que el primero termine
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+# CONFIGURACIÓN POR DEFECTO PARA TODOS LOS COMANDOS BASH
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  # TRABAJO 1: CONSTRUIR EL SITIO
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.155.2
+    steps:
+      # PASO 1: DESCARGAR EL CÓDIGO DEL REPOSITORIO
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      # PASO 2: INSTALAR HUGO EXTENDED EN EL SERVIDOR
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+
+      # PASO 3: CONFIGURAR NODE.JS PARA INSTALAR DEPENDENCIAS NPM
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      # PASO 4: INSTALAR LAS DEPENDENCIAS NPM (POSTCSS, AUTOPREFIXER, ETC)
+      - name: Install dependencies
+        run: npm ci
+
+      # PASO 5: CONFIGURAR GITHUB PAGES
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      # PASO 6: INICIALIZAR HUGO MODULES Y DESCARGAR DOCSY
+      - name: Install Hugo modules
+        run: hugo mod get
+
+      # PASO 7: CONSTRUIR EL SITIO CON HUGO
+      # --gc elimina archivos no utilizados
+      # --minify comprime HTML/CSS/JS para carga más rápida
+      # --baseURL usa la URL que GitHub Pages proporciona
+      - name: Build with Hugo
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+          HUGO_ENVIRONMENT: production
+          TZ: America/Argentina/Buenos_Aires
+        run: |
+          hugo \
+            --gc \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      # PASO 8: SUBIR LOS ARCHIVOS GENERADOS COMO ARTEFACTO
+      # Esto permite que el siguiente trabajo los use para desplegar
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  # TRABAJO 2: DESPLEGAR A GITHUB PAGES
+  # Este trabajo depende de que el trabajo build termine exitosamente
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
