@@ -4,7 +4,7 @@ linkTitle: "Início"
 ---
 
 {{< blocks/cover title="gbpublisher" image_anchor="top" height="full" >}}
-<p class="lead mt-5">Produção editorial acadêmica com transparência radical</p>
+<p class="display-6">XML-JATS sem complicações</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
@@ -15,7 +15,7 @@ Esta documentação não apenas explica como usar o gbpublisher, mas guia você 
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="Marco Conceitual" url="docs/nivel-1-marco/" %}}
+{{% blocks/feature icon="fa-lightbulb" title="Marco Conceitual" url="docs/nivel-1-quadro/" %}}
 Compreenda o que significa publicar cientificamente no contexto atual, por que os fluxos editoriais estruturados são essenciais e por que o XML-JATS se tornou o padrão internacional para publicações acadêmicas.
 {{% /blocks/feature %}}
 

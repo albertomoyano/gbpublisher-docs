@@ -1,6 +1,6 @@
 ---
-title: "Nivel 1: Marco Conceptual"
-linkTitle: "Nivel 1: Marco Conceptual"
+title: "Parte 1: Marco conceptual"
+linkTitle: "Parte 1: Marco conceptual"
 weight: 1
 description: >
   Fundamentos conceptuales de la publicación académica moderna y los flujos de trabajo editoriales.

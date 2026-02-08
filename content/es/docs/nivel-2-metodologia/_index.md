@@ -1,6 +1,6 @@
 ---
-title: "Nivel 2: Metodología Editorial"
-linkTitle: "Nivel 2: Metodología Editorial"
+title: "Parte 2: Metodología editorial"
+linkTitle: "Parte 2: Metodología editorial"
 weight: 2
 description: >
   Procesos y metodologías concretas del trabajo editorial académico, desde manuscrito hasta artículo publicado.

@@ -1,6 +1,6 @@
 ---
-title: "Nivel 3: La Herramienta gbpublisher"
-linkTitle: "Nivel 3: La Herramienta"
+title: "Parte 3: La herramienta gbpublisher"
+linkTitle: "Parte 3: La herramienta"
 weight: 3
 description: >
   Funcionamiento específico de gbpublisher: capacidades, limitaciones, flujos de trabajo reales y resolución de problemas.

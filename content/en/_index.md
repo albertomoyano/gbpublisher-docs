@@ -5,7 +5,7 @@ linkTitle: "Home"
 ---
 
 {{< blocks/cover title="gbpublisher" image_anchor="top" height="full" >}}
-<p class="lead mt-5">Academic editorial production with radical transparency</p>
+<p class="display-6">XML-JATS without complications</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
