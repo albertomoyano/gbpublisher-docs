@@ -33,8 +33,6 @@ defaultContentLanguage = "es"
 [params]
   description = "Manual de uso de gbpublisher y guía de escritura científica"
   author = "Alberto Moyano - Estudio 2A"
-  toc_start = 2
-  toc_end = 2
 
   # HABILITAR BÚSQUEDA LOCAL CON LUNR
   offlineSearch = true
