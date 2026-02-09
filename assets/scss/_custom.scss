@@ -1,0 +1,7 @@
+// OCULTAR NIVELES 3+ EN EL TOC
+.td-toc {
+  // OCULTA ### Y NIVELES INFERIORES
+  ul ul ul {
+    display: none !important;
+  }
+}
