@@ -15,7 +15,7 @@ gbpublisher is an open-source platform specifically designed for academic editor
 This documentation not only explains how to use gbpublisher, but guides you through the fundamentals of modern academic publishing, international standards, and editorial best practices.
 {{% /blocks/lead %}}
 
-{{% blocks/section color="dark" type="row" %}}
+{{% blocks/section color="white" type="row" %}}
 {{% blocks/feature icon="fa-lightbulb" title="Conceptual Framework" url="docs/level-1-framework/" %}}
 Understand what it means to publish scientifically in today's context, why structured editorial workflows are essential, and why XML-JATS has become the international standard for academic publications.
 {{% /blocks/feature %}}

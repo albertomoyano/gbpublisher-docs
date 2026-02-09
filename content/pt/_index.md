@@ -14,7 +14,7 @@ gbpublisher é uma plataforma de código aberto projetada especificamente para e
 Esta documentação não apenas explica como usar o gbpublisher, mas guia você pelos fundamentos da publicação acadêmica moderna, padrões internacionais e melhores práticas editoriais.
 {{% /blocks/lead %}}
 
-{{% blocks/section color="dark" type="row" %}}
+{{% blocks/section color="white" type="row" %}}
 {{% blocks/feature icon="fa-lightbulb" title="Marco Conceitual" url="docs/nivel-1-quadro/" %}}
 Compreenda o que significa publicar cientificamente no contexto atual, por que os fluxos editoriais estruturados são essenciais e por que o XML-JATS se tornou o padrão internacional para publicações acadêmicas.
 {{% /blocks/feature %}}
