@@ -7,7 +7,7 @@ description: >
 
 ## 1. Introducción: La revista científica como artefacto epistémico
 
-La pregunta por la estructura interna de las revistas científicas —por qué algunas incluyen secciones de "Dossier" mientras otras no, por qué las humanidades resisten la estandarización IMRyD, por qué las revistas latinoamericanas organizan sus contenidos de manera diferente a las anglosajonas— no es meramente una cuestión de formato editorial. Es, fundamentalmente, una pregunta sobre **cómo se produce, valida y circula el conocimiento** en diferentes comunidades epistémicas, tradiciones académicas y geografías del saber.
+La pregunta por la estructura interna de las revistas científicas —por qué algunas incluyen secciones de *Dossier* mientras otras no, por qué las humanidades resisten la estandarización IMRyD, por qué las revistas latinoamericanas organizan sus contenidos de manera diferente a las anglosajonas— no es meramente una cuestión de formato editorial. Es, fundamentalmente, una pregunta sobre **cómo se produce, valida y circula el conocimiento** en diferentes comunidades epistémicas, tradiciones académicas y geografías del saber.
 
 Este artículo sostiene que las divisiones internas de las revistas científicas no son arbitrarias ni resultado de preferencias estéticas, sino que constituyen **inscripciones materiales de prácticas de validación del conocimiento**. La estructura editorial de una revista —qué secciones incluye, cómo las nombra, qué jerarquía establece entre ellas— revela:
 
@@ -20,7 +20,7 @@ Este artículo sostiene que las divisiones internas de las revistas científicas
 La creciente presión de las bases de datos internacionales (Web of Science, Scopus) ha generado una **narrativa hegemónica** que presenta como "natural" o "universal" una estructura editorial particular: la revista anglosajona de ciencias experimentales, organizada en torno a artículos de investigación con estructura IMRyD (Introducción, Métodos, Resultados, Discusión), complementada por revisiones bibliográficas y, ocasionalmente, correspondencia o comentarios breves.
 
 Este modelo se ha convertido en **criterio normativo** en muchas evaluaciones de calidad editorial, penalizando implícitamente a revistas que:
-- Incluyen secciones de "Dossier" o "Monográfico" (tradición latinoamericana y europea continental)
+- Incluyen secciones de *Dossier* o "Monográfico" (tradición latinoamericana y europea continental)
 - Publican ensayos sin subdivisión metodológica explícita (humanidades)
 - Dedican espacio a documentos, testimonios o fuentes primarias (historia, sociología)
 - Incorporan secciones de debate, réplicas o controversias (tradición francesa y alemana)
@@ -37,24 +37,24 @@ La estructura editorial de una revista no es un mero **contenedor neutral** de c
 
 3. **Configura comunidades de lectura**: Las secciones funcionan como **señales de relevancia** para diferentes audiencias. Un editor de políticas públicas puede leer solo los "Policy Briefs"; un estudiante doctoral busca principalmente "Research Articles"; un investigador senior se interesa por "Review Essays" o "Debates". La estructura editorial fragmenta o integra comunidades académicas.
 
-4. **Distribuye autoridad epistémica**: Quién puede escribir en cada sección —y bajo qué condiciones— define **quién tiene voz autorizada**. Las "Editoriales" suelen estar reservadas a editores jefes o invitados prestigiosos; los "Letters" permiten participación más amplia; los "Dossiers" coordinados distribuyen la autoría entre redes de colaboradores. La estructura es, así, un mapa de poder académico.
+4. **Distribuye autoridad epistémica**: Quién puede escribir en cada sección —y bajo qué condiciones— define **quién tiene voz autorizada**. Las "Editoriales" suelen estar reservadas a editores jefes o invitados prestigiosos; los "Letters" permiten participación más amplia; los *Dossier* coordinados distribuyen la autoría entre redes de colaboradores. La estructura es, así, un mapa de poder académico.
 
-### El caso del "dossier": síntoma de una tensión global
+### El caso del *dossier*: síntoma de una tensión global
 
-El **dossier** —esa sección que agrupa artículos temáticamente vinculados, coordinados por un editor invitado, y que estructura números completos o partes sustanciales de revistas latinoamericanas y europeas continentales— es paradigmático de esta tensión. Para las bases de datos anglosajonas, el dossier resulta problemático:
+El *dossier* —esa sección que agrupa artículos temáticamente vinculados, coordinados por un editor invitado, y que estructura números completos o partes sustanciales de revistas latinoamericanas y europeas continentales— es paradigmático de esta tensión. Para las bases de datos anglosajonas, el *dossier* resulta problemático:
 
 - No es una "sección" en el sentido de categoría estable (como "Articles" o "Reviews"), sino una **unidad temática variable**
 - Su coordinación por editores invitados desafía la autoridad del comité editorial permanente
 - Su lógica de **red intelectual** (construcción colectiva de un problema de investigación) contrasta con el modelo de "contribuciones discretas" agregadas azarosamente en un número
 
-Sin embargo, para las comunidades académicas que lo utilizan, el dossier cumple funciones epistémicas específicas:
+Sin embargo, para las comunidades académicas que lo utilizan, el *dossier* cumple funciones epistémicas específicas:
 
 1. **Construcción de agendas de investigación** locales o regionales, no dictadas por journals del Norte Global
 2. **Visibilización de debates colectivos** y posicionamientos teóricos compartidos (frente al individualismo del "single-author paper")
 3. **Legitimación de temas emergentes** que aún no tienen espacio en revistas internacionales establecidas
-4. **Creación de comunidades transnacionales** en geografías periféricas (coordinadores de Brasil, Argentina y México pueden articular un dossier sobre teorías críticas latinoamericanas)
+4. **Creación de comunidades transnacionales** en geografías periféricas (coordinadores de Brasil, Argentina y México pueden articular un *dossier* sobre teorías críticas latinoamericanas)
 
-Lejos de ser una "peculiaridad" o "retraso" respecto al modelo anglosajón, el dossier representa una **estrategia alternativa de organización del conocimiento**, igualmente válida y funcional a diferentes objetivos académicos.
+Lejos de ser una "peculiaridad" o "retraso" respecto al modelo anglosajón, el *dossier* representa una **estrategia alternativa de organización del conocimiento**, igualmente válida y funcional a diferentes objetivos académicos.
 
 ### Estructura del artículo
 
@@ -64,7 +64,7 @@ Para demostrar esta tesis, el artículo se organiza en cinco secciones:
 Reconstruye el desarrollo temporal de las estructuras editoriales, desde los orígenes indiferenciados del *Journal des Sçavans* (1665) hasta la consolidación del modelo IMRyD en biomedicina (post-1945). Muestra que la estructura "estándar" actual es un producto histórico reciente, no una propiedad esencial de la comunicación científica.
 
 **Sección 3: Geografías editoriales divergentes**
-Analiza cómo diferentes tradiciones académicas nacionales/regionales desarrollaron modelos editoriales distintivos: el énfasis anglosajón en "contribuciones discretas", la tradición europea continental de números temáticos y debates explícitos, el modelo latinoamericano del dossier como red intelectual, y las hibridaciones en Asia, África y Medio Oriente.
+Analiza cómo diferentes tradiciones académicas nacionales/regionales desarrollaron modelos editoriales distintivos: el énfasis anglosajón en "contribuciones discretas", la tradición europea continental de números temáticos y debates explícitos, el modelo latinoamericano del *dossier* como red intelectual, y las hibridaciones en Asia, África y Medio Oriente.
 
 **Sección 4: Epistemologías disciplinarias**
 Examina cómo las diferencias entre campos del conocimiento (ciencias experimentales, ciencias sociales, humanidades, profesiones aplicadas) generan requisitos estructurales divergentes: datos vs. interpretación, replicabilidad vs. reflexividad, métodos explícitos vs. argumentación narrativa.
@@ -438,7 +438,7 @@ Las revistas científicas en Estados Unidos, Reino Unido, Canadá, Australia y N
 - Función informativa: alertar sobre novedades bibliográficas
 - **No se consideran "producción académica" con mismo peso que artículos originales**
 
-**4. Ausencia de "Dossier" o "Monográfico"**
+**4. Ausencia de *Dossier* o "Monográfico"**
 - Cuando hay números temáticos, se denominan "Special Issues" o "Thematic Collections"
 - Son excepcionales, no parte de la estructura editorial regular
 - Se publican como suplementos o fascículos separados del volumen regular
@@ -667,7 +667,7 @@ España ocupa una posición intermedia, con influencias de tradiciones europeas 
 
 **Características híbridas:**
 - Adopción del término "monográfico" (no "número especial")
-- Secciones de "Dossier" (influencia francesa y latinoamericana)
+- Secciones de *Dossier* (influencia francesa y latinoamericana)
 - Pero también estructura de "Research Articles" (influencia anglosajona)
 
 **Ejemplo: Revista de Occidente (fundada 1923, refundada 1963)**
@@ -721,22 +721,22 @@ Esta estabilidad financiera permite:
 1. **Construcción de agendas colectivas**: Los números monográficos permiten definir qué temas son relevantes, no solo responder a tendencias anglosajonas
 2. **Espacio para debates maduros**: Las secciones extensas de controversia facilitan desarrollo teórico profundo
 3. **Integración interdisciplinaria**: La lógica temática (no disciplinaria rígida) favorece colaboración entre campos
-4. **Reconocimiento de actividad editorial**: Coordinar un dossier o número monográfico tiene valor curricular, no solo escribir artículos
+4. **Reconocimiento de actividad editorial**: Coordinar un *dossier* o número monográfico tiene valor curricular, no solo escribir artículos
 
 #### Limitaciones del modelo europeo continental
 
 1. **Rigidez temporal**: Números monográficos requieren coordinación extensa, ralentizando publicación
-2. **Exclusión**: Si un tema no calza en ningún dossier planificado, su publicación se posterga
+2. **Exclusión**: Si un tema no calza en ningún *dossier* planificado, su publicación se posterga
 3. **Concentración de poder**: El editor invitado del monográfico tiene gran control sobre qué voces incluir
 4. **Dificultad para métricas**: ¿Cómo medir impacto de un artículo que es parte de un conjunto temático?
 
-### 3.3. América Latina: El dossier como red intelectual y soberanía temática
+### 3.3. América Latina: El *dossier* como red intelectual y soberanía temática
 
-#### El concepto de "dossier" en contexto latinoamericano
+#### El concepto de *dossier* en contexto latinoamericano
 
-En América Latina, el **dossier** no es solo una sección o un número monográfico, sino un **dispositivo de construcción de redes intelectuales transnacionales** en geografías periféricas del sistema académico global. Su función va más allá de la organización temática: es una herramienta de **soberanía epistémica**.
+En América Latina, el *dossier* no es solo una sección o un número monográfico, sino un **dispositivo de construcción de redes intelectuales transnacionales** en geografías periféricas del sistema académico global. Su función va más allá de la organización temática: es una herramienta de **soberanía epistémica**.
 
-**Características distintivas del dossier latinoamericano:**
+**Características distintivas del *dossier* latinoamericano:**
 
 1. **Coordinación por redes de investigación regionales**
    - No solo editores individuales, sino colectivos de múltiples países
@@ -745,14 +745,14 @@ En América Latina, el **dossier** no es solo una sección o un número monográ
 2. **Función de agenda-setting regional**
    - Definir qué temas son relevantes para América Latina
    - Resistencia a la dependencia temática respecto a journals del Norte Global
-   - Ejemplo: mientras revistas anglosajonas discutían "rational choice theory", dossiers latinoamericanos abordaban "movimientos sociales y democracia"
+   - Ejemplo: mientras revistas anglosajonas discutían "rational choice theory", *dossier* latinoamericanos abordaban "movimientos sociales y democracia"
 
 3. **Construcción de comunidades transnacionales**
-   - Autores de 3-5 países diferentes en un mismo dossier
+   - Autores de 3-5 países diferentes en un mismo *dossier*
    - Función: hacer visible la existencia de debates regionales, no solo nacionales aislados
 
 4. **Multilingüismo estratégico**
-   - Dossiers que incluyen artículos en español, portugués e inglés en el mismo número
+   - *Dossier* que incluyen artículos en español, portugués e inglés en el mismo número
    - Reconocimiento de que la integración regional no requiere anglofización
 
 #### Historia del modelo: de la revista-proyecto a la revista-red
@@ -776,24 +776,24 @@ Las primeras revistas latinoamericanas surgieron ligadas a proyectos de transfor
 Durante las dictaduras militares, las revistas cumplieron funciones de resistencia intelectual:
 
 **Revista Latinoamericana de Ciencias Sociales (CLACSO, diversos países)**
-- Estructura explícita de dossiers coordinados transnacionalmente
+- Estructura explícita de *dossier* coordinados transnacionalmente
 - Temas: Estado autoritario, movimientos de derechos humanos, transiciones democráticas
 - Función: mantener redes intelectuales fragmentadas por exilios
 
 **Desarrollo Económico (Argentina, 1961)**
 - Vinculada al Instituto de Desarrollo Económico y Social (IDES)
-- Estructura: artículos, dossiers temáticos, debates
+- Estructura: artículos, *dossier* temáticos, debates
 - Innovación: sección de "Notas y comentarios" para reflexiones cortas sobre coyuntura
 
-**Tercera generación (1990-presente): Dossier en la era digital**
+**Tercera generación (1990-presente): *Dossier* en la era digital**
 
-Con la consolidación de SciELO (1998) y Redalyc (2003), el modelo del dossier se institucionalizó digitalmente:
+Con la consolidación de SciELO (1998) y Redalyc (2003), el modelo del *dossier* se institucionalizó digitalmente:
 
 **Características contemporáneas:**
-- Dossiers coordinados con años de anticipación
+- *Dossier* coordinados con años de anticipación
 - Versiones multilingües simultáneas
 - DOI individual para cada artículo, pero agrupación temática visible
-- Metadatos que marcan pertenencia al dossier (no solo al volumen/número)
+- Metadatos que marcan pertenencia al *dossier* (no solo al volumen/número)
 
 #### Ejemplos paradigmáticos
 
@@ -814,25 +814,25 @@ Cada número incluye:
 ```
 
 **Innovación estructural:**
-- El dossier tiene su propia "Presentación" (texto del coordinador que funciona como marco teórico del conjunto)
+- El *dossier* tiene su propia "Presentación" (texto del coordinador que funciona como marco teórico del conjunto)
 - Esta presentación se cita independientemente como contribución académica
-- Los artículos del dossier dialogan explícitamente entre sí (se citan mutuamente, responden a preguntas comunes)
+- Los artículos del *dossier* dialogan explícitamente entre sí (se citan mutuamente, responden a preguntas comunes)
 
 **Revista Colombiana de Sociología (Universidad Nacional de Colombia)**
 
 Estructura característica:
 
-- **Dossier central**: 60-70% del número
+- ***Dossier* central**: 60-70% del número
   - Coordinado por investigadores de 2-3 países
   - Incluye traducción de 1-2 artículos "clásicos" o contemporáneos relevantes al tema
   - Entrevista a referente del campo
 
-- **Artículos**: contribuciones fuera del tema del dossier
+- **Artículos**: contribuciones fuera del tema del *dossier*
 - **Debates**: intercambios sobre artículos previos o controversias teóricas
-- **Reseñas temáticas**: reseñas de varios libros sobre el tema del dossier (no reseñas individuales dispersas)
+- **Reseñas temáticas**: reseñas de varios libros sobre el tema del *dossier* (no reseñas individuales dispersas)
 
 **Función del modelo:**
-- El dossier no solo agrupa artículos, sino que **construye un estado del arte** sobre un problema
+- El *dossier* no solo agrupa artículos, sino que **construye un estado del arte** sobre un problema
 - La inclusión de traducciones reconoce la importancia de diálogo con tradiciones no hispanohablantes
 - La entrevista aporta testimonio de primera mano sobre desarrollo del campo
 
@@ -859,10 +859,10 @@ América Latina enfrentó históricamente:
 - Fragmentación lingüística (español/portugués)
 - Recursos limitados que dificultan viajes y encuentros presenciales frecuentes
 
-El dossier surgió como **tecnología de integración**:
-- Coordinar un dossier crea excusa institucional para encuentros (seminarios previos, workshops)
+El *dossier* surgió como **tecnología de integración**:
+- Coordinar un *dossier* crea excusa institucional para encuentros (seminarios previos, workshops)
 - Publicar juntos genera compromiso de lectura mutua entre comunidades que de otro modo no dialogarían
-- El coordinador del dossier funciona como "broker" entre redes nacionales
+- El coordinador del *dossier* funciona como "broker" entre redes nacionales
 
 **B) Resistencia a la dependencia académica**
 
@@ -872,9 +872,9 @@ La sociología latinoamericana (especialmente desde los años 1960-70) desarroll
 - Pablo González Casanova (México): "colonialismo interno" también en producción de conocimiento
 - Aníbal Quijano (Perú): "colonialidad del saber"
 
-El dossier operó como herramienta de **autonomía temática**:
+El *dossier* operó como herramienta de **autonomía temática**:
 - Definir problemas desde experiencias latinoamericanas, no como aplicación de teorías metropolitanas
-- Ejemplo: Dossier sobre "Movimientos indígenas y Estado plurinacional" (tema irrelevante en sociología anglosajona, central en Andes)
+- Ejemplo: *Dossier* sobre "Movimientos indígenas y Estado plurinacional" (tema irrelevante en sociología anglosajona, central en Andes)
 
 **C) Tradición de trabajo colectivo**
 
@@ -885,45 +885,45 @@ La investigación latinoamericana se organizó históricamente en torno a:
 
 Esta tradición favoreció estructuras editoriales que reconocen **autoría colectiva** y **procesos de discusión previos a la publicación**.
 
-#### El dossier como estrategia de visibilización internacional
+#### El *dossier* como estrategia de visibilización internacional
 
-Paradójicamente, el dossier también funciona como **estrategia de inserción** en circuitos globales:
+Paradójicamente, el *dossier* también funciona como **estrategia de inserción** en circuitos globales:
 
 1. **Densidad temática atrae atención externa**
    - Un número con 6-8 artículos sobre un tema facilita que investigadores foráneos lo citen en conjunto
    - Genera "paquetes de conocimiento" que compiten mejor que artículos dispersos
 
 2. **Coordinación internacional aumenta prestigio**
-   - Dossiers co-coordinados por investigadores latinoamericanos y europeos/estadounidenses
+   - Dossier* co-coordinados por investigadores latinoamericanos y europeos/estadounidenses
    - Función: legitimación mutua (el coordinador del Norte presta prestigio, el del Sur aporta conocimiento local)
 
 3. **Traducción facilitada**
-   - Más eficiente traducir un dossier completo que artículos sueltos
-   - Ejemplo: dossiers de revistas brasileñas se traducen al español para circular en resto de América Latina
+   - Más eficiente traducir un *dossier* completo que artículos sueltos
+   - Ejemplo: *dossier* de revistas brasileñas se traducen al español para circular en resto de América Latina
 
 #### Tensiones y debates contemporáneos
 
-**¿El dossier es compatible con publicación continua?**
+**¿El *dossier* es compatible con publicación continua?**
 
-Las plataformas digitales permiten "publicación anticipada" (ahead of print) de artículos individuales. Esto entra en tensión con la lógica del dossier:
+Las plataformas digitales permiten "publicación anticipada" (ahead of print) de artículos individuales. Esto entra en tensión con la lógica del *dossier*:
 
-- Si los artículos se publican online conforme son aceptados, ¿qué significa "pertenecer al dossier"?
-- ¿El dossier es solo una categoría retrospectiva (metadato) o una experiencia de lectura secuencial?
+- Si los artículos se publican online conforme son aceptados, ¿qué significa "pertenecer al *dossier*"?
+- ¿El *dossier* es solo una categoría retrospectiva (metadato) o una experiencia de lectura secuencial?
 
 **Debate actual en América Latina:**
-- Revistas como *Dados* publican artículos en flujo continuo (perdiendo unidad del dossier)
+- Revistas como *Dados* publican artículos en flujo continuo (perdiendo unidad del *dossier*)
 - Otras como *Íconos* (FLACSO Ecuador) mantienen números completos, retrasando publicación
 
-**¿El dossier reproduce jerarquías?**
+**¿El *dossier* reproduce jerarquías?**
 
-Críticas recientes señalan que el coordinador del dossier tiene **poder desproporcionado**:
+Críticas recientes señalan que el coordinador del *dossier* tiene **poder desproporcionado**:
 - Decide qué voces incluir (puede reproducir redes de élite)
-- Rechaza artículos sin peer review externo (solo por "no calzar con el dossier")
-- Concentra capital simbólico (coordinar dossier vale más que escribir un artículo)
+- Rechaza artículos sin peer review externo (solo por "no calzar con el *dossier*")
+- Concentra capital simbólico (coordinar *dossier* vale más que escribir un artículo)
 
 **Propuestas de reforma:**
 - Peer review doble: del coordinador + evaluadores externos
-- Dossiers "abiertos" donde se invita a contribuir pero se aceptan artículos no solicitados si son pertinentes
+- *Dossier* "abiertos" donde se invita a contribuir pero se aceptan artículos no solicitados si son pertinentes
 - Transparencia sobre proceso de selección de coordinadores
 
 ### 3.4. Asia, África y Medio Oriente: Hibridaciones y resistencias
@@ -1121,7 +1121,7 @@ Este recorrido por tradiciones regionales revela que la estructura editorial de 
 |-----------|-------------------|------------------------|----------------|
 | **Anglosajona** | Contribuciones discretas agregadas | Conocimiento como acumulación de hallazgos individuales verificables | Mercado competitivo de ideas |
 | **Europa Continental** | Números temáticos y debates explícitos | Conocimiento como construcción colectiva dialógica | Construcción de escuelas de pensamiento |
-| **Latinoamericana** | Dossier como red intelectual | Conocimiento como agenda regional frente a dependencia | Soberanía epistémica y integración transnacional |
+| **Latinoamericana** | *Dossier* como red intelectual | Conocimiento como agenda regional frente a dependencia | Soberanía epistémica y integración transnacional |
 | **Asiática** | Dual (nacional en idioma local + internacional en inglés) | Conocimiento como negociación entre tradición local y ciencia global | Preservación cultural + inserción global |
 | **Africana** | Adopción adaptativa de modelos externos + reivindicación de perspectivas propias | Conocimiento como recuperación de agencia en contexto poscolonial | Descolonización epistémica |
 
@@ -1472,15 +1472,15 @@ Esta estructura reconoce que:
 - Las etnografías muestran **cómo** y **por qué** ocurre (mechanisms)
 - Ninguno es suficiente solo
 
-#### Ciencias sociales y el problema del "dossier"
+#### Ciencias sociales y el problema del *dossier*
 
-Las revistas latinoamericanas y europeas de ciencias sociales usan frecuentemente dossiers porque:
+Las revistas latinoamericanas y europeas de ciencias sociales usan frecuentemente *dossier* porque:
 
 1. **Construcción teórica es colectiva**: Un problema teórico requiere múltiples ángulos
 2. **Casos comparativos**: Varios artículos sobre diferentes países/regiones iluminan un fenómeno general
 3. **Debates paradigmáticos**: Enfrentar positivismo vs. interpretativismo requiere espacio dialógico
 
-**Ejemplo: Dossier sobre "Populismo en América Latina"**
+**Ejemplo: *Dossier* sobre "Populismo en América Latina"**
 
 Un número típico podría incluir:
 - Artículo 1: Análisis cuantitativo de votantes populistas (métodos estadísticos)
@@ -1933,7 +1933,7 @@ Para ser indexadas en WoS o Scopus, las revistas deben cumplir **criterios forma
 4. **Peer review documentado**
    - Descripción explícita del proceso de revisión
    - Preferencia por double-blind o single-blind
-   - Implicación: Desfavorece modelos de "coordinador de dossier" donde selección es menos transparente
+   - Implicación: Desfavorece modelos de "coordinador de *dossier*" donde selección es menos transparente
 
 5. **Contenido "original research" predominante**
    - Al menos 50% del contenido debe ser "research articles"
@@ -1946,7 +1946,7 @@ Para ser indexadas en WoS o Scopus, las revistas deben cumplir **criterios forma
 **Lo que estos criterios excluyen o penalizan:**
 
 - **Números monográficos**: Pueden causar irregularidad en periodicidad
-- **Dossiers coordinados**: Proceso de peer review menos estandarizado
+- ***Dossier* coordinados**: Proceso de peer review menos estandarizado
 - **Secciones de debate**: No cuentan como "research articles"
 - **Reseñas extensas**: Mismo problema
 - **Revistas nacionales**: Difícil obtener citación "internacional"
@@ -2066,11 +2066,11 @@ La transición de impreso a digital no solo replica lo anterior en formato elect
 - Invisibilidad del trabajo editorial (la selección algorítmica sustituye juicio editorial)
 - Crisis del "número monográfico" como formato
 
-**¿Qué pasa con los dossiers en modelo continuo?**
+**¿Qué pasa con los *dossier* en modelo continuo?**
 
 Algunas revistas intentan híbridos:
 
-**Modelo 1: Dossier como "colección virtual"**
+**Modelo 1: *Dossier* como "colección virtual"**
 - Los artículos se publican individualmente en fechas diferentes
 - Pero se agrupan bajo etiqueta común ("Collection: Climate Justice")
 - La página de la colección presenta los artículos como conjunto
@@ -2353,7 +2353,7 @@ Un artículo sobre "Black Hole Thermodynamics":
 **Modelo editorial promovido por SciELO:**
 
 SciELO no prescribe una estructura única, pero sus criterios de indexación **no penalizan**:
-- Números monográficos o dossiers
+- Números monográficos o *dossier*
 - Secciones de debate
 - Reseñas extensas
 - Artículos en idiomas distintos al inglés
@@ -2377,7 +2377,7 @@ SciELO proporciona a editores estadísticas de:
 
 Esto permite a editores evaluar "impacto" de maneras que van más allá de citación:
 - Un artículo sobre política educativa puede no ser citado académicamente pero descargado masivamente por docentes y funcionarios
-- Un dossier sobre movimientos sociales puede tener alto impacto en organizaciones comunitarias
+- Un *dossier* sobre movimientos sociales puede tener alto impacto en organizaciones comunitarias
 
 **Tensiones internas en SciELO:**
 
@@ -2419,7 +2419,7 @@ A medida que SciELO creció, enfrentó presiones:
 **Modelo editorial defendido por Redalyc:**
 
 Redalyc explícitamente valora:
-- **Dossiers como unidad editorial central**
+- ***Dossier* como unidad editorial central**
 - **Secciones extensas de reseñas bibliográficas**
 - **Debates y controversias** (no solo artículos "positivos")
 - **Documentos y fuentes** (edición de materiales primarios)
@@ -2463,10 +2463,10 @@ Una revista africana de economía podría:
 - Temas muy locales parecen "particulares", no "generales"
 - Incentiva investigación sobre temas ya legitimados internacionalmente
 
-**Modelo de dossier:**
-- Un dossier puede construir relevancia de un tema emergente mediante múltiples artículos
+**Modelo de *dossier*:**
+- Un *dossier* puede construir relevancia de un tema emergente mediante múltiples artículos
 - La acumulación genera "masa crítica" que legitima el tema
-- Ejemplo: Dossier sobre "Buen Vivir" (concepto andino) con 8 artículos
+- Ejemplo: *Dossier* sobre "Buen Vivir" (concepto andino) con 8 artículos
   → Construye un campo de estudios que no existía previamente
 
 **Tensión contemporánea:**
@@ -2476,7 +2476,7 @@ Investigadores latinoamericanos, africanos, asiáticos enfrentan dilema:
 - Publicar en journals regionales → relevancia social, construcción de comunidades locales
 
 Estructura editorial afecta esta elección:
-- Si journals regionales mantienen dossiers/debates → ofrecen valor distintivo
+- Si journals regionales mantienen *dossier*/debates → ofrecen valor distintivo
 - Si journals regionales solo imitan modelo anglosajón → no hay razón para preferirlos sobre journals del Norte
 
 ### 5.5. COVID-19 y la aceleración de transformaciones
@@ -2566,7 +2566,7 @@ Esta sección ha mostrado fuerzas contradictorias:
 **Escenario 1: Convergencia total**
 - Todas las revistas adoptan modelo anglosajón + publicación continua + inglés
 - Métricas bibliométricas dominan evaluación
-- Modelos alternativos (dossiers, multilingüismo) desaparecen
+- Modelos alternativos (*dossier*, multilingüismo) desaparecen
 - **Riesgo:** Empobrecimiento epistémico, pérdida de relevancia local
 
 **Escenario 2: Diferenciación funcional**
@@ -2614,7 +2614,7 @@ La estructura editorial también refleja cómo se organiza la producción acadé
 
 - El **modelo anglosajón** de "contribuciones discretas" refleja: universidades basadas en departamentos, financiamiento competitivo por proyectos, cultura de claim-staking individual
 - El **modelo europeo continental** de números monográficos refleja: tradición de academias estatales, escuelas de pensamiento institucionalizadas, financiamiento institucional estable
-- El **modelo latinoamericano** del dossier como red intelectual refleja: necesidad de integración transnacional, resistencia a dependencia temática, construcción de soberanía epistémica
+- El **modelo latinoamericano** del *dossier* como red intelectual refleja: necesidad de integración transnacional, resistencia a dependencia temática, construcción de soberanía epistémica
 - Los **modelos asiáticos, africanos y de Medio Oriente** muestran hibridaciones entre tradiciones locales y presiones globalizadoras, negociando entre preservación cultural e inserción internacional
 
 **3. Dinámicas de poder en el sistema académico global**
@@ -2642,7 +2642,7 @@ Proponemos pensar en términos de una **ecología de modelos editoriales**, dond
 Diferentes estructuras editoriales permiten diferentes tipos de contribuciones:
 
 - **Artículos IMRyD individuales** son óptimos para: comunicar resultados experimentales replicables, acumular evidencia sobre preguntas bien definidas, permitir publicación rápida
-- **Números monográficos/dossiers** son óptimos para: construir agendas de investigación emergentes, generar masa crítica sobre temas nuevos, articular comunidades transnacionales
+- **Números monográficos/*dossier*** son óptimos para: construir agendas de investigación emergentes, generar masa crítica sobre temas nuevos, articular comunidades transnacionales
 - **Debates extendidos** son óptimos para: madurar controversias teóricas, explicitar desacuerdos metodológicos, construir consensos o reconocer disensos legítimos
 - **Review Essays** son óptimos para: cartografiar campos, identificar tendencias, intervenir en debates usando bibliografía como evidencia
 - **Data Papers** son óptimos para: valorar trabajo de curación de datos, facilitar reutilización, evitar duplicación de esfuerzos
@@ -2662,8 +2662,8 @@ No existe "la revista científica ideal", sino **revistas adecuadas a contextos 
 → Ejemplo: *Critical Inquiry*, *Representations*
 
 **Contexto: Ciencias sociales latinoamericanas construyendo agendas regionales**
-→ Modelo apropiado: Dossiers coordinados transnacionalmente, multilingüismo, valoración de relevancia local
-→ Ejemplo: Revistas SciELO con dossiers temáticos
+→ Modelo apropiado: *Dossier* coordinados transnacionalmente, multilingüismo, valoración de relevancia local
+→ Ejemplo: Revistas SciELO con *dossier* temáticos
 
 **Contexto: Ciencia de datos con necesidad de reproducibilidad computacional**
 → Modelo apropiado: Notebooks computacionales, código ejecutable, datasets públicos
@@ -2699,7 +2699,7 @@ El modelo actual de evaluación bibliométrica **castiga la innovación estructu
 
 ¿La revista busca:
 - Difundir resultados de investigación original? → Priorizar research articles
-- Construir agendas de investigación? → Invertir en dossiers coordinados
+- Construir agendas de investigación? → Invertir en *dossier* coordinados
 - Generar debates teóricos? → Crear secciones de controversia
 - Apoyar práctica profesional? → Incluir case reports, guidelines
 - Múltiples funciones? → Estructura híbrida con secciones diferenciadas
@@ -2725,7 +2725,7 @@ No limitarse a research articles. Considerar:
 Si la revista sirve a comunidad nacional o regional:
 - Mantener multilingüismo (no anglofizar completamente)
 - Valorar relevancia local (no solo temas "universales")
-- Preservar dossiers si cumplen función de construcción de agendas
+- Preservar *dossier* si cumplen función de construcción de agendas
 
 Pero ser transparente sobre trade-offs:
 - "Esta revista prioriza relevancia para América Latina sobre indexación en WoS"
@@ -2737,17 +2737,17 @@ Pero ser transparente sobre trade-offs:
 
 El estándar JATS XML (Journal Article Tag Suite) asume modelo anglosajón:
 - Elementos como `<abstract>`, `<method>`, `<results>`, `<discussion>` presuponen IMRyD
-- No hay etiquetas estándar para "dossier", "debate", "review essay" como géneros distintivos
+- No hay etiquetas estándar para *dossier*, "debate", "review essay" como géneros distintivos
 
 **Propuesta:** Extender JATS con:
-- Elemento `<article-collection>` para dossiers (agrupando artículos relacionados)
-- Atributo `@collection-type` con valores: "dossier", "special-issue", "debate", "thematic-section"
-- Metadatos de coordinadores de dossier (no solo autores de artículos individuales)
+- Elemento `<article-collection>` para *dossier* (agrupando artículos relacionados)
+- Atributo `@collection-type` con valores: *dossier*, "special-issue", "debate", "thematic-section"
+- Metadatos de coordinadores de *dossier* (no solo autores de artículos individuales)
 - Relaciones entre artículos (respuesta, réplica, extensión)
 
 **Desafío 2: Preservación digital de estructuras complejas**
 
-¿Cómo preservar un dossier cuando artículos se publican en fechas diferentes?
+¿Cómo preservar un *dossier* cuando artículos se publican en fechas diferentes?
 - Repositorios deben capturar relaciones entre artículos, no solo archivos individuales
 - Necesidad de "compound objects" (objetos compuestos) en sistemas de preservación
 
@@ -2780,7 +2780,7 @@ Motores de búsqueda académica (Google Scholar, Dimensions) priorizan research 
 - Número de citas recibidas
 
 Esto **invisibiliza contribuciones valiosas**:
-- Coordinar un dossier (trabajo editorial complejo)
+- Coordinar un *dossier* (trabajo editorial complejo)
 - Escribir review essays (síntesis crítica de literatura)
 - Participar en debates (construcción dialógica de conocimiento)
 - Editar fuentes o documentos (disponibilizar materiales primarios)
@@ -2791,7 +2791,7 @@ Esto **invisibiliza contribuciones valiosas**:
 |---------------------|------------------|--------------|
 | Research article original | Producción de conocimiento nuevo | Peer review + citación |
 | Review article | Síntesis de campo | Impacto en orientar investigación futura |
-| Coordinación de dossier | Construcción de agenda | Calidad del conjunto temático |
+| Coordinación de *dossier* | Construcción de agenda | Calidad del conjunto temático |
 | Participación en debate | Maduración teórica | Influencia en consensos/disensos |
 | Data paper | Infraestructura para otros | Reutilización del dataset |
 | Registered Report | Rigor metodológico | Diseño del estudio |
@@ -2817,7 +2817,7 @@ Principios:
 
 **Estrategia 1: Portfolio diversificado**
 - Algunos artículos en journals internacionales de alto IF (legitimación profesional)
-- Otros en journals regionales con dossiers (construcción de comunidades, relevancia local)
+- Otros en journals regionales con *dossier* (construcción de comunidades, relevancia local)
 - Participación en debates, reseñas extensas (contribución intelectual más allá de "papers")
 
 **Estrategia 2: Aprovechar nuevos géneros**
@@ -2841,18 +2841,18 @@ Principios:
 
 **Limitaciones concretas:**
 
-1. **No hay manera estándar de marcar un "dossier"**
+1. **No hay manera estándar de marcar un *dossier***
    - Se puede etiquetar como "special issue", pero eso no captura:
      * Coordinación por editores invitados
      * Relaciones temáticas entre artículos
-     * Presentación del dossier como contribución colectiva
+     * Presentación del *dossier* como contribución colectiva
 
 2. **Debates y réplicas son invisibles**
    - Un artículo que responde a otro no tiene marcador estándar de esa relación
    - Lectores no pueden descubrir fácilmente "todos los artículos del debate sobre X"
 
 3. **Autoría colectiva se representa mal**
-   - Coordinador de dossier no es "autor" de los artículos, pero tampoco es solo "editor"
+   - Coordinador de *dossier* no es "autor" de los artículos, pero tampoco es solo "editor"
    - No hay campo para capturar este rol intermedio
 
 **Propuestas técnicas:**
@@ -2864,7 +2864,7 @@ Schema.org es vocabulario usado por motores de búsqueda para entender contenido
 - `Collection` (colección genérica)
 
 **Propuesta:** Agregar:
-- `DossierArticle` (artículo parte de dossier coordinado)
+- `DossierArticle` (artículo parte de *dossier* coordinado)
 - `DebateContribution` (artículo en controversia multi-artículo)
 - `ReviewEssay` (reseña bibliográfica extensa con argumento propio)
 - `DataPaper` (descripción de dataset)
@@ -2873,17 +2873,17 @@ Schema.org es vocabulario usado por motores de búsqueda para entender contenido
 **B) Desarrollar ontología de relaciones entre artículos**
 
 Inspirado en iniciativas como CiTO (Citation Typing Ontology), crear marcadores para:
-- `isPartOfDossier`: Este artículo es parte del dossier X
+- `isPartOfDossier`: Este artículo es parte del *dossier* X
 - `respondsTo`: Este artículo responde a artículo Y
 - `replicates`: Este artículo replica hallazgos de artículo Z
 - `extends`: Este artículo extiende resultados de artículo W
 
 **C) Identificadores persistentes para objetos compuestos**
 
-DOI se asigna a artículos individuales, pero dossiers completos también merecen identificador:
-- DOI para el dossier como unidad
+DOI se asigna a artículos individuales, pero *dossier* completos también merecen identificador:
+- DOI para el *dossier* como unidad
 - Metadatos que listan todos los artículos componentes
-- Posibilidad de citar el dossier completo (no solo artículos individuales)
+- Posibilidad de citar el *dossier* completo (no solo artículos individuales)
 
 #### Preservación digital de estructuras complejas
 
@@ -2891,17 +2891,17 @@ DOI se asigna a artículos individuales, pero dossiers completos también merece
 
 **Problema concreto:**
 
-Un dossier coordinado tiene:
+Un *dossier* coordinado tiene:
 - Artículo 1 (PDF + XML)
 - Artículo 2 (PDF + XML)
 - Artículo 3 (PDF + XML)
-- Presentación del dossier por coordinador (PDF + XML)
+- Presentación del *dossier* por coordinador (PDF + XML)
 - Página web que agrupa todos los anteriores
 
 Si se preservan solo los PDFs individuales, se pierde:
 - La relación temática entre artículos
 - La presentación del coordinador que contextualiza el conjunto
-- La experiencia de lectura del dossier como unidad
+- La experiencia de lectura del *dossier* como unidad
 
 **Propuesta:** Modelos de preservación basados en **compound objects**:
 
@@ -2943,9 +2943,9 @@ Esto preserva no solo archivos individuales, sino **la estructura que los relaci
    - Posibilidad de descargar número completo como PDF
    - Editorial que introduce el número
 
-2. **Hagan visibles los dossiers**
-   - Página de landing del dossier con presentación del coordinador
-   - Visualización de relaciones entre artículos del dossier
+2. **Hagan visibles los *dossier***
+   - Página de landing del *dossier* con presentación del coordinador
+   - Visualización de relaciones entre artículos del *dossier*
    - Posibilidad de leer secuencialmente o saltar entre artículos
 
 3. **Faciliten debates multi-artículo**
@@ -2969,7 +2969,7 @@ Los hallazgos de este artículo sugieren múltiples líneas de investigación pe
 
 **Metodología propuesta:**
 - Análisis de muestra estratificada de revistas por disciplina, región, idioma
-- Codificación de: presencia de dossiers, tipos de secciones, frecuencia de números monográficos
+- Codificación de: presencia de *dossier*, tipos de secciones, frecuencia de números monográficos
 - Análisis longitudinal: ¿Las revistas están convergiendo hacia modelo anglosajón o mantienen diversidad?
 
 **Hipótesis:** Convergencia en ciencias naturales, persistencia de diversidad en ciencias sociales/humanidades
@@ -3052,7 +3052,7 @@ Esto requiere:
 
 **A nivel de comunidades académicas:**
 - Legitimación de experimentación editorial
-- Valoración de trabajo editorial (coordinar dossiers, crear secciones de debate)
+- Valoración de trabajo editorial (coordinar *dossier*, crear secciones de debate)
 - Solidaridad entre comunidades centrales y periféricas
 
 La revista científica, como artefacto epistémico, debe seguir siendo un **espacio de innovación estructural**, no un formato congelado. Las transformaciones que hemos analizado —publicación continua, multimedialidad, versioning, nuevos géneros— muestran que la invención no se detuvo en el siglo XX. Pero para que esa innovación sirva a diversidad epistémica, y no solo a eficiencia administrativa o rentabilidad comercial, necesitamos **defensa política consciente** de la pluralidad de modelos.
