@@ -4,7 +4,7 @@ linkTitle: "Inicio"
 ---
 
 {{< blocks/cover title="gbpublisher" image_anchor="top" height="full" >}}
-<p class="display-6">JATS sin complicaciones</p>
+<p class="display-6">Un modelo de producción XML que simplemente funciona</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
