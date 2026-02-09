@@ -4,6 +4,11 @@ title = "gbpublisher - Documentación"
 languageCode = "es-ar"
 defaultContentLanguage = "es"
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 2
+
 # CONFIGURACIÓN DE OUTPUTS PARA BÚSQUEDA LOCAL
 # Hugo debe generar archivos JSON además de HTML para que Lunr pueda indexar el contenido
 [outputs]
