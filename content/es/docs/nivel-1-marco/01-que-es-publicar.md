@@ -85,17 +85,17 @@ Este trabajo combina:
 
 La pregunta central no es "¿cuál es la mejor estructura para una revista científica?" sino "¿qué funciones epistémicas y sociales cumplen las diferentes estructuras en sus contextos específicos?" La respuesta, como veremos, es: muchas y complejas.
 
-## 2. Genealogía histórica: De la correspondencia indiferenciada al artículo estandarizado (s. XVII-XX)
+## 2. Genealogía histórica: de la correspondencia indiferenciada al artículo estandarizado (s. XVII-XX)
 
 La estructura contemporánea de las revistas científicas —con sus secciones diferenciadas, formatos prescritos y jerarquías implícitas— no surgió de manera espontánea ni inevitable. Es el resultado de **procesos históricos contingentes** ligados a transformaciones en la organización institucional de la ciencia, luchas por la autoridad epistémica, y cambios tecnológicos en la producción y circulación del conocimiento. Esta sección reconstruye esa genealogía en cuatro momentos clave.
 
-### 2.1. Los orígenes indiferenciados (1665-1750): La revista como "miscelánea erudita"
+### 2.1. Los orígenes indiferenciados (1665-1750): la revista como "miscelánea erudita"
 
-#### El nacimiento simultáneo: Journal des Sçavans y Philosophical Transactions
+#### El nacimiento simultáneo: *Journal des Sçavans* y *Philosophical Transactions*
 
 El año 1665 marca el inicio de la publicación científica periódica con dos empresas casi simultáneas pero de naturaleza distinta:
 
-**Journal des Sçavans (Francia, enero 1665)**
+***Journal des Sçavans* (Francia, enero 1665)**
 Fundado por Denis de Sallo bajo el privilegio real, este semanario parisino se presentaba como una **gaceta universal del saber**. Su primer número (5 de enero de 1665) incluía, sin separación formal:
 
 1. Un catálogo de libros recién publicados en Europa
@@ -106,7 +106,7 @@ Fundado por Denis de Sallo bajo el privilegio real, este semanario parisino se p
 
 Esta heterogeneidad respondía a una **concepción pre-disciplinaria del conocimiento**: no existía distinción clara entre "ciencia", "humanidades", "jurisprudencia" o "noticias eruditas". El objetivo era informar a la "República de las Letras" sobre novedades en todos los campos del saber (Gross et al., 2002: 23-45).
 
-**Philosophical Transactions (Inglaterra, marzo 1665)**
+***Philosophical Transactions* (Inglaterra, marzo 1665)**
 La Royal Society of London inició sus *Philosophical Transactions* con una lógica diferente: publicar **correspondencia científica** entre sus miembros. El editor, Henry Oldenburg, actuaba como intermediario epistolar: recibía cartas de investigadores (Robert Boyle, Christiaan Huygens, Isaac Newton), las editaba, contextualizaba y compilaba en números mensuales.
 
 El primer número (6 de marzo de 1665) contenía:
@@ -145,7 +145,7 @@ Esta indiferenciación estructural refleja un momento histórico donde:
 - No existían disciplinas claramente delimitadas (la "filosofía natural" abarcaba desde astronomía hasta química)
 - La validación del conocimiento dependía del **testimonio presencial** (ser miembro de la Royal Society y haber "visto" el experimento) más que de procedimientos metodológicos estandarizados
 
-### 2.2. Institucionalización y especialización (1750-1850): El surgimiento de secciones temáticas
+### 2.2. Institucionalización y especialización (1750-1850): el surgimiento de secciones temáticas
 
 #### La transición hacia el registro formal (1752)
 
@@ -183,7 +183,7 @@ Ejemplos clave:
 
 Esta especialización generó **presión por estructurar contenidos**. Ya no era posible publicar indiscriminadamente sobre astronomía, química y botánica en la misma revista sin alguna organización temática.
 
-#### El caso paradigmático: Philosophical Transactions se divide (1887)
+#### El caso paradigmático: *Philosophical Transactions* se divide (1887)
 
 En 1887, las *Philosophical Transactions* enfrentaron una crisis: el conocimiento científico se había diversificado tanto que un mismo comité editorial no podía evaluar competentemente todos los campos. La solución fue **dividir la revista en dos series**:
 
@@ -408,13 +408,13 @@ La imposición del modelo anglosajón de ciencias experimentales como "estándar
 La siguiente sección explora cómo diferentes geografías académicas resistieron, adaptaron o hibridaron este modelo, generando la diversidad estructural contemporánea.
 
 
-## 3. Geografías editoriales divergentes: Tradiciones nacionales y modelos regionales
+## 3. Geografías editoriales divergentes: tradiciones nacionales y modelos regionales
 
 La estructura de las revistas científicas no es solo producto de evoluciones temporales, sino también de **tradiciones académicas nacionales y regionales** que desarrollaron modelos editoriales distintivos. Estas diferencias no son meramente formales, sino que reflejan distintas concepciones sobre cómo se organiza la producción de conocimiento, quién tiene autoridad epistémica, y cómo circula el saber en comunidades académicas situadas geopolíticamente.
 
 Esta sección analiza cuatro grandes tradiciones editoriales y sus modelos estructurales característicos: el mundo anglosajón, Europa continental, América Latina, y las regiones de Asia, África y Medio Oriente.
 
-### 3.1. Mundo anglosajón: El modelo de la "contribución discreta"
+### 3.1. Mundo anglosajón: el modelo de la "contribución discreta"
 
 #### Características estructurales dominantes
 
@@ -483,7 +483,7 @@ Esta cultura favorece estructuras editoriales que permiten **publicación rápid
 
 #### Ejemplos paradigmáticos
 
-**Science (AAAS, EEUU, fundada 1880)**
+***Science* (AAAS, EEUU, fundada 1880)**
 
 Estructura típica de un número:
 - Research Articles (4-6 artículos, temas diversos)
@@ -498,7 +498,7 @@ Estructura típica de un número:
 - La coherencia se logra mediante "Perspectives" que contextualizan artículos individuales
 - El prestigio se asocia a publicar UN artículo en Science, no a coordinar un número temático
 
-**American Historical Review (AHA, EEUU, fundada 1895)**
+***American Historical Review* (AHA, EEUU, fundada 1895)**
 
 Incluso en humanidades, el modelo anglosajón privilegia artículos discretos:
 
@@ -512,7 +512,7 @@ Estructura típica:
 - Cada artículo es evaluado por su mérito individual, no por su contribución a una discusión colectiva
 - Las reseñas no construyen ensayos bibliográficos extensos
 
-**Nature (Reino Unido, fundada 1869)**
+***Nature* (Reino Unido, fundada 1869)**
 
 Nature es paradigmático del modelo anglosajón por su estructura híbrida pero individualizada:
 
@@ -539,7 +539,7 @@ Contenidos típicos:
 3. **Dictadura de lo publicable**: La presión por publicar frecuentemente favorece resultados "seguros" sobre exploración de problemas complejos
 4. **Invisibilización de debates**: Las controversias se reducen a "correspondencia" breve, no hay espacio para debates extendidos
 
-### 3.2. Europa continental: Números temáticos y cultura de debate
+### 3.2. Europa continental: números temáticos y cultura de debate
 
 #### Tradiciones nacionales diversas pero convergentes
 
@@ -730,7 +730,7 @@ Esta estabilidad financiera permite:
 3. **Concentración de poder**: El editor invitado del monográfico tiene gran control sobre qué voces incluir
 4. **Dificultad para métricas**: ¿Cómo medir impacto de un artículo que es parte de un conjunto temático?
 
-### 3.3. América Latina: El *dossier* como red intelectual y soberanía temática
+### 3.3. América Latina: el *dossier* como red intelectual y soberanía temática
 
 #### El concepto de *dossier* en contexto latinoamericano
 
@@ -926,11 +926,11 @@ Críticas recientes señalan que el coordinador del *dossier* tiene **poder desp
 - *Dossier* "abiertos" donde se invita a contribuir pero se aceptan artículos no solicitados si son pertinentes
 - Transparencia sobre proceso de selección de coordinadores
 
-### 3.4. Asia, África y Medio Oriente: Hibridaciones y resistencias
+### 3.4. Asia, África y Medio Oriente: hibridaciones y resistencias
 
 Las revistas científicas en estas regiones muestran una **diversidad interna** mayor que en Occidente, con modelos que van desde adopción completa del formato anglosajón hasta hibridaciones originales que combinan tradiciones locales con estructuras globalizadas.
 
-#### Asia Oriental: Modelo dual según disciplina
+#### Asia Oriental: modelo dual según disciplina
 
 **China: *Xuebao* (学报) y la tradición de journal universitario**
 
@@ -1320,7 +1320,7 @@ Combate el sesgo de publicación (solo resultados "positivos" se publican). Si e
 
 Este formato reconoce que la ciencia no solo avanza con descubrimientos espectaculares, sino también con resultados que refutan hipótesis o muestran que efectos esperados no existen.
 
-#### Tabla comparativa: Variantes del modelo experimental
+#### Tabla comparativa: variantes del modelo experimental
 
 | Disciplina | Estructura distintiva | Función epistémica | Ejemplo de revista |
 |------------|----------------------|-------------------|-------------------|
@@ -1609,7 +1609,7 @@ Las revistas humanísticas no solo publican "artículos de investigación" sino 
 - Función: Democratizar acceso a tradiciones intelectuales no anglófonas/hispanófonas
 - Ejemplo: Traducción de ensayo de Benjamin al español con estudio introductorio
 
-#### Caso de estudio: American Historical Review
+#### Caso de estudio: *American Historical Review*
 
 **Estructura típica de un número:**
 
@@ -1857,7 +1857,7 @@ Esta estructura reconoce que:
 - La **reflexión** sobre experiencia es método válido de aprendizaje
 - Las **emociones** del profesional son datos relevantes, no ruido a eliminar
 
-#### Tabla comparativa: Profesiones aplicadas
+#### Tabla comparativa: profesiones aplicadas
 
 | Profesión | Géneros distintivos | Epistemología | Balance investigación/práctica |
 |-----------|-------------------|---------------|-------------------------------|
@@ -2249,7 +2249,7 @@ Tradicionalmente, datasets solo se compartían como "supplementary material" de 
 | **Genómica** | *BMC Research Notes*, *F1000Research* | Datasets masivos (secuencias genómicas) |
 | **Ciencias sociales** | Menos común, resistencia | Preocupaciones éticas (privacidad de participantes) |
 
-#### Registered Reports: Peer review antes de resultados
+#### Registered Reports: peer review antes de resultados
 
 **Innovación radical:** Invertir el proceso de peer review.
 
@@ -2339,7 +2339,7 @@ Un artículo sobre "Black Hole Thermodynamics":
 
 ### 5.4. Resistencias periféricas: SciELO, Redalyc y soberanía temática
 
-#### SciELO: Infraestructura alternativa desde el Sur Global
+#### SciELO: infraestructura alternativa desde el Sur Global
 
 **SciELO (Scientific Electronic Library Online)** es una iniciativa brasileña (1998) que se expandió a 16 países latinoamericanos, España, Portugal y Sudáfrica.
 
@@ -2398,7 +2398,7 @@ A medida que SciELO creció, enfrentó presiones:
 
 **Debate actual:** ¿SciELO debe resistir convergencia con modelos anglosajones o adaptarse para "competir" globalmente?
 
-#### Redalyc: Defensa del multilingüismo y acceso abierto sin APC
+#### Redalyc: defensa del multilingüismo y acceso abierto sin APC
 
 **Redalyc (Red de Revistas Científicas de América Latina y el Caribe)** es una iniciativa mexicana (2003) con énfasis aún mayor en autonomía regional.
 
@@ -2693,7 +2693,7 @@ El modelo actual de evaluación bibliométrica **castiga la innovación estructu
 
 ### 6.3. Implicaciones prácticas para diferentes actores
 
-#### Para editores de revistas
+#### Para editores científicos
 
 **Recomendación 1: Definir explícitamente la función epistémica de la revista**
 
