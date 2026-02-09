@@ -85,16 +85,6 @@ Este trabajo combina:
 
 La pregunta central no es "¿cuál es la mejor estructura para una revista científica?" sino "¿qué funciones epistémicas y sociales cumplen las diferentes estructuras en sus contextos específicos?" La respuesta, como veremos, es: muchas y complejas.
 
----
-
-## Referencias preliminares
-
-- Bazerman, Charles (1988). *Shaping Written Knowledge: The Genre and Activity of the Experimental Article in Science*. Madison: University of Wisconsin Press.
-- Becher, Tony & Trowler, Paul (2001). *Academic Tribes and Territories: Intellectual Enquiry and the Culture of Disciplines*. Buckingham: Open University Press.
-- Csiszar, Alex (2018). *The Scientific Journal: Authorship and the Politics of Knowledge in the Nineteenth Century*. Chicago: University of Chicago Press.
-- Fyfe, Aileen & Moxham, Noah (eds.) (2021). *Making Scientific Societies Work: Science, Knowledge and Authority in the 19th Century*. London: UCL Press.
-- Guédon, Jean-Claude (2001). *In Oldenburg's Long Shadow: Librarians, Research Scientists, Publishers, and the Control of Scientific Publishing*. Washington: Association of Research Libraries.
-
 ## 2. Genealogía histórica: De la correspondencia indiferenciada al artículo estandarizado (s. XVII-XX)
 
 La estructura contemporánea de las revistas científicas —con sus secciones diferenciadas, formatos prescritos y jerarquías implícitas— no surgió de manera espontánea ni inevitable. Es el resultado de **procesos históricos contingentes** ligados a transformaciones en la organización institucional de la ciencia, luchas por la autoridad epistémica, y cambios tecnológicos en la producción y circulación del conocimiento. Esta sección reconstruye esa genealogía en cuatro momentos clave.
@@ -416,18 +406,6 @@ La imposición del modelo anglosajón de ciencias experimentales como "estándar
 - Flujos financieros que favorecen revistas que adoptan el modelo internacional
 
 La siguiente sección explora cómo diferentes geografías académicas resistieron, adaptaron o hibridaron este modelo, generando la diversidad estructural contemporánea.
-
----
-
-## Referencias de esta sección
-
-- Bazerman, Charles (1988). *Shaping Written Knowledge: The Genre and Activity of the Experimental Article in Science*. Madison: University of Wisconsin Press.
-- Csiszar, Alex (2018). *The Scientific Journal: Authorship and the Politics of Knowledge in the Nineteenth Century*. Chicago: University of Chicago Press.
-- Fyfe, Aileen & Moxham, Noah (eds.) (2021). *Making Scientific Societies Work: Science, Knowledge and Authority in the 19th Century*. London: UCL Press.
-- Gross, Alan G., Harmon, Joseph E. & Reidy, Michael S. (2002). *Communicating Science: The Scientific Article from the 17th Century to the Present*. Oxford: Oxford University Press.
-- Medawar, Peter B. (1963). "Is the scientific paper a fraud?" *The Listener* 70: 377-378.
-- Myers, Greg (1990). *Writing Biology: Texts in the Social Construction of Scientific Knowledge*. Madison: University of Wisconsin Press.
-- Sollaci, Luciana B. & Pereira, Maurício G. (2004). "The introduction, methods, results, and discussion (IMRAD) structure: a fifty-year survey". *Journal of the Medical Library Association* 92(3): 364-367.
 
 
 ## 3. Geografías editoriales divergentes: Tradiciones nacionales y modelos regionales
@@ -1148,19 +1126,6 @@ Este recorrido por tradiciones regionales revela que la estructura editorial de 
 | **Africana** | Adopción adaptativa de modelos externos + reivindicación de perspectivas propias | Conocimiento como recuperación de agencia en contexto poscolonial | Descolonización epistémica |
 
 La diversidad estructural no es un "problema" a homogeneizar, sino una **riqueza epistémica** que refleja la pluralidad de tradiciones intelectuales. La siguiente sección explora cómo las diferencias disciplinarias intersectan con estas geografías, generando una matriz compleja de modelos editoriales.
-
----
-
-## Referencias de esta sección
-
-- Beigel, Fernanda (2014). "Academic dependence and professionalism in the South: Perspectives from the periphery". *Minerva* 52(1): 1-32.
-- Beigel, Fernanda (coord.) (2013). *The Politics of Academic Autonomy in Latin America*. London: Ashgate.
-- Devés-Valdés, Eduardo (2007). *Redes intelectuales en América Latina: Hacia la constitución de una comunidad intelectual*. Santiago: Universidad de Santiago de Chile.
-- Gingras, Yves (2014). *Les dérives de l'évaluation de la recherche: Du bon usage de la bibliométrie*. Paris: Raisons d'agir.
-- Guédon, Jean-Claude (2001). *In Oldenburg's Long Shadow: Librarians, Research Scientists, Publishers, and the Control of Scientific Publishing*. Washington: Association of Research Libraries.
-- Maffie, James (2015). "Collaborative research, global and local knowledge: The case of indigenous knowledge in development". *Science, Technology, & Human Values* 40(5): 789-814.
-- Okeke-Uzodike, Obianuju E. & Gamede, Bhekisisa C. (2020). "Academic publishing in Africa: Challenges and opportunities". *South African Journal of Science* 116(5-6): 1-5.
-- Waast, Roland & Rossi, Pier Luigi (2010). "Scientific production in Arab countries". *Research Policy* 39(10): 1324-1332.
 
 
 ## 4. Epistemologías disciplinarias: cómo valida el conocimiento cada campo
@@ -1916,20 +1881,6 @@ Esta sección ha mostrado que las estructuras editoriales no son arbitrarias sin
 
 La siguiente sección explora cómo estas estructuras están siendo transformadas (o desafiadas) por innovaciones tecnológicas, cambios en sistemas de evaluación, y resistencias desde la periferia académica.
 
----
-
-## Referencias de esta sección
-
-- Bazerman, Charles (1988). *Shaping Written Knowledge: The Genre and Activity of the Experimental Article in Science*. Madison: University of Wisconsin Press.
-- Becher, Tony & Trowler, Paul (2001). *Academic Tribes and Territories: Intellectual Enquiry and the Culture of Disciplines*. Buckingham: Open University Press.
-- Belcher, Wendy Laura (2019). *Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success*. Chicago: University of Chicago Press.
-- Day, Robert A. & Gastel, Barbara (2016). *How to Write and Publish a Scientific Paper* (8th ed.). Santa Barbara: Greenwood.
-- Gross, Alan G., Harmon, Joseph E. & Reidy, Michael S. (2002). *Communicating Science: The Scientific Article from the 17th Century to the Present*. Oxford: Oxford University Press.
-- Hyland, Ken (2000). *Disciplinary Discourses: Social Interactions in Academic Writing*. London: Pearson Education.
-- Paltridge, Brian (2002). "Thesis and dissertation writing: An examination of published advice and actual practice". *English for Specific Purposes* 21(2): 125-143.
-- Swales, John M. (1990). *Genre Analysis: English in Academic and Research Settings*. Cambridge: Cambridge University Press.
-- Swales, John M. & Feak, Christine B. (2012). *Academic Writing for Graduate Students* (3rd ed.). Ann Arbor: University of Michigan Press.
-
 
 ## 5. Crisis y transformaciones contemporáneas: entre homogeneización y resistencia
 
@@ -2638,22 +2589,6 @@ Esta sección ha mostrado fuerzas contradictorias:
 
 La siguiente sección (Conclusión) propone un marco normativo para pensar estas tensiones.
 
----
-
-## Referencias de esta sección
-
-- Alperin, Juan Pablo et al. (2019). "How significant are the public dimensions of faculty work in review, promotion and tenure documents?". *eLife* 8:e42254.
-- Beall, Jeffrey (2012). "Predatory publishers are corrupting open access". *Nature* 489: 179.
-- Beigel, Fernanda (2014). "Publishing from the periphery: Structural heterogeneity and segmented circuits". *Current Sociology* 62(5): 743-765.
-- Björk, Bo-Christer & Solomon, David (2013). "The publishing delay in scholarly peer-reviewed journals". *Journal of Informetrics* 7(4): 914-923.
-- Fyfe, Aileen et al. (2017). "Untangling academic publishing: A history of the relationship between commercial interests, academic prestige and the circulation of research". *Zenodo*. DOI: 10.5281/zenodo.546100
-- Larivière, Vincent et al. (2015). "The oligopoly of academic publishers in the digital era". *PLOS ONE* 10(6): e0127502.
-- Nosek, Brian A. et al. (2018). "The preregistration revolution". *PNAS* 115(11): 2600-2606.
-- Packer, Abel L. (2009). "The SciELO Open Access: A gold way from the south". *Canadian Journal of Higher Education* 39(3): 111-126.
-- Tennant, Jonathan P. et al. (2017). "A multi-disciplinary perspective on emergent and future innovations in peer review". *F1000Research* 6:1151.
-- Wilsdon, James et al. (2015). *The Metric Tide: Report of the Independent Review of the Role of Metrics in Research Assessment and Management*. London: HEFCE. DOI: 10.13140/RG.2.1.4929.1363
-
-
 
 ## 6. Conclusión: hacia una ecología de modelos editoriales
 
@@ -2822,7 +2757,7 @@ Motores de búsqueda académica (Google Scholar, Dimensions) priorizan research 
 - ¿Cómo hacer descubribles debates, review essays, data papers?
 - Necesidad de filtros por tipo de contribución en interfaces de búsqueda
 
-**Propuesta de proyecto desde gbpublisher:** Geneerar extensiones de JATS que capturen:
+**Propuesta de proyecto desde gbpublisher:** Generar extensiones de JATS que capturen:
 ```xml
 <article-meta>
   <article-type>dossier-article</article-type>
@@ -3126,39 +3061,71 @@ El conocimiento humano es demasiado complejo, demasiado situado, demasiado plura
 
 ---
 
-## Referencias generales del artículo
+## Referencias bibliográficas
 
-### Sobre historia de revistas científicas
+- Alperin, Juan Pablo et al. (2019). "How significant are the public dimensions of faculty work in review, promotion and tenure documents?". *eLife* 8:e42254.
+
 - Bazerman, Charles (1988). *Shaping Written Knowledge: The Genre and Activity of the Experimental Article in Science*. Madison: University of Wisconsin Press.
+
+- Beall, Jeffrey (2012). "Predatory publishers are corrupting open access". *Nature* 489: 179.
+
+- Becher, Tony & Trowler, Paul (2001). *Academic Tribes and Territories: Intellectual Enquiry and the Culture of Disciplines*. Buckingham: Open University Press.
+
+- Beigel, Fernanda (coord.) (2013). *The Politics of Academic Autonomy in Latin America*. London: Ashgate.
+
+- Beigel, Fernanda (2014a). "Academic dependence and professionalism in the South: Perspectives from the periphery". *Minerva* 52(1): 1-32.
+
+- Beigel, Fernanda (2014b). "Publishing from the periphery: Structural heterogeneity and segmented circuits". *Current Sociology* 62(5): 743-765.
+
+- Belcher, Wendy Laura (2019). *Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success*. Chicago: University of Chicago Press.
+
+- Björk, Bo-Christer & Solomon, David (2013). "The publishing delay in scholarly peer-reviewed journals". *Journal of Informetrics* 7(4): 914-923.
+
 - Csiszar, Alex (2018). *The Scientific Journal: Authorship and the Politics of Knowledge in the Nineteenth Century*. Chicago: University of Chicago Press.
+
+- Day, Robert A. & Gastel, Barbara (2016). *How to Write and Publish a Scientific Paper* (8th ed.). Santa Barbara: Greenwood.
+
+- Devés-Valdés, Eduardo (2007). *Redes intelectuales en América Latina: Hacia la constitución de una comunidad intelectual*. Santiago: Universidad de Santiago de Chile.
+
+- Fyfe, Aileen et al. (2017). "Untangling academic publishing: A history of the relationship between commercial interests, academic prestige and the circulation of research". *Zenodo*. DOI: 10.5281/zenodo.546100
+
 - Fyfe, Aileen & Moxham, Noah (eds.) (2021). *Making Scientific Societies Work: Science, Knowledge and Authority in the 19th Century*. London: UCL Press.
+
+- Gingras, Yves (2014). *Les dérives de l'évaluation de la recherche: Du bon usage de la bibliométrie*. Paris: Raisons d'agir.
+
 - Gross, Alan G., Harmon, Joseph E. & Reidy, Michael S. (2002). *Communicating Science: The Scientific Article from the 17th Century to the Present*. Oxford: Oxford University Press.
 
-### Sobre epistemologías disciplinarias
-- Becher, Tony & Trowler, Paul (2001). *Academic Tribes and Territories: Intellectual Enquiry and the Culture of Disciplines*. Buckingham: Open University Press.
-- Hyland, Ken (2000). *Disciplinary Discourses: Social Interactions in Academic Writing*. London: Pearson Education.
-- Swales, John M. (1990). *Genre Analysis: English in Academic and Research Settings*. Cambridge: Cambridge University Press.
-
-### Sobre geografías académicas y dependencia
-- Beigel, Fernanda (2014). "Academic dependence and professionalism in the South: Perspectives from the periphery". *Minerva* 52(1): 1-32.
-- Beigel, Fernanda (coord.) (2013). *The Politics of Academic Autonomy in Latin America*. London: Ashgate.
 - Guédon, Jean-Claude (2001). *In Oldenburg's Long Shadow: Librarians, Research Scientists, Publishers, and the Control of Scientific Publishing*. Washington: Association of Research Libraries.
 
-### Sobre bibliometría y evaluación
-- Gingras, Yves (2014). *Les dérives de l'évaluation de la recherche: Du bon usage de la bibliométrie*. Paris: Raisons d'agir.
+- Hyland, Ken (2000). *Disciplinary Discourses: Social Interactions in Academic Writing*. London: Pearson Education.
+
 - Larivière, Vincent et al. (2015). "The oligopoly of academic publishers in the digital era". *PLOS ONE* 10(6): e0127502.
-- Wilsdon, James et al. (2015). *The Metric Tide: Report of the Independent Review of the Role of Metrics in Research Assessment and Management*. London: HEFCE.
 
-### Sobre acceso abierto e infraestructuras alternativas
-- Packer, Abel L. (2009). "The SciELO Open Access: A gold way from the south". *Canadian Journal of Higher Education* 39(3): 111-126.
-- Suber, Peter (2012). *Open Access*. Cambridge, MA: MIT Press.
+- Maffie, James (2015). "Collaborative research, global and local knowledge: The case of indigenous knowledge in development". *Science, Technology, & Human Values* 40(5): 789-814.
 
-### Sobre innovaciones en peer review y publicación
+- Medawar, Peter B. (1963). "Is the scientific paper a fraud?" *The Listener* 70: 377-378.
+
+- Myers, Greg (1990). *Writing Biology: Texts in the Social Construction of Scientific Knowledge*. Madison: University of Wisconsin Press.
+
 - Nosek, Brian A. et al. (2018). "The preregistration revolution". *PNAS* 115(11): 2600-2606.
-- Tennant, Jonathan P. et al. (2017). "A multi-disciplinary perspective on emergent and future innovations in peer review". *F1000Research* 6:1151.
 
-### Sobre estructuras editoriales específicas
-- Devés-Valdés, Eduardo (2007). *Redes intelectuales en América Latina: Hacia la constitución de una comunidad intelectual*. Santiago: Universidad de Santiago de Chile.
+- Okeke-Uzodike, Obianuju E. & Gamede, Bhekisisa C. (2020). "Academic publishing in Africa: Challenges and opportunities". *South African Journal of Science* 116(5-6): 1-5.
+
+- Packer, Abel L. (2009). "The SciELO Open Access: A gold way from the south". *Canadian Journal of Higher Education* 39(3): 111-126.
+
+- Paltridge, Brian (2002). "Thesis and dissertation writing: An examination of published advice and actual practice". *English for Specific Purposes* 21(2): 125-143.
+
 - Sollaci, Luciana B. & Pereira, Maurício G. (2004). "The introduction, methods, results, and discussion (IMRAD) structure: a fifty-year survey". *Journal of the Medical Library Association* 92(3): 364-367.
 
+- Suber, Peter (2012). *Open Access*. Cambridge, MA: MIT Press.
+
+- Swales, John M. (1990). *Genre Analysis: English in Academic and Research Settings*. Cambridge: Cambridge University Press.
+
+- Swales, John M. & Feak, Christine B. (2012). *Academic Writing for Graduate Students* (3rd ed.). Ann Arbor: University of Michigan Press.
+
+- Tennant, Jonathan P. et al. (2017). "A multi-disciplinary perspective on emergent and future innovations in peer review". *F1000Research* 6:1151.
+
+- Waast, Roland & Rossi, Pier Luigi (2010). "Scientific production in Arab countries". *Research Policy* 39(10): 1324-1332.
+
+- Wilsdon, James et al. (2015). *The Metric Tide: Report of the Independent Review of the Role of Metrics in Research Assessment and Management*. London: HEFCE. DOI: 10.13140/RG.2.1.4929.1363
 
