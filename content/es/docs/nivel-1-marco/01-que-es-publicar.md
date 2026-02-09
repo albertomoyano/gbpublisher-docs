@@ -1060,11 +1060,11 @@ La mayoría de revistas africanas adoptan formato anglosajón o francófono seg�
 
 Algunas revistas introducen secciones explícitas que reivindican especificidad africana:
 
-**African Affairs (Royal African Society, UK, pero editada en África desde 1990s)**
+***African Affairs* (Royal African Society, UK, pero editada en África desde 1990s)**
 
 Estructura híbrida:
 - **Research Articles**: Formato estándar
-- **Africa and... **: Sección que conecta temas africanos con debates globales
+- **Africa and...**: Sección que conecta temas africanos con debates globales
 - **Debates**: Controversias sobre política africana
 - **Briefing**: Análisis de coyuntura (elecciones, conflictos)
 
@@ -3128,4 +3128,3 @@ El conocimiento humano es demasiado complejo, demasiado situado, demasiado plura
 - Waast, Roland & Rossi, Pier Luigi (2010). "Scientific production in Arab countries". *Research Policy* 39(10): 1324-1332.
 
 - Wilsdon, James et al. (2015). *The Metric Tide: Report of the Independent Review of the Role of Metrics in Research Assessment and Management*. London: HEFCE. DOI: 10.13140/RG.2.1.4929.1363
-
