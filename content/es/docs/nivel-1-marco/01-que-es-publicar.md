@@ -3063,7 +3063,7 @@ El conocimiento humano es demasiado complejo, demasiado situado, demasiado plura
 
 ## Referencias bibliográficas
 
-- Alperin, Juan Pablo et al. (2019). "How significant are the public dimensions of faculty work in review, promotion and tenure documents?". *eLife* 8:e42254.
+- Alperin, Juan Pablo et al. (2019). "How significant are the public dimensions of faculty work in review, promotion and tenure documents?". DOI: [10.7554/eLife.42254](10.7554/eLife.42254)
 
 - Bazerman, Charles (1988). *Shaping Written Knowledge: The Genre and Activity of the Experimental Article in Science*. Madison: University of Wisconsin Press.
 
@@ -3087,7 +3087,7 @@ El conocimiento humano es demasiado complejo, demasiado situado, demasiado plura
 
 - Devés-Valdés, Eduardo (2007). *Redes intelectuales en América Latina: Hacia la constitución de una comunidad intelectual*. Santiago: Universidad de Santiago de Chile.
 
-- Fyfe, Aileen et al. (2017). "Untangling academic publishing: A history of the relationship between commercial interests, academic prestige and the circulation of research". *Zenodo*. DOI: 10.5281/zenodo.546100
+- Fyfe, Aileen et al. (2017). "Untangling academic publishing: A history of the relationship between commercial interests, academic prestige and the circulation of research". *Zenodo*. DOI: [10.5281/zenodo.546100](10.5281/zenodo.546100)
 
 - Fyfe, Aileen & Moxham, Noah (eds.) (2021). *Making Scientific Societies Work: Science, Knowledge and Authority in the 19th Century*. London: UCL Press.
 
@@ -3127,4 +3127,4 @@ El conocimiento humano es demasiado complejo, demasiado situado, demasiado plura
 
 - Waast, Roland & Rossi, Pier Luigi (2010). "Scientific production in Arab countries". *Research Policy* 39(10): 1324-1332.
 
-- Wilsdon, James et al. (2015). *The Metric Tide: Report of the Independent Review of the Role of Metrics in Research Assessment and Management*. London: HEFCE. DOI: 10.13140/RG.2.1.4929.1363
+- Wilsdon, James et al. (2015). *The Metric Tide: Report of the Independent Review of the Role of Metrics in Research Assessment and Management*. London: HEFCE. DOI: [10.13140/RG.2.1.4929.1363](10.13140/RG.2.1.4929.1363)
