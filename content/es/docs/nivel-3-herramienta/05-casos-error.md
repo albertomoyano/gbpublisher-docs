@@ -1,6 +1,6 @@
 ---
 title: "Casos de error típicos"
-weight: 4
+weight: 5
 description: >
   Problemas comunes que enfrentan los equipos editoriales y estrategias para resolverlos.
 ---
