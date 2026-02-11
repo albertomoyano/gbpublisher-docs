@@ -1,8 +1,8 @@
 ---
-title: "La interfez gráfica de la aplicación"
+title: "La interfaz gráfica"
 weight: 4
 description: >
-  Vista de la interfaz y los formularios.
+  Vista de la interfaz y explicación de uso de los formularios.
 ---
 
 ## Contenido pendiente de redacción
