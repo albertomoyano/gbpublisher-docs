@@ -91,7 +91,7 @@ Esta diferenciación en tres modelos revela una comprensión sofisticada del eco
 
 Todo documento JATS, independientemente del modelo utilizado, se estructura en tres secciones principales que reflejan la organización conceptual de un artículo científico:
 
-#### Front (Metadatos y preliminares)
+#### Front (metadatos y preliminares)
 
 El front contiene toda la información bibliográfica y administrativa del artículo. Aquí residen los metadatos esenciales para la identificación, catalogación e indexación del documento:
 
@@ -104,7 +104,7 @@ El front contiene toda la información bibliográfica y administrativa del artí
 
 La riqueza de metadatos en el front no es ornamental: cada elemento permite formas específicas de descubrimiento, análisis y cumplimiento normativo que serían imposibles con metadatos menos estructurados.
 
-#### Body (Contenido principal)
+#### Body (contenido principal)
 
 El body contiene el contenido narrativo del artículo: párrafos, secciones, subsecciones, listas, ecuaciones, figuras, tablas, y otros elementos que constituyen el argumento científico propiamente dicho. La estructuración semántica del body permite:
 
@@ -113,7 +113,7 @@ El body contiene el contenido narrativo del artículo: párrafos, secciones, sub
 - **Navegación inteligente**: Generación automática de tablas de contenido, índices de figuras y tablas, enlaces internos entre secciones
 - **Accesibilidad mejorada**: Lectores de pantalla pueden navegar por la estructura lógica del documento, no solo por su presentación lineal
 
-#### Back (Material complementario)
+#### Back (material complementario)
 
 El back contiene información que apoya al texto principal pero no es parte de la narrativa central:
 
@@ -223,9 +223,9 @@ JATS, por su naturaleza estructurada, facilita inmensamente la generación de co
 La accesibilidad no es solo una cuestión ética o legal: es una cuestión de justicia epistémica. El conocimiento científico debe estar disponible para todos, independientemente de sus capacidades sensoriales o motoras.
 
 
-## 5. La interoperabilidad en acción: Casos de uso de JATS bien construido
+## 5. La interoperabilidad en acción: casos de uso de JATS bien construido
 
-### Flujo de trabajo tipo: Del manuscrito al ecosistema global
+### Flujo de trabajo tipo: del manuscrito al ecosistema global
 
 Para comprender cómo JATS materializa la interoperabilidad en la vida real, consideremos el ciclo de vida completo de un artículo desde su aceptación hasta su integración en el ecosistema de conocimiento global.
 
@@ -427,7 +427,7 @@ El futuro de la interoperabilidad JATS probablemente no pasa por lograr que todo
 3. Validadores que verifiquen no solo sintaxis sino utilidad semántica
 4. Flujos de trabajo (como el de JATS canónico) que hagan técnicamente simple mantener múltiples variantes sincronizadas
 
-### Interoperabilidad con CrossRef: El ecosistema de citación
+### Interoperabilidad con CrossRef: el ecosistema de citación
 
 CrossRef, la organización sin fines de lucro que administra el sistema de DOIs más grande del mundo académico, ejemplifica cómo JATS habilita interoperabilidad en el nivel más fundamental: la identificación y citación persistente.
 
@@ -667,7 +667,7 @@ El conocimiento científico ha sobrevivido milenios porque cada generación ha a
 
 - W3C (World Wide Web Consortium). (2016). *Extensible Markup Language (XML) 1.0 (Fifth Edition)*. Recuperado de https://www.w3.org/TR/xml/
 
-Zetter Patiño, E. (2018). *El desarrollo de JATS y su implementación global* [Tesis de maestría]. Universidad Nacional Autónoma de México.
+- Zetter Patiño, E. (2018). *El desarrollo de JATS y su implementación global* [Tesis de maestría]. Universidad Nacional Autónoma de México.
 
 **Nota sobre fuentes**: Este artículo se basa en documentación oficial de NISO, NCBI, SciELO, Redalyc, CrossRef, CLOCKSS y otras instituciones del ecosistema de publicación científica, complementada con literatura académica sobre edición científica, preservación digital e infraestructuras de conocimiento. Todas las afirmaciones técnicas sobre JATS están verificadas contra la especificación oficial ANSI/NISO Z39.96-2024.
 
