@@ -1,13 +1,11 @@
 ---
-title: "La revista científica como artefacto epistémico: estructura, geografía y validación del conocimiento"
+title: "La revista científica como artefacto epistémico"
 weight: 1
 description: >
-  Historia y definición contemporánea de la publicación académica en el contexto digital e interconectado actual.
+  La pregunta por la estructura interna de las revistas científicas —por qué algunas incluyen secciones de *Dossier* mientras otras no, por qué las humanidades resisten la estandarización IMRyD, por qué las revistas latinoamericanas organizan sus contenidos de manera diferente a las anglosajonas— no es meramente una cuestión de formato editorial. Es, fundamentalmente, una pregunta sobre **cómo se produce, valida y circula el conocimiento** en diferentes comunidades epistémicas, tradiciones académicas y geografías del saber.
 ---
 
-## 1. Introducción: La revista científica como artefacto epistémico
-
-La pregunta por la estructura interna de las revistas científicas —por qué algunas incluyen secciones de *Dossier* mientras otras no, por qué las humanidades resisten la estandarización IMRyD, por qué las revistas latinoamericanas organizan sus contenidos de manera diferente a las anglosajonas— no es meramente una cuestión de formato editorial. Es, fundamentalmente, una pregunta sobre **cómo se produce, valida y circula el conocimiento** en diferentes comunidades epistémicas, tradiciones académicas y geografías del saber.
+## 1. Geografía y validación del conocimiento
 
 Este artículo sostiene que las divisiones internas de las revistas científicas no son arbitrarias ni resultado de preferencias estéticas, sino que constituyen **inscripciones materiales de prácticas de validación del conocimiento**. La estructura editorial de una revista —qué secciones incluye, cómo las nombra, qué jerarquía establece entre ellas— revela:
 
