@@ -51,7 +51,7 @@ La cronología de adopción es reveladora de una tendencia global:
 Para 2025, JATS se encuentra en uso en más de 25 países, incluyendo Australia, Bélgica, Brasil, Bulgaria, Canadá, Chile, Egipto, Finlandia, Francia, Alemania, Italia, Japón, Noruega, Rusia, Corea del Sur, Suecia, Suiza, Emiratos Árabes Unidos, Reino Unido y Estados Unidos. Los archivos públicos y privados más importantes del mundo requieren o prefieren JATS, incluyendo PubMed Central (tanto en Estados Unidos como en Europa PMC), la Biblioteca Nacional Británica, la Biblioteca Nacional de Australia, la Biblioteca del Congreso de Estados Unidos, CLOCKSS, Portico y LOCKSS.
 
 
-## 3. La especificidad técnica de JATS: Más que un formato XML
+## 3. La especificidad técnica de JATS: más que un formato XML
 
 ### XML como fundamento: separación de contenido y presentación
 
@@ -139,7 +139,7 @@ Lo que distingue a JATS de otros esquemas XML es su expresividad semántica espe
 Esta expresividad no es meramente descriptiva: cada elemento semánticamente rico es una puerta a nuevas formas de interrogar y utilizar el conocimiento científico.
 
 
-## 4. ¿Por qué XML-JATS no es opcional? Argumentos estructurales
+## 4. ¿Por qué XML-JATS no es opcional?, argumentos estructurales
 
 ### La interoperabilidad como imperativo sistémico
 
