@@ -3059,7 +3059,7 @@ El conocimiento humano es demasiado complejo, demasiado situado, demasiado plura
 
 ---
 
-## Referencias bibliográficas
+## Referencias
 
 - Alperin, Juan Pablo et al. (2019). "How significant are the public dimensions of faculty work in review, promotion and tenure documents?". DOI: [10.7554/eLife.42254](10.7554/eLife.42254)
 

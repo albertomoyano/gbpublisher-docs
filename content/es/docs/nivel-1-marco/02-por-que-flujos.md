@@ -666,7 +666,7 @@ Esto requiere:
 - Flexibilidad para abandonar innovaciones que no funcionen
 - Compromiso con mejora continua
 
-## 6. Conclusiones: Más allá de la burocracia
+## 6. Conclusiones: más allá de la burocracia
 
 Los flujos de trabajo estructurados en la producción editorial académica son mucho más que protocolos burocráticos. Representan la institucionalización de siglos de aprendizaje sobre cómo validar, comunicar y preservar conocimiento científico de manera confiable.
 
@@ -726,4 +726,4 @@ En resumen: los flujos de trabajo editoriales importan porque la calidad del con
 - Wikipedia contributors. (2025). *Revisión académica por pares*. Wikipedia. [Sobre historia y evolución de revisión por pares]
 
 
-**Nota sobre fuentes**: Este capítulo sintetiza información de fuentes académicas, guías de mejores prácticas editoriales, documentación de plataformas de gestión editorial, y estudios empíricos sobre procesos de publicación. Las citas específicas están integradas en el texto para facilitar verificación y ampliación de información por parte de lectores interesados.
+**Nota sobre fuentes**: Este capítulo sintetiza información de fuentes académicas, guías de mejores prácticas editoriales, documentación de plataformas de gestión editorial, y estudios empíricos sobre procesos de publicación.
