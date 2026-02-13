@@ -245,7 +245,9 @@ El resultado es un archivo XML-JATS que codifica completamente el artículo: met
 
 El archivo JATS debe validarse contra la DTD (Document Type Definition) o XSD (XML Schema Definition) correspondiente. Esta validación verifica que el archivo cumple las reglas sintácticas del estándar. Sin embargo, como documenta Mark Gross en la conferencia JATS-Con 2025, "válido no siempre significa funcional o bueno". Un archivo puede ser válido sintácticamente pero contener errores semánticos que causarán problemas downstream:
 
-- Un DOI con un guion em en lugar de un guion normal (visualmente casi indistinguibles pero diferentes caracteres Unicode) será válido sintácticamente pero fallará al intentar resolverse
+- Un DOI que contenga un guion em (—, Unicode U+2014) en lugar del guion ASCII estándar (-, Unicode U+002D) será **sintácticamente válido en XML, pero fallará al resolverse**. Aunque ambos caracteres son visualmente similares, son códigos Unicode distintos. Dado que el DOI es una cadena literal que debe coincidir exactamente con el identificador registrado, cualquier sustitución tipográfica altera la secuencia de caracteres y provoca que el resolvedor no encuentre el recurso.
+
+Este tipo de error es frecuente cuando el texto ha sido redactado o editado en procesadores como Microsoft Word, que aplican automáticamente reglas de sustitución tipográfica (por ejemplo, reemplazando ciertos guiones por rayas tipográficas). En textos narrativos esto mejora la presentación, pero en identificadores técnicos puede introducir caracteres distintos al guion ASCII requerido.
 - Referencias con etiquetado insuficiente validarán pero no permitirán verificación automática
 - Afiliaciones con estructura incorrecta pasarán validación pero no permitirán extracción correcta de datos institucionales
 
