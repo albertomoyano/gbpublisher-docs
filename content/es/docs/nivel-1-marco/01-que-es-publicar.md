@@ -5,7 +5,9 @@ description: >
   La pregunta por la estructura interna de las revistas científicas —por qué algunas incluyen secciones de *Dossier* mientras otras no, por qué las humanidades resisten la estandarización IMRyD, por qué las revistas latinoamericanas organizan sus contenidos de manera diferente a las anglosajonas— no es meramente una cuestión de formato editorial. Es, fundamentalmente, una pregunta sobre **cómo se produce, valida y circula el conocimiento** en diferentes comunidades epistémicas, tradiciones académicas y geografías del saber.
 ---
 
-## 1. Geografía y validación del conocimiento
+## Introducción
+
+La pregunta por la estructura interna de las revistas científicas —por qué algunas incluyen secciones de *Dossier* mientras otras no, por qué las humanidades resisten la estandarización IMRyD o por qué las revistas latinoamericanas organizan sus contenidos de manera diferente a las anglosajonas— no es meramente una cuestión de formato editorial. Es, fundamentalmente, una pregunta sobre **cómo se produce, valida y circula el conocimiento** en diferentes comunidades epistémicas, tradiciones académicas y geografías del saber.
 
 Este artículo sostiene que las divisiones internas de las revistas científicas no son arbitrarias ni resultado de preferencias estéticas, sino que constituyen **inscripciones materiales de prácticas de validación del conocimiento**. La estructura editorial de una revista —qué secciones incluye, cómo las nombra, qué jerarquía establece entre ellas— revela:
 
@@ -29,26 +31,26 @@ Sin embargo, esta estructura "estándar" es históricamente contingente y cultur
 
 La estructura editorial de una revista no es un mero **contenedor neutral** de contenidos diversos, sino un **dispositivo epistémico** que:
 
-1. **Clasifica tipos de conocimiento**: Al crear secciones separadas para "artículos de investigación", "revisiones", "comunicaciones breves", "editoriales", etc., la revista establece una **taxonomía de contribuciones válidas** y jerarquías de prestigio. Un "artículo" tiene más valor curricular que una "reseña"; un "original research" pesa más que un "commentary".
+1. **Clasifica tipos de conocimiento**: Al crear secciones separadas para "artículos de investigación", "revisiones", "comunicaciones breves", "editoriales", etc., la revista establece una **taxonomía de contribuciones válidas** y jerarquías de prestigio. Un "artículo" tiene más valor curricular que una "reseña"; un artículo de investigación original pesa más que un comentario.
 
-2. **Prescribe prácticas de escritura**: La existencia de una sección con requisitos específicos (por ejemplo, "Research Articles deben seguir formato IMRyD") no solo describe el contenido sino que **modela las prácticas de investigación**. Los científicos internalizan estas estructuras al diseñar sus experimentos, registrar sus datos y construir sus argumentos.
+2. **Prescribe prácticas de escritura**: La existencia de una sección con requisitos específicos (por ejemplo, "los artículos de investigación deben seguir formato IMRyD") no solo describe el contenido sino que **modela las prácticas de investigación**. Los científicos internalizan estas estructuras al diseñar sus experimentos, registrar sus datos y construir sus argumentos.
 
-3. **Configura comunidades de lectura**: Las secciones funcionan como **señales de relevancia** para diferentes audiencias. Un editor de políticas públicas puede leer solo los "Policy Briefs"; un estudiante doctoral busca principalmente "Research Articles"; un investigador senior se interesa por "Review Essays" o "Debates". La estructura editorial fragmenta o integra comunidades académicas.
+3. **Configura comunidades de lectura**: Las secciones funcionan como **señales de relevancia** para diferentes audiencias. Un editor de políticas públicas puede leer solo los informes de políticas; un estudiante doctoral busca principalmente artículos de investigación; un investigador senior se interesa por ensayos de revisión o debates. La estructura editorial fragmenta o integra comunidades académicas.
 
-4. **Distribuye autoridad epistémica**: Quién puede escribir en cada sección —y bajo qué condiciones— define **quién tiene voz autorizada**. Las "Editoriales" suelen estar reservadas a editores jefes o invitados prestigiosos; los "Letters" permiten participación más amplia; los *Dossier* coordinados distribuyen la autoría entre redes de colaboradores. La estructura es, así, un mapa de poder académico.
+4. **Distribuye autoridad epistémica**: Quién puede escribir en cada sección —y bajo qué condiciones— define **quién tiene voz autorizada**. Las editoriales suelen estar reservadas a editores jefes o invitados prestigiosos; las cartas permiten participación más amplia; los *dossier* coordinados distribuyen la autoría entre redes de colaboradores. La estructura es, así, un mapa de poder académico.
 
 ### El caso del *dossier*: síntoma de una tensión global
 
 El *dossier* —esa sección que agrupa artículos temáticamente vinculados, coordinados por un editor invitado, y que estructura números completos o partes sustanciales de revistas latinoamericanas y europeas continentales— es paradigmático de esta tensión. Para las bases de datos anglosajonas, el *dossier* resulta problemático:
 
-- No es una "sección" en el sentido de categoría estable (como "Articles" o "Reviews"), sino una **unidad temática variable**
+- No es una "sección" en el sentido de categoría estable (como artículos o revisiones), sino una **unidad temática variable**
 - Su coordinación por editores invitados desafía la autoridad del comité editorial permanente
 - Su lógica de **red intelectual** (construcción colectiva de un problema de investigación) contrasta con el modelo de "contribuciones discretas" agregadas azarosamente en un número
 
 Sin embargo, para las comunidades académicas que lo utilizan, el *dossier* cumple funciones epistémicas específicas:
 
-1. **Construcción de agendas de investigación** locales o regionales, no dictadas por journals del Norte Global
-2. **Visibilización de debates colectivos** y posicionamientos teóricos compartidos (frente al individualismo del "single-author paper")
+1. **Construcción de agendas de investigación** locales o regionales, no dictadas por revistas del Norte Global
+2. **Visibilización de debates colectivos** y posicionamientos teóricos compartidos (frente al individualismo del artículo de autor único)
 3. **Legitimación de temas emergentes** que aún no tienen espacio en revistas internacionales establecidas
 4. **Creación de comunidades transnacionales** en geografías periféricas (coordinadores de Brasil, Argentina y México pueden articular un *dossier* sobre teorías críticas latinoamericanas)
 
@@ -68,7 +70,7 @@ Analiza cómo diferentes tradiciones académicas nacionales/regionales desarroll
 Examina cómo las diferencias entre campos del conocimiento (ciencias experimentales, ciencias sociales, humanidades, profesiones aplicadas) generan requisitos estructurales divergentes: datos vs. interpretación, replicabilidad vs. reflexividad, métodos explícitos vs. argumentación narrativa.
 
 **Sección 5: Crisis y transformaciones contemporáneas**
-Explora las tensiones actuales: presión homogeneizadora de índices internacionales, innovaciones digitales (Data Papers, Registered Reports, Living Reviews), resistencias periféricas (SciELO, Redalyc), y el debate sobre soberanía temática en la definición de agendas de investigación.
+Explora las tensiones actuales: presión homogeneizadora de índices internacionales, innovaciones digitales (artículos de datos, informes registrados, revisiones vivas), resistencias periféricas (SciELO, Redalyc), y el debate sobre soberanía temática en la definición de agendas de investigación.
 
 **Sección 6: Conclusión**
 Propone pensar en términos de una **ecología de modelos editoriales**, donde la diversidad estructural no es un problema a resolver sino una riqueza a preservar. Discute implicaciones para política científica, infraestructuras técnicas (metadatos, preservación digital) y agenda de investigación futura.
@@ -83,15 +85,23 @@ Este trabajo combina:
 
 La pregunta central no es "¿cuál es la mejor estructura para una revista científica?" sino "¿qué funciones epistémicas y sociales cumplen las diferentes estructuras en sus contextos específicos?" La respuesta, como veremos, es: muchas y complejas.
 
+## 1. Geografía y validación del conocimiento
+
+Este artículo sostiene que las divisiones internas de las revistas científicas no son arbitrarias ni resultado de preferencias estéticas, sino que constituyen **inscripciones materiales de prácticas de validación del conocimiento**. La estructura editorial de una revista —qué secciones incluye, cómo las nombra, qué jerarquía establece entre ellas— revela:
+
+1. **Epistemologías disciplinarias**: Qué cuenta como conocimiento válido en cada campo (datos experimentales vs. interpretación textual vs. reflexividad etnográfica)
+2. **Tradiciones institucionales**: Cómo se organiza la producción académica (sociedades científicas vs. universidades vs. academias estatales)
+3. **Geografías del conocimiento**: Quién define los temas relevantes, los estándares de calidad y los circuitos de legitimación (centro vs. periferia en el sistema académico global)
+
 ## 2. Genealogía histórica: de la correspondencia indiferenciada al artículo estandarizado (s. XVII-XX)
 
 La estructura contemporánea de las revistas científicas —con sus secciones diferenciadas, formatos prescritos y jerarquías implícitas— no surgió de manera espontánea ni inevitable. Es el resultado de **procesos históricos contingentes** ligados a transformaciones en la organización institucional de la ciencia, luchas por la autoridad epistémica, y cambios tecnológicos en la producción y circulación del conocimiento. Esta sección reconstruye esa genealogía en cuatro momentos clave.
 
-### 2.1. Los orígenes indiferenciados (1665-1750): la revista como "miscelánea erudita"
+### Los orígenes indiferenciados (1665-1750): la revista como "miscelánea erudita"
 
 #### El nacimiento simultáneo: *Journal des Sçavans* y *Philosophical Transactions*
 
-El año 1665 marca el inicio de la publicación científica periódica con dos empresas casi simultáneas pero de naturaleza distinta:
+El año 1665 marca el inicio de la publicación científica periódica con dos empresas casi simultáneas pero de naturaleza distinta [1]:
 
 ***Journal des Sçavans* (Francia, enero 1665)**
 Fundado por Denis de Sallo bajo el privilegio real, este semanario parisino se presentaba como una **gaceta universal del saber**. Su primer número (5 de enero de 1665) incluía, sin separación formal:
@@ -102,31 +112,31 @@ Fundado por Denis de Sallo bajo el privilegio real, este semanario parisino se p
 4. Decisiones de tribunales civiles y eclesiásticos
 5. Censuras de libros por la Universidad de París
 
-Esta heterogeneidad respondía a una **concepción pre-disciplinaria del conocimiento**: no existía distinción clara entre "ciencia", "humanidades", "jurisprudencia" o "noticias eruditas". El objetivo era informar a la "República de las Letras" sobre novedades en todos los campos del saber (Gross et al., 2002: 23-45).
+Esta heterogeneidad respondía a una **concepción pre-disciplinaria del conocimiento**: no existía distinción clara entre "ciencia", "humanidades", "jurisprudencia" o "noticias eruditas". El objetivo era informar a la "República de las Letras" sobre novedades en todos los campos del saber [2].
 
 ***Philosophical Transactions* (Inglaterra, marzo 1665)**
-La Royal Society of London inició sus *Philosophical Transactions* con una lógica diferente: publicar **correspondencia científica** entre sus miembros. El editor, Henry Oldenburg, actuaba como intermediario epistolar: recibía cartas de investigadores (Robert Boyle, Christiaan Huygens, Isaac Newton), las editaba, contextualizaba y compilaba en números mensuales.
+La Real Sociedad de Londres inició sus *Philosophical Transactions* con una lógica diferente: publicar **correspondencia científica** entre sus miembros. El editor, Henry Oldenburg, actuaba como intermediario epistolar: recibía cartas de investigadores (Robert Boyle, Christiaan Huygens, Isaac Newton), las editaba, contextualizaba y compilaba en números mensuales.
 
 El primer número (6 de marzo de 1665) contenía:
 
 1. Observaciones astronómicas de Júpiter (Giovanni Cassini)
 2. Descripción de un nuevo péndulo (Christiaan Huygens)
-3. Reporte sobre la "Great Red Spot" de Júpiter
+3. Reporte sobre la "Gran Mancha Roja" de Júpiter
 4. Cuenta de un monstruo nacido en Dinamarca
 5. Experimentos con la bomba de vacío (Robert Boyle)
 
-Crucialmente, estas contribuciones no tenían **secciones diferenciadas** ni titulares identificando tipo de contenido. Todo se presentaba como "relaciones de experimentos" o "noticias filosóficas" en una secuencia continua (Fyfe & Moxham, 2021: 89-112).
+Crucialmente, estas contribuciones no tenían **secciones diferenciadas** ni titulares identificando tipo de contenido. Todo se presentaba como "relaciones de experimentos" o "noticias filosóficas" en una secuencia continua [3].
 
 #### La voz editorial híbrida: compilador, reescritor, autor
 
 Un rasgo distintivo de esta primera fase es la **ambigüedad en la autoría**. Henry Oldenburg no solo compilaba cartas ajenas, sino que:
 
-- Reformulaba experimentos en tercera persona ("Mr. Boyle informs us that...")
+- Reformulaba experimentos en tercera persona ("El Sr. Boyle nos informa que...")
 - Agregaba sus propias observaciones contextuales
 - Mezclaba múltiples fuentes en un solo relato
-- Decidía qué era "philosophically relevant" y qué no
+- Decidía qué era "filosóficamente relevante" y qué no
 
-Esta práctica generaba confusión sobre **quién decía qué**. No existía el concepto moderno de "artículo firmado" donde un autor individual reclama prioridad sobre un descubrimiento. La revista era más un **espacio de circulación de noticias científicas** que un registro formal de contribuciones individuales (Csiszar, 2018: 42-67).
+Esta práctica generaba confusión sobre **quién decía qué**. No existía el concepto moderno de "artículo firmado" donde un autor individual reclama prioridad sobre un descubrimiento. La revista era más un **espacio de circulación de noticias científicas** que un registro formal de contribuciones individuales [4].
 
 #### Sin estructura, sin secciones: la organización cronológica
 
@@ -136,31 +146,31 @@ Las primeras revistas no tenían **índices temáticos** ni **tablas de contenid
 2. Relevancia según criterio editorial
 3. Extensión (textos cortos se intercalaban entre largos para llenar páginas)
 
-Las únicas divisiones eran tipográficas: líneas horizontales, capitulares decoradas o cambios de párrafo. No había títulos de sección como "Research Articles", "Reviews" o "Correspondence". Todo era **correspondencia** en sentido amplio.
+Las únicas divisiones eran tipográficas: líneas horizontales, capitulares decoradas o cambios de párrafo. No había títulos de sección como artículos de investigación, revisiones o correspondencia. Todo era **correspondencia** en sentido amplio.
 
 Esta indiferenciación estructural refleja un momento histórico donde:
-- La ciencia no era una profesión institucionalizada (la mayoría de contribuyentes eran "gentlemen scholars" aficionados)
+- La ciencia no era una profesión institucionalizada (la mayoría de contribuyentes eran eruditos aficionados)
 - No existían disciplinas claramente delimitadas (la "filosofía natural" abarcaba desde astronomía hasta química)
-- La validación del conocimiento dependía del **testimonio presencial** (ser miembro de la Royal Society y haber "visto" el experimento) más que de procedimientos metodológicos estandarizados
+- La validación del conocimiento dependía del **testimonio presencial** (ser miembro de la Real Sociedad y haber "visto" el experimento) más que de procedimientos metodológicos estandarizados
 
-### 2.2. Institucionalización y especialización (1750-1850): el surgimiento de secciones temáticas
+### Institucionalización y especialización (1750-1850): el surgimiento de secciones temáticas
 
 #### La transición hacia el registro formal (1752)
 
-En 1752, la Royal Society dio un paso crucial: oficializó las *Philosophical Transactions* como su **publicación institucional oficial**, estableciendo un comité editorial responsable de seleccionar contenidos. Esto introdujo una distinción clave:
+En 1752, la Real Sociedad dio un paso crucial: oficializó las *Philosophical Transactions* como su **publicación institucional oficial**, estableciendo un comité editorial responsable de seleccionar contenidos. Esto introdujo una distinción clave:
 
 **Artículos originales vs. informes editoriales**
 
-El prefacio al volumen 47 (1752) declaraba que la revista debía registrar "*knowledge claims* realizadas por autores individuales", separándolas de las opiniones de la Society como cuerpo corporativo. Esto significaba:
+El prefacio al volumen 47 (1752) declaraba que la revista debía registrar "afirmaciones de conocimiento realizadas por autores individuales", separándolas de las opiniones de la Sociedad como cuerpo corporativo. Esto significaba:
 
 1. **Autoría identificable**: Cada contribución debía atribuirse claramente a un individuo
 2. **Responsabilidad epistémica**: El autor, no el editor, asumía la validez de sus afirmaciones
 3. **Prioridad de descubrimiento**: La publicación funcionaba como registro público para reclamaciones de prioridad
 
 Aunque todavía no existían "secciones" formales, esta diferenciación sentó las bases para distinguir entre:
-- **Memoirs** o **Papers** (contribuciones originales de investigación)
-- **Accounts** o **Notices** (reportes editoriales sobre trabajos ajenos)
-- **Proceedings** (resúmenes de reuniones de la sociedad)
+- **Memorias** o **artículos** (contribuciones originales de investigación)
+- **Informes** o **noticias** (reportes editoriales sobre trabajos ajenos)
+- **Actas** (resúmenes de reuniones de la sociedad)
 
 #### La explosión de revistas especializadas (1790-1850)
 
@@ -170,28 +180,28 @@ El siglo XIX trajo una multiplicación exponencial de publicaciones científicas
 2. **Sociedades científicas disciplinarias**: Formación de comunidades por campo (química, geología, botánica)
 3. **Nacionalismo científico**: Cada país creaba sus propias revistas en idioma vernáculo
 
-Ejemplos clave:
+Ejemplos clave [5]:
 
 | Revista | Año | Innovación estructural |
 |---------|-----|----------------------|
-| **Annales de Chimie** (Francia) | 1789 | Primera revista monotemática (solo química), separó "Mémoires originaux" de "Extraits de mémoires étrangers" |
+| **Annales de Chimie** (Francia) | 1789 | Primera revista monotemática (solo química), separó "memorias originales" de "extractos de memorias extranjeras" |
 | **Philosophical Magazine** (UK) | 1798 | Secciones por subdisciplina: "Mecánica", "Electricidad", "Magnetismo", "Química" |
-| **Annalen der Physik** (Alemania) | 1799 | Introdujo "Kurze Notizen" (notas breves) para resultados preliminares |
-| **American Journal of Science** (EE.UU.) | 1818 | Incorporó "Reviews of American Publications" (reseñas de libros nacionales) |
+| **Annalen der Physik** (Alemania) | 1799 | Introdujo "notas breves" para resultados preliminares |
+| **American Journal of Science** (EE.UU.) | 1818 | Incorporó reseñas de publicaciones estadounidenses |
 
 Esta especialización generó **presión por estructurar contenidos**. Ya no era posible publicar indiscriminadamente sobre astronomía, química y botánica en la misma revista sin alguna organización temática.
 
 #### El caso paradigmático: *Philosophical Transactions* se divide (1887)
 
-En 1887, las *Philosophical Transactions* enfrentaron una crisis: el conocimiento científico se había diversificado tanto que un mismo comité editorial no podía evaluar competentemente todos los campos. La solución fue **dividir la revista en dos series**:
+En 1887, las *Philosophical Transactions* enfrentaron una crisis: el conocimiento científico se había diversificado tanto que un mismo comité editorial no podía evaluar competentemente todos los campos. La solución fue **dividir la revista en dos series** [6]:
 
-**Series A: Mathematical, Physical and Engineering Sciences**
+**Serie A: Ciencias Matemáticas, Físicas e Ingenieriles**
 - Matemáticas puras (teoría de números, cálculo, geometría)
 - Física teórica y experimental
 - Astronomía
 - Ingeniería mecánica y eléctrica
 
-**Series B: Biological Sciences**
+**Serie B: Ciencias Biológicas**
 - Fisiología animal y vegetal
 - Anatomía comparada
 - Taxonomía y sistemática
@@ -203,23 +213,23 @@ La estructuración en series estableció el principio de que **la organización 
 
 #### Nacimiento de nuevas secciones: correspondencia y controversia
 
-A mediados del siglo XIX, varias revistas introdujeron secciones de **"Letters to the Editor"** o **"Correspondence"**, reconociendo que la ciencia no avanzaba solo mediante publicaciones formales acabadas, sino también a través de:
+A mediados del siglo XIX, varias revistas introdujeron secciones de **"Cartas al Editor"** o **"Correspondencia"**, reconociendo que la ciencia no avanzaba solo mediante publicaciones formales acabadas, sino también a través de:
 
 1. **Debates sobre interpretación de datos** (controversias sobre la teoría celular, la naturaleza de la luz)
 2. **Correcciones y rectificaciones** (errores de cálculo, experimentos mal replicados)
 3. **Extensiones o aplicaciones** de trabajos previos
-4. **Priority disputes** (quién descubrió primero un fenómeno)
+4. **Disputas de prioridad** (quién descubrió primero un fenómeno)
 
-**Nature** (fundada en 1869) fue pionera en institucionalizar esta sección, dándole prominencia comparable a los artículos originales. Su editor, Norman Lockyer, sostenía que la "correspondencia científica" era tan importante como la "comunicación formal" porque:
+**Nature** (fundada en 1869) fue pionera en institucionalizar esta sección, dándole prominencia comparable a los artículos originales. Su editor, Norman Lockyer, sostenía que la "correspondencia científica" era tan importante como la "comunicación formal" porque [7]:
 
-> "Science advances through conversation as much as through demonstration. The exchange of ideas, objections, and clarifications in the pages of a journal accelerates discovery more than isolated publications ever could." (*Nature* 1:1, 1869)
+> "La ciencia avanza tanto a través de la conversación como de la demostración. El intercambio de ideas, objeciones y aclaraciones en las páginas de una revista acelera el descubrimiento más que las publicaciones aisladas."
 
-Esta innovación estructural reconocía que **el conocimiento científico es dialógico**, no monológico. Una sección de "Letters" no es solo un apéndice cortés, sino un **espacio epistémico diferente** donde:
+Esta innovación estructural reconocía que **el conocimiento científico es dialógico**, no monológico. Una sección de cartas no es solo un apéndice cortés, sino un **espacio epistémico diferente** donde:
 - Las reglas de evidencia son más flexibles (se pueden hacer observaciones especulativas)
-- La extensión es limitada (forcing brevity and focus)
-- La respuesta es esperada (creating accountability)
+- La extensión es limitada (forzando brevedad y enfoque)
+- La respuesta es esperada (creando responsabilidad)
 
-### 2.3. Consolidación disciplinaria y diferenciación de géneros (1850-1945)
+### Consolidación disciplinaria y diferenciación de géneros (1850-1945)
 
 #### La revista como órgano disciplinario
 
@@ -229,9 +239,9 @@ A finales del siglo XIX, cada disciplina madura tenía su propio conjunto de rev
 
 Las revistas matemáticas (como *Crelle's Journal für die reine und angewandte Mathematik*, fundada en 1826) desarrollaron una estructura minimalista:
 
-- **Original Papers**: Demostraciones de teoremas, sin secciones internas obligatorias
-- **Solutions to Problems**: Desafíos propuestos en números anteriores
-- **Reviews**: Análisis críticos de trabajos recientes
+- **Artículos originales**: Demostraciones de teoremas, sin secciones internas obligatorias
+- **Soluciones a problemas**: Desafíos propuestos en números anteriores
+- **Revisiones**: Análisis críticos de trabajos recientes
 
 La ausencia de secciones como "Métodos" o "Resultados" era deliberada: en matemáticas, **el teorema es el resultado**, y su demostración es el método. No hay necesidad de separarlos en secciones distintas.
 
@@ -239,12 +249,12 @@ La ausencia de secciones como "Métodos" o "Resultados" era deliberada: en matem
 
 En contraste, las revistas de química, fisiología y física experimental comenzaron a estructurar los artículos de manera más prescriptiva:
 
-- **Introduction**: Problema a resolver y trabajos previos
-- **Materials and Apparatus**: Descripción detallada del montaje experimental
-- **Procedure**: Pasos seguidos (para permitir replicación)
-- **Observations**: Datos registrados (a menudo en tablas)
-- **Discussion**: Interpretación de los datos
-- **Conclusions**: Implicaciones generales
+- **Introducción**: Problema a resolver y trabajos previos
+- **Materiales y aparatos**: Descripción detallada del montaje experimental
+- **Procedimiento**: Pasos seguidos (para permitir replicación)
+- **Observaciones**: Datos registrados (a menudo en tablas)
+- **Discusión**: Interpretación de los datos
+- **Conclusiones**: Implicaciones generales
 
 Esta estructuración respondía a la **lógica experimental**: la validez de una afirmación dependía de que otros laboratorios pudieran **reproducir el resultado**. Por tanto, el artículo debía ser un "protocolo" suficientemente detallado, no solo un "relato" de lo ocurrido.
 
@@ -252,10 +262,10 @@ Esta estructuración respondía a la **lógica experimental**: la validez de una
 
 Las revistas de botánica, zoología y geología mantuvieron estructuras más narrativas:
 
-- **Descriptive Accounts**: Descripciones morfológicas detalladas de nuevas especies
-- **Taxonomic Revisions**: Reorganización de clasificaciones previas
-- **Field Reports**: Relatos de expediciones y observaciones en terreno
-- **Illustrations**: Láminas grabadas (a menudo la parte más valiosa del artículo)
+- **Descripciones**: Descripciones morfológicas detalladas de nuevas especies
+- **Revisiones taxonómicas**: Reorganización de clasificaciones previas
+- **Reportes de campo**: Relatos de expediciones y observaciones en terreno
+- **Ilustraciones**: Láminas grabadas (a menudo la parte más valiosa del artículo)
 
 Aquí, la **descripción precisa** era la contribución epistémica central. No había "hipótesis" a probar ni "experimentos" a replicar; el valor residía en la minucia observacional y la capacidad de discernir diferencias morfológicas significativas.
 
@@ -263,34 +273,34 @@ Aquí, la **descripción precisa** era la contribución epistémica central. No 
 
 A principios del siglo XX, las revistas habían estabilizado una **tipología de contribuciones**:
 
-**1. Research Articles / Original Papers**
+**1. Artículos de investigación / Artículos originales**
 - Contribución sustantiva basada en investigación nueva
 - Extensión considerable (10-30 páginas)
 - Revisión por pares rigurosa
 - Valor curricular alto
 
-**2. Reviews / Critical Reviews**
+**2. Revisiones / Revisiones críticas**
 - Síntesis crítica de literatura sobre un tema
 - Escritas por expertos reconocidos (a menudo por invitación editorial)
 - Mayor extensión que artículos originales (30-60 páginas)
 - Función: orientar a investigadores sobre estado del arte
 
-**3. Short Communications / Preliminary Notes**
+**3. Comunicaciones breves / Notas preliminares**
 - Resultados preliminares o hallazgos urgentes (prioridad en descubrimiento)
 - Extensión limitada (2-5 páginas)
 - Revisión acelerada
 - Expectativa de publicación posterior completa
 
-**4. Letters / Correspondence**
+**4. Cartas / Correspondencia**
 - Comentarios sobre artículos previos
 - Observaciones anecdóticas
 - Debates metodológicos
 - Extensión muy breve (1-2 páginas)
 
-**5. Book Reviews**
+**5. Reseñas de libros**
 - Análisis crítico de monografías recientes
 - Variable en extensión según disciplina
-- En humanidades: género académico propio (review essays de 10-15 páginas)
+- En humanidades: género académico propio (ensayos de reseña de 10-15 páginas)
 - En ciencias: reseñas descriptivas breves (1-2 páginas)
 
 Esta tipología no era universal (humanidades mantuvieron estructuras más flexibles), pero dominó en ciencias naturales y se convirtió en **modelo aspiracional** para campos emergentes.
@@ -299,11 +309,11 @@ Esta tipología no era universal (humanidades mantuvieron estructuras más flexi
 
 Mientras las ciencias naturales estandarizaban sus estructuras, las revistas de historia, filosofía, literatura y estudios clásicos mantuvieron una organización más fluida:
 
-- **Essays**: Artículos argumentativos sin subdivisión interna prescrita
-- **Critical Readings**: Análisis detallados de textos específicos (no "revisiones" de literatura secundaria)
+- **Ensayos**: Artículos argumentativos sin subdivisión interna prescrita
+- **Lecturas críticas**: Análisis detallados de textos específicos (no "revisiones" de literatura secundaria)
 - **Debates**: Intercambios extendidos entre posiciones teóricas opuestas
-- **Documents**: Edición de fuentes primarias con notas críticas
-- **Review Essays**: Reseñas de múltiples libros que construyen un argumento propio
+- **Documentos**: Edición de fuentes primarias con notas críticas
+- **Ensayos de reseña**: Reseñas de múltiples libros que construyen un argumento propio
 
 Esta resistencia no era "atraso" sino reconocimiento de que **la argumentación humanística opera de manera diferente**:
 
@@ -312,11 +322,11 @@ Esta resistencia no era "atraso" sino reconocimiento de que **la argumentación 
 3. El debate teórico es continuo, no resoluble mediante experimentos cruciales
 4. La escritura misma es parte del argumento (el estilo no es ornamental sino epistémico)
 
-### 2.4. La estandarización IMRyD y sus límites (1945-2000)
+### La estandarización IMRyD y sus límites (1945-2000)
 
 #### Orígenes militares y biomédicos
 
-La estructura IMRyD (Introduction, Methods, Results, Discussion) se consolidó en biomedicina durante la Segunda Guerra Mundial y la inmediata posguerra, impulsada por:
+La estructura IMRyD (Introducción, Métodos, Resultados, Discusión) se consolidó en biomedicina durante la Segunda Guerra Mundial y la inmediata posguerra, impulsada por [8]:
 
 1. **Investigación militar**: Necesidad de protocolos estandarizados para compartir resultados entre laboratorios (Proyecto Manhattan, desarrollo de antibióticos)
 2. **Explosión de publicaciones**: PubMed indexaba 4,750 revistas en 1946 → necesidad de formatos comparables
@@ -326,10 +336,10 @@ La estructura IMRyD (Introduction, Methods, Results, Discussion) se consolidó e
 
 | Sección | Función epistémica | Tiempo verbal típico |
 |---------|-------------------|---------------------|
-| **Introduction** | Justificar la pregunta de investigación en el contexto de conocimiento previo | Presente (estado actual del conocimiento) |
-| **Methods** | Describir procedimientos de manera replicable | Pasado (lo que se hizo) |
-| **Results** | Presentar datos sin interpretación | Pasado (lo que se encontró) |
-| **Discussion** | Interpretar resultados, confrontar con literatura, sugerir implicaciones | Presente/futuro (lo que significa, lo que falta hacer) |
+| **Introducción** | Justificar la pregunta de investigación en el contexto de conocimiento previo | Presente (estado actual del conocimiento) |
+| **Métodos** | Describir procedimientos de manera replicable | Pasado (lo que se hizo) |
+| **Resultados** | Presentar datos sin interpretación | Pasado (lo que se encontró) |
+| **Discusión** | Interpretar resultados, confrontar con literatura, sugerir implicaciones | Presente/futuro (lo que significa, lo que falta hacer) |
 
 Esta estructura impuso una **lógica hipotético-deductiva explícita**: plantear pregunta → describir cómo se respondió → reportar hallazgos → interpretar significado. Cualquier desviación de este orden se consideraba "confusa" o "no científica".
 
@@ -343,12 +353,12 @@ La difusión del IMRyD fue **disciplinariamente estratificada**:
 - Ciencias de la salud pública
 
 **Adopción parcial o adaptada:**
-- Psicología: agregó secciones de "Participants" y "Measures" dentro de Methods
-- Ecología: incluyó "Study Site" como sección separada
-- Ingeniería: reemplazó "Discussion" por "Applications and Implications"
+- Psicología: agregó secciones de "Participantes" y "Medidas" dentro de Métodos
+- Ecología: incluyó "Sitio de estudio" como sección separada
+- Ingeniería: reemplazó "Discusión" por "Aplicaciones e implicaciones"
 
 **Resistencia o rechazo:**
-- Matemáticas: mantuvo "Theorem-Proof" sin secciones narrativas
+- Matemáticas: mantuvo "Teorema-Demostración" sin secciones narrativas
 - Historia: conservó ensayos narrativos con secciones temáticas, no metodológicas
 - Filosofía: rechazó explícitamente IMRyD como incompatible con argumentación conceptual
 
@@ -357,36 +367,36 @@ La difusión del IMRyD fue **disciplinariamente estratificada**:
 Desde los años 1980, varios autores criticaron la imposición del IMRyD como **ideología metodológica**:
 
 **1. Oculta el proceso real de investigación**
-El artículo IMRyD presenta una **reconstrucción racional** del proceso científico (hipótesis → experimento → resultado → conclusión), pero la investigación real raramente sigue ese orden. Como señala Peter Medawar (1963):
+El artículo IMRyD presenta una **reconstrucción racional** del proceso científico (hipótesis → experimento → resultado → conclusión), pero la investigación real raramente sigue ese orden. Como señala Peter Medawar [9]:
 
-> "The scientific paper is a fraud. It misrepresents the processes of thought that accompanied or gave rise to the work described."
+> "El artículo científico es un fraude. Tergiversa los procesos de pensamiento que acompañaron o dieron origen al trabajo descrito."
 
 La hipótesis presentada en la Introducción a menudo surgió *después* de ver los datos; los métodos fueron ajustados iterativamente; los resultados "negativos" se omiten. El IMRyD **borra la contingencia y la improvisación** inherentes a la investigación.
 
 **2. No es universal dentro de las ciencias**
-Bazerman (1988) demostró que incluso en física, una de las disciplinas más formalizadas, existen sub-culturas editoriales:
+Bazerman [10] demostró que incluso en física, una de las disciplinas más formalizadas, existen sub-culturas editoriales:
 
-- Física teórica: no tiene sección de "Methods" (las ecuaciones son el método)
-- Física de partículas: reporta datos de aceleradores donde "Results" y "Discussion" son indistinguibles
-- Astrofísica observacional: incluye secciones de "Data Reduction" y "Error Analysis" que no encajan en IMRyD estándar
+- Física teórica: no tiene sección de "Métodos" (las ecuaciones son el método)
+- Física de partículas: reporta datos de aceleradores donde "Resultados" y "Discusión" son indistinguibles
+- Astrofísica observacional: incluye secciones de "Reducción de datos" y "Análisis de errores" que no encajan en IMRyD estándar
 
 **3. Ignora la retórica científica**
-Greg Myers (1990) analizó borradores de artículos científicos y mostró que la estructura final IMRyD es producto de **negociación editorial**, no representación transparente de la investigación. Los autores aprenden a:
+Greg Myers [11] analizó borradores de artículos científicos y mostró que la estructura final IMRyD es producto de **negociación editorial**, no representación transparente de la investigación. Los autores aprenden a:
 
 - Presentar resultados "negativos" como "sorprendentes" (para justificar publicación)
-- Relegar metodología compleja a "Supplementary Materials" (para simplificar narrativa)
+- Relegar metodología compleja a "Materiales suplementarios" (para simplificar narrativa)
 - Discutir solo interpretaciones que refuerzan la hipótesis (omitiendo alternativas)
 
 **4. Inadecuado para investigación cualitativa**
 En ciencias sociales cualitativas, el IMRyD genera distorsiones:
 
-- Los "Resultados" en etnografía son inseparables de su interpretación → colapso de Results y Discussion
-- Los "Métodos" son reflexivos y emergentes, no protocolos pre-definidos → requieren sección de "Researcher Positionality"
-- La "Introducción" no solo revisa literatura, sino que construye marco teórico → necesidad de sección de "Theoretical Framework"
+- Los "Resultados" en etnografía son inseparables de su interpretación → colapso de Resultados y Discusión
+- Los "Métodos" son reflexivos y emergentes, no protocolos pre-definidos → requieren sección de "Posicionamiento del investigador"
+- La "Introducción" no solo revisa literatura, sino que construye marco teórico → necesidad de sección de "Marco teórico"
 
 A pesar de estas críticas, el IMRyD se convirtió en **criterio normativo** para evaluación de calidad editorial en bases de datos como Scopus y Web of Science, generando presión sobre revistas de otras tradiciones para adoptarlo.
 
-### 2.5. Síntesis: de la contingencia histórica a la norma universal
+### Síntesis: de la contingencia histórica a la norma universal
 
 Este recorrido genealógico revela tres conclusiones clave:
 
@@ -399,12 +409,11 @@ El modelo IMRyD asume una ciencia **hipotético-deductiva, experimental y replic
 **3. La universalización actual es un proyecto geopolítico**
 La imposición del modelo anglosajón de ciencias experimentales como "estándar universal" no es un proceso neutral de "mejora de calidad", sino una **reconfiguración hegemónica** de lo que cuenta como "revista científica legítima". Esta presión opera a través de:
 
-- Índices bibliométricos que privilegian journals con estructura homogénea
+- Índices bibliométricos que privilegian revistas con estructura homogénea
 - Políticas de evaluación académica que solo reconocen ciertos tipos de publicaciones
 - Flujos financieros que favorecen revistas que adoptan el modelo internacional
 
 La siguiente sección explora cómo diferentes geografías académicas resistieron, adaptaron o hibridaron este modelo, generando la diversidad estructural contemporánea.
-
 
 ## 3. Geografías editoriales divergentes: tradiciones nacionales y modelos regionales
 
@@ -412,13 +421,13 @@ La estructura de las revistas científicas no es solo producto de evoluciones te
 
 Esta sección analiza cuatro grandes tradiciones editoriales y sus modelos estructurales característicos: el mundo anglosajón, Europa continental, América Latina, y las regiones de Asia, África y Medio Oriente.
 
-### 3.1. Mundo anglosajón: el modelo de la "contribución discreta"
+### Mundo anglosajón: el modelo de la "contribución discreta"
 
 #### Características estructurales dominantes
 
 Las revistas científicas en Estados Unidos, Reino Unido, Canadá, Australia y Nueva Zelanda convergen en un modelo editorial caracterizado por:
 
-**1. Predominio del Research Article individual**
+**1. Predominio del artículo de investigación individual**
 - Artículos como unidades autónomas y autosuficientes
 - Ausencia de agrupaciones temáticas explícitas (no hay "números monográficos" como categoría estable)
 - Cada artículo debe justificar su relevancia independientemente
@@ -430,20 +439,20 @@ Las revistas científicas en Estados Unidos, Reino Unido, Canadá, Australia y N
 - Funciones: anunciar cambios de política editorial, contextualizar números especiales, abordar controversias metodológicas
 - **No es un espacio de posicionamiento teórico** del comité editorial como colectivo
 
-**3. Book Reviews como sección subsidiaria**
+**3. Reseñas de libros como sección subsidiaria**
 - En ciencias naturales: reseñas descriptivas breves (500-800 palabras)
 - En humanidades: más extensas (1500-3000 palabras) pero claramente diferenciadas de "artículos"
 - Función informativa: alertar sobre novedades bibliográficas
 - **No se consideran "producción académica" con mismo peso que artículos originales**
 
 **4. Ausencia de *Dossier* o "Monográfico"**
-- Cuando hay números temáticos, se denominan "Special Issues" o "Thematic Collections"
+- Cuando hay números temáticos, se denominan "números especiales" o "colecciones temáticas"
 - Son excepcionales, no parte de la estructura editorial regular
 - Se publican como suplementos o fascículos separados del volumen regular
-- Cada artículo del Special Issue mantiene autonomía (pueden citarse independientemente)
+- Cada artículo del número especial mantiene autonomía (pueden citarse independientemente)
 
-**5. Peer review como control de calidad individual**
-- Sistema predominante: **single-blind** (revisor anónimo, autor identificado)
+**5. Revisión por pares como control de calidad individual**
+- Sistema predominante: **ciego simple** (revisor anónimo, autor identificado)
 - Evaluación centrada en: validez metodológica, originalidad de resultados, relevancia para el campo
 - **No hay revisión de coherencia temática entre artículos** de un mismo número (porque no se espera coherencia)
 
@@ -464,18 +473,18 @@ Este contexto favorece revistas que publican **contribuciones individuales agreg
 **B) Financiamiento competitivo basado en proyectos**
 
 La investigación anglosajona se financia predominantemente mediante:
-- Grants competitivos de agencias estatales (NSF, NIH, ESRC, ARC)
+- Subvenciones competitivas de agencias estatales (NSF, NIH, ESRC, ARC)
 - Evaluación individual de investigadores principales
 - Expectativa de múltiples publicaciones derivadas de un proyecto
 
 Esto genera presión por publicar **hallazgos discretos lo más rápido posible**, no esperar a tener una visión sintética madura para un número monográfico.
 
-**C) Cultura del "claim-staking" (marcar territorio)**
+**C) Cultura de delimitación de territorio**
 
 La competencia por prioridad en descubrimientos es más intensa en el sistema anglosajón:
-- Importancia crucial del "first to publish"
+- Importancia crucial del "primero en publicar"
 - Litigios frecuentes sobre autoría y reconocimiento
-- Valor de los "short communications" o "letters" para establecer prioridad antes de la publicación completa
+- Valor de las "comunicaciones breves" o "cartas" para establecer prioridad antes de la publicación completa
 
 Esta cultura favorece estructuras editoriales que permiten **publicación rápida de resultados individuales**, no procesos colectivos de debate previo a la publicación.
 
@@ -484,26 +493,26 @@ Esta cultura favorece estructuras editoriales que permiten **publicación rápid
 ***Science* (AAAS, EEUU, fundada 1880)**
 
 Estructura típica de un número:
-- Research Articles (4-6 artículos, temas diversos)
-- Reports (hallazgos breves, 2-4 páginas)
-- Reviews (síntesis de campo, 1-2 por número)
-- Perspectives (comentarios sobre artículos del mismo número)
-- News (cobertura periodística de desarrollos científicos)
-- Letters (correspondencia breve)
+- Artículos de investigación (4-6 artículos, temas diversos)
+- Reportes (hallazgos breves, 2-4 páginas)
+- Revisiones (síntesis de campo, 1-2 por número)
+- Perspectivas (comentarios sobre artículos del mismo número)
+- Noticias (cobertura periodística de desarrollos científicos)
+- Cartas (correspondencia breve)
 
 **Características:**
 - No hay agrupación temática de artículos (un número puede incluir neurociencia, cambio climático, y física de partículas)
-- La coherencia se logra mediante "Perspectives" que contextualizan artículos individuales
-- El prestigio se asocia a publicar UN artículo en Science, no a coordinar un número temático
+- La coherencia se logra mediante "Perspectivas" que contextualizan artículos individuales
+- El prestigio se asocia a publicar UN artículo en *Science*, no a coordinar un número temático
 
 ***American Historical Review* (AHA, EEUU, fundada 1895)**
 
 Incluso en humanidades, el modelo anglosajón privilegia artículos discretos:
 
 Estructura típica:
-- Articles (3-4 artículos de investigación original, temas no relacionados)
-- AHR Forum (ocasional, debate sobre un libro o tema, pero claramente excepcional)
-- Reviews (reseñas de libros recientes, organizadas por región geográfica)
+- Artículos (3-4 artículos de investigación original, temas no relacionados)
+- Foro AHR (ocasional, debate sobre un libro o tema, pero claramente excepcional)
+- Reseñas (reseñas de libros recientes, organizadas por región geográfica)
 
 **Contraste con tradición europea:**
 - No hay "números monográficos" regulares
@@ -512,23 +521,23 @@ Estructura típica:
 
 ***Nature* (Reino Unido, fundada 1869)**
 
-Nature es paradigmático del modelo anglosajón por su estructura híbrida pero individualizada:
+*Nature* es paradigmático del modelo anglosajón por su estructura híbrida pero individualizada:
 
 Contenidos típicos:
-- Research (artículos de investigación original, máximo 5 páginas)
-- Letters (comunicaciones breves)
-- News & Views (comentarios cortos sobre artículos del mismo número)
-- Reviews (revisiones de literatura)
-- Correspondence (debates sobre artículos previos)
+- Investigación (artículos de investigación original, máximo 5 páginas)
+- Cartas (comunicaciones breves)
+- Noticias y perspectivas (comentarios cortos sobre artículos del mismo número)
+- Revisiones (revisiones de literatura)
+- Correspondencia (debates sobre artículos previos)
 
-**Innovación clave:** Nature separó tempranamente el "periodismo científico" (News) de la "publicación científica" (Research), pero ambos espacios publican contenidos discretos, no construcciones colectivas.
+**Innovación clave:** *Nature* separó tempranamente el "periodismo científico" (Noticias) de la "publicación científica" (Investigación), pero ambos espacios publican contenidos discretos, no construcciones colectivas.
 
 #### Ventajas del modelo anglosajón
 
 1. **Velocidad de publicación**: No es necesario esperar a completar un número temático
 2. **Flexibilidad temática**: Permite publicar avances en campos emergentes sin necesidad de masa crítica
 3. **Claridad en evaluación**: Métricas individuales claras (cada artículo tiene su propio impacto)
-4. **Adaptabilidad**: Fácil incorporar nuevos tipos de artículos (Data Papers, Registered Reports) como secciones adicionales
+4. **Adaptabilidad**: Fácil incorporar nuevos tipos de artículos (artículos de datos, informes registrados) como secciones adicionales
 
 #### Limitaciones del modelo anglosajón
 
@@ -537,7 +546,7 @@ Contenidos típicos:
 3. **Dictadura de lo publicable**: La presión por publicar frecuentemente favorece resultados "seguros" sobre exploración de problemas complejos
 4. **Invisibilización de debates**: Las controversias se reducen a "correspondencia" breve, no hay espacio para debates extendidos
 
-### 3.2. Europa continental: números temáticos y cultura de debate
+### Europa continental: números temáticos y cultura de debate
 
 #### Tradiciones nacionales diversas pero convergentes
 
@@ -545,12 +554,12 @@ Europa continental (Francia, Alemania, Italia, España, Países Bajos) desarroll
 
 **1. El "número monográfico" como unidad editorial central**
 
-A diferencia del "Special Issue" ocasional anglosajón, muchas revistas europeas estructuran regularmente números completos en torno a un tema:
+A diferencia del "número especial" ocasional anglosajón, muchas revistas europeas estructuran regularmente números completos en torno a un tema:
 
-- **Francia**: *Dossier thématique* o *Numéro spécial*
-- **Alemania**: *Themenheft* o *Schwerpunkt*
-- **Italia**: *Numero monografico*
-- **España**: *Monográfico* o *Dossier*
+- **Francia**: *Dossier* temático o número especial
+- **Alemania**: Número temático o enfoque
+- **Italia**: Número monográfico
+- **España**: Monográfico o *Dossier*
 
 Estos no son excepciones, sino **modos normales de operación**. Por ejemplo, la revista francesa *Annales. Histoire, Sciences Sociales* publica más números monográficos que números "variados".
 
@@ -565,75 +574,75 @@ Los editoriales en revistas europeas suelen ser:
 **3. Secciones de debate institucionalizado**
 
 Muchas revistas incluyen secciones explícitas de controversia:
-- **Francia**: *Débats*, *Controverses*, *Discussions*
-- **Alemania**: *Diskussion*, *Forum*
-- **Italia**: *Dibattito*
+- **Francia**: Debates, controversias, discusiones
+- **Alemania**: Discusión, foro
+- **Italia**: Debate
 
 Estas secciones pueden ocupar 30-50% de un número, con intercambios extendidos (réplica → contrarréplica → síntesis).
 
 **4. Reseñas como género académico autónomo**
 
 Las reseñas (especialmente en humanidades) son:
-- **Review Essays**: ensayos de 10-20 páginas que usan varios libros para construir un argumento propio
+- **Ensayos de reseña**: ensayos de 10-20 páginas que usan varios libros para construir un argumento propio
 - Se consideran "producción académica" con valor curricular significativo
 - Función: no solo informar sobre libros, sino intervenir en debates teóricos
 
-#### La tradición francesa: *Revue* vs. *Cahier*
+#### La tradición francesa: revista vs. cuaderno
 
 Francia desarrolló una distinción estructural particular:
 
-**Revue (revista periódica)**
+**Revista (revista periódica)**
 - Publicación continua y regular
 - Mezcla números variados con números monográficos
 - Ejemplos: *Annales*, *Revue d'histoire moderne et contemporaine*, *Actes de la recherche en sciences sociales*
 
-**Cahier (cuaderno)**
+**Cuaderno (cuaderno)**
 - Publicación ocasional (anual o irregular)
 - Cada número es temático por definición
 - Asociado a proyectos de investigación específicos
 - Ejemplos: *Cahiers d'études africaines*, *Cahiers philosophiques*
 
 Esta distinción refleja una epistemología donde:
-- La *revue* es espacio de **circulación continua** del conocimiento establecido
-- El *cahier* es espacio de **exploración colectiva** de problemas emergentes
+- La revista es espacio de **circulación continua** del conocimiento establecido
+- El cuaderno es espacio de **exploración colectiva** de problemas emergentes
 
 **Caso paradigmático: Annales d'histoire économique et sociale (fundada 1929)**
 
-Los fundadores, Marc Bloch y Lucien Febvre, diseñaron la revista explícitamente como **órgano de una escuela de pensamiento**:
+Los fundadores, Marc Bloch y Lucien Febvre, diseñaron la revista explícitamente como **órgano de una escuela de pensamiento** [12]:
 
 Estructura típica:
-- **Études**: artículos de investigación original (no limitados a historia económica, incluyen sociología, antropología, geografía)
-- **Débats et combats**: sección extensa de controversia teórica y metodológica
-- **Notes critiques**: reseñas bibliográficas extensas que funcionan como artículos de intervención
-- **Comptes rendus**: reseñas breves informativas
+- **Estudios**: artículos de investigación original (no limitados a historia económica, incluyen sociología, antropología, geografía)
+- **Debates y combates**: sección extensa de controversia teórica y metodológica
+- **Notas críticas**: reseñas bibliográficas extensas que funcionan como artículos de intervención
+- **Reseñas**: reseñas breves informativas
 
 **Innovación estructural clave:**
 - Los números no son "contenedores neutrales" sino **intervenciones colectivas** en debates historiográficos
-- La sección "Débats et combats" tenía tanto espacio como "Études", reconociendo que el debate teórico es tan importante como la investigación empírica
+- La sección "Debates y combates" tenía tanto espacio como "Estudios", reconociendo que el debate teórico es tan importante como la investigación empírica
 - Las reseñas no se segregan en sección subsidiaria, sino que se integran como parte del argumento editorial
 
 Esta estructura fue imitada por generaciones posteriores de revistas francesas en ciencias sociales.
 
-#### La tradición alemana: *Zeitschrift* y el *Jahrbuch*
+#### La tradición alemana: revista y anuario
 
 Alemania desarrolló dos modelos paralelos:
 
-**Zeitschrift (revista periódica)**
+**Revista (revista periódica)**
 - Publicación trimestral o semestral
 - Estructura similar a modelo anglosajón pero con secciones de debate más prominentes
 - Ejemplo: *Historische Zeitschrift* (fundada 1859)
 
-**Jahrbuch (anuario)**
+**Anuario (anuario)**
 - Publicación anual con número monográfico por definición
 - Asociado a institutos de investigación o academias
 - Función: balance anual del campo + exploración de un tema central
 - Ejemplo: *Jahrbuch für Wirtschaftsgeschichte* (anuario de historia económica)
 
-**Característica distintiva: el *Forschungsbericht* (reporte de investigación)**
+**Característica distintiva: el informe de investigación**
 
-Muchas revistas alemanas incluyen secciones de *Forschungsberichte*:
+Muchas revistas alemanas incluyen secciones de informes de investigación:
 - Reportes extensos (20-40 páginas) sobre estado de la investigación en un área
-- No son "revisiones de literatura" (reviews) anglosajonas, sino **balances críticos** de tendencias
+- No son "revisiones de literatura" anglosajonas, sino **balances críticos** de tendencias
 - Función: cartografiar el campo, identificar lagunas, proponer agendas
 - Pueden ser más citados que artículos empíricos
 
@@ -652,10 +661,10 @@ Italia mantuvo una concepción más "artesanal" de la revista científica:
 Esta revista de historia social desarrolló una estructura híbrida:
 
 Contenidos típicos:
-- **Saggi**: artículos de investigación (organizados temáticamente en cada número)
-- **Discussioni**: debates extendidos sobre problemas metodológicos
-- **Interventi**: intervenciones breves sobre temas de actualidad historiográfica
-- **Rassegne**: ensayos bibliográficos extensos
+- **Ensayos**: artículos de investigación (organizados temáticamente en cada número)
+- **Discusiones**: debates extendidos sobre problemas metodológicos
+- **Intervenciones**: intervenciones breves sobre temas de actualidad historiográfica
+- **Reseñas bibliográficas**: ensayos bibliográficos extensos
 
 **Innovación:** La revista publicaba regularmente **transcripciones de seminarios**, incluyendo preguntas y respuestas, reconociendo que el debate oral es parte constitutiva de la producción de conocimiento.
 
@@ -666,7 +675,7 @@ España ocupa una posición intermedia, con influencias de tradiciones europeas 
 **Características híbridas:**
 - Adopción del término "monográfico" (no "número especial")
 - Secciones de *Dossier* (influencia francesa y latinoamericana)
-- Pero también estructura de "Research Articles" (influencia anglosajona)
+- Pero también estructura de artículos de investigación (influencia anglosajona)
 
 **Ejemplo: Revista de Occidente (fundada 1923, refundada 1963)**
 
@@ -682,14 +691,14 @@ Esta estructura refleja una concepción **ensayística** del conocimiento human�
 
 **A) Herencia de las academias estatales**
 
-A diferencia de la tradición anglosajona de sociedades científicas privadas, la ciencia europea se organizó históricamente en torno a **academias reales** o estatales:
+A diferencia de la tradición anglosajona de sociedades científicas privadas, la ciencia europea se organizó históricamente en torno a **academias reales** o estatales [13]:
 
 - Académie des Sciences (Francia, 1666)
 - Preußische Akademie der Wissenschaften (Prusia, 1700)
 - Accademia dei Lincei (Italia, 1603)
 
 Estas instituciones favorecían:
-- Publicaciones periódicas (*Comptes rendus*, *Sitzungsberichte*) que reportaban actividades colectivas
+- Publicaciones periódicas que reportaban actividades colectivas
 - Proyectos de investigación coordinados por la academia
 - Cultura de debate público en sesiones académicas → trasladada a estructura de revistas
 
@@ -728,7 +737,7 @@ Esta estabilidad financiera permite:
 3. **Concentración de poder**: El editor invitado del monográfico tiene gran control sobre qué voces incluir
 4. **Dificultad para métricas**: ¿Cómo medir impacto de un artículo que es parte de un conjunto temático?
 
-### 3.3. América Latina: el *dossier* como red intelectual y soberanía temática
+### América Latina: el *dossier* como red intelectual y soberanía temática
 
 #### El concepto de *dossier* en contexto latinoamericano
 
@@ -740,10 +749,10 @@ En América Latina, el *dossier* no es solo una sección o un número monográfi
    - No solo editores individuales, sino colectivos de múltiples países
    - Vinculación a proyectos financiados por agencias regionales (CLACSO, FLACSO, redes temáticas)
 
-2. **Función de agenda-setting regional**
+2. **Función de definición de agenda regional**
    - Definir qué temas son relevantes para América Latina
-   - Resistencia a la dependencia temática respecto a journals del Norte Global
-   - Ejemplo: mientras revistas anglosajonas discutían "rational choice theory", *dossier* latinoamericanos abordaban "movimientos sociales y democracia"
+   - Resistencia a la dependencia temática respecto a revistas del Norte Global
+   - Ejemplo: mientras revistas anglosajonas discutían teoría de la elección racional, *dossier* latinoamericanos abordaban movimientos sociales y democracia
 
 3. **Construcción de comunidades transnacionales**
    - Autores de 3-5 países diferentes en un mismo *dossier*
@@ -757,7 +766,7 @@ En América Latina, el *dossier* no es solo una sección o un número monográfi
 
 **Primera generación (1940-1970): Revista como proyecto político-intelectual**
 
-Las primeras revistas latinoamericanas surgieron ligadas a proyectos de transformación social:
+Las primeras revistas latinoamericanas surgieron ligadas a proyectos de transformación social [14]:
 
 **Cuadernos Americanos (México, 1942)**
 - Fundada por exiliados republicanos españoles y intelectuales latinoamericanos
@@ -785,7 +794,7 @@ Durante las dictaduras militares, las revistas cumplieron funciones de resistenc
 
 **Tercera generación (1990-presente): *Dossier* en la era digital**
 
-Con la consolidación de SciELO (1998) y Redalyc (2003), el modelo del *dossier* se institucionalizó digitalmente:
+Con la consolidación de SciELO (1998) y Redalyc (2003), el modelo del *dossier* se institucionalizó digitalmente [15]:
 
 **Características contemporáneas:**
 - *Dossier* coordinados con años de anticipación
@@ -800,10 +809,10 @@ Con la consolidación de SciELO (1998) y Redalyc (2003), el modelo del *dossier*
 Estructura editorial explícita:
 
 ```
-Cada número incluye:
+Cada número puede incluir:
 ├── Editorial
 ├── Dossier (5-7 artículos coordinados)
-│   ├── Presentación del dossier (por coordinador/es)
+│   ├── Presentación del dossier (por coordinador/a)
 │   └── Artículos del dossier
 ├── Artículos (contribuciones variadas fuera del dossier)
 ├── Perspectivas (ensayos teóricos o metodológicos)
@@ -839,9 +848,9 @@ Estructura característica:
 Brasil desarrolló variantes propias del modelo:
 
 Estructura típica:
-- **Artigos** (artículos de investigación, 4-6 contribuciones sobre temas variados)
+- **Artículos** (artículos de investigación, 4-6 contribuciones sobre temas variados)
 - **Dossiê** (cuando aplica, 4-5 artículos coordinados)
-- **Resenhas** (reseñas bibliográficas)
+- **Reseñas** (reseñas bibliográficas)
 
 **Particularidades brasileñas:**
 - El dossiê no es obligatorio en todos los números (flexibilidad)
@@ -858,13 +867,13 @@ América Latina enfrentó históricamente:
 - Recursos limitados que dificultan viajes y encuentros presenciales frecuentes
 
 El *dossier* surgió como **tecnología de integración**:
-- Coordinar un *dossier* crea excusa institucional para encuentros (seminarios previos, workshops)
+- Coordinar un *dossier* crea excusa institucional para encuentros (seminarios previos, talleres)
 - Publicar juntos genera compromiso de lectura mutua entre comunidades que de otro modo no dialogarían
-- El coordinador del *dossier* funciona como "broker" entre redes nacionales
+- El coordinador del *dossier* funciona como "intermediario" entre redes nacionales
 
 **B) Resistencia a la dependencia académica**
 
-La sociología latinoamericana (especialmente desde los años 1960-70) desarrolló una crítica explícita de la **dependencia teórica**:
+La sociología latinoamericana (especialmente desde los años 1960-70) desarrolló una crítica explícita de la **dependencia teórica** [16]:
 
 - Florestan Fernandes (Brasil): crítica de "sociología de trasplante"
 - Pablo González Casanova (México): "colonialismo interno" también en producción de conocimiento
@@ -892,7 +901,7 @@ Paradójicamente, el *dossier* también funciona como **estrategia de inserción
    - Genera "paquetes de conocimiento" que compiten mejor que artículos dispersos
 
 2. **Coordinación internacional aumenta prestigio**
-   - Dossier* co-coordinados por investigadores latinoamericanos y europeos/estadounidenses
+   - *Dossier* co-coordinados por investigadores latinoamericanos y europeos/estadounidenses
    - Función: legitimación mutua (el coordinador del Norte presta prestigio, el del Sur aporta conocimiento local)
 
 3. **Traducción facilitada**
@@ -903,9 +912,9 @@ Paradójicamente, el *dossier* también funciona como **estrategia de inserción
 
 **¿El *dossier* es compatible con publicación continua?**
 
-Las plataformas digitales permiten "publicación anticipada" (ahead of print) de artículos individuales. Esto entra en tensión con la lógica del *dossier*:
+Las plataformas digitales permiten "publicación anticipada" de artículos individuales. Esto entra en tensión con la lógica del *dossier*:
 
-- Si los artículos se publican online conforme son aceptados, ¿qué significa "pertenecer al *dossier*"?
+- Si los artículos se publican en línea conforme son aceptados, ¿qué significa "pertenecer al *dossier*"?
 - ¿El *dossier* es solo una categoría retrospectiva (metadato) o una experiencia de lectura secuencial?
 
 **Debate actual en América Latina:**
@@ -916,32 +925,32 @@ Las plataformas digitales permiten "publicación anticipada" (ahead of print) de
 
 Críticas recientes señalan que el coordinador del *dossier* tiene **poder desproporcionado**:
 - Decide qué voces incluir (puede reproducir redes de élite)
-- Rechaza artículos sin peer review externo (solo por "no calzar con el *dossier*")
+- Rechaza artículos sin revisión por pares externa (solo por "no calzar con el *dossier*")
 - Concentra capital simbólico (coordinar *dossier* vale más que escribir un artículo)
 
 **Propuestas de reforma:**
-- Peer review doble: del coordinador + evaluadores externos
+- Revisión por pares doble: del coordinador + evaluadores externos
 - *Dossier* "abiertos" donde se invita a contribuir pero se aceptan artículos no solicitados si son pertinentes
 - Transparencia sobre proceso de selección de coordinadores
 
-### 3.4. Asia, África y Medio Oriente: hibridaciones y resistencias
+### Asia, África y Medio Oriente: hibridaciones y resistencias
 
 Las revistas científicas en estas regiones muestran una **diversidad interna** mayor que en Occidente, con modelos que van desde adopción completa del formato anglosajón hasta hibridaciones originales que combinan tradiciones locales con estructuras globalizadas.
 
 #### Asia Oriental: modelo dual según disciplina
 
-**China: *Xuebao* (学报) y la tradición de journal universitario**
+**China: Revistas académicas y la tradición de boletín universitario**
 
-Las revistas académicas chinas (*xuebao*, literalmente "boletín de aprendizaje") surgieron en el sistema universitario moderno (post-1900) con características distintivas:
+Las revistas académicas chinas surgieron en el sistema universitario moderno (post-1900) con características distintivas:
 
-**Estructura típica de un xuebao:**
+**Estructura típica de una revista universitaria:**
 - Secciones organizadas por **facultades o institutos** (no por disciplinas abstractas)
 - Ejemplo: *Journal of Peking University (Philosophy and Social Sciences)*:
-  - 哲学 (Filosofía)
-  - 文学 (Literatura)
-  - 历史学 (Historia)
-  - 经济学 (Economía)
-  - 法学 (Derecho)
+  - Filosofía
+  - Literatura
+  - Historia
+  - Economía
+  - Derecho
 
 **Implicación epistémica:**
 - La estructura replica la organización institucional de la universidad
@@ -951,7 +960,7 @@ Las revistas académicas chinas (*xuebao*, literalmente "boletín de aprendizaje
 **Innovación reciente: secciones de traducción**
 
 Muchas revistas chinas incluyen:
-- **译文** (*yiwen*, traducciones): Artículos clásicos o contemporáneos occidentales traducidos al chino
+- **Traducciones**: Artículos clásicos o contemporáneos occidentales traducidos al chino
 - Función: Informar sobre debates internacionales sin asumir que lectores chinos leen inglés fluidamente
 - Reconocimiento: El traductor aparece como co-autor, tiene valor curricular
 
@@ -959,13 +968,13 @@ Muchas revistas chinas incluyen:
 
 Japón desarrolló un sistema dual:
 
-**Revistas en japonés** (*Gakkai-shi*, 学会誌):
-- Estructura europea: números temáticos, debates, review essays extensos
-- Incluyen secciones de *Shiryō* (資料, "materiales"): edición de fuentes primarias o documentos históricos
+**Revistas en japonés**:
+- Estructura europea: números temáticos, debates, ensayos de reseña extensos
+- Incluyen secciones de materiales: edición de fuentes primarias o documentos históricos
 - Función: Servir a comunidad nacional
 
 **Revistas en inglés** (muchas surgidas post-1990):
-- Estructura anglosajona: research articles, short communications, reviews
+- Estructura anglosajona: artículos de investigación, comunicaciones breves, revisiones
 - Objetivo: Visibilidad internacional
 - Tensión: Los mismos investigadores publican en ambos tipos, pero contenidos diferentes (resultados "exportables" en inglés, debates metodológicos en japonés)
 
@@ -990,9 +999,9 @@ Revistas indonesias enfrentan dilema:
 - Publicar en inglés → visibilidad global, pero excluye mayoría de lectores locales
 
 **Solución híbrida:**
-- Resúmenes extendidos bilingües (abstract en inglés de 300-500 palabras, no solo 150)
+- Resúmenes extendidos bilingües (resumen en inglés de 300-500 palabras, no solo 150)
 - Algunos artículos en inglés, otros en indonesio (dentro del mismo número)
-- Secciones de "Ulasan Buku" (reseñas) solo en indonesio
+- Secciones de reseñas solo en indonesio
 
 **Malasia: Modelo plurilingüe institucionalizado**
 
@@ -1005,11 +1014,11 @@ Revistas malayas (especialmente en humanidades) publican en:
 
 Estructura:
 - Artículos de investigación (en cualquiera de los tres idiomas)
-- Ulasan Buku (reseñas, preferentemente en malayo)
-- Forum (debates, multilingües)
+- Reseñas de libros (preferentemente en malayo)
+- Foro (debates, multilingües)
 
 Esta estructura refleja:
-- Política cultural de "Malaysianización" del conocimiento
+- Política cultural de "malaysianización" del conocimiento
 - Pero también necesidad de diálogo con producción anglófona
 
 #### India: herencia colonial y afirmación regional
@@ -1018,12 +1027,12 @@ Esta estructura refleja:
 
 Las revistas indias (especialmente en ciencias naturales y medicina) adoptaron masivamente el modelo británico:
 - Estructura IMRyD
-- Peer review single-blind
+- Revisión por pares ciego simple
 - Secciones de correspondencia
 
 **Razones:**
 - Sistema universitario heredado de colonialismo británico
-- Inglés como lingua franca en país multilingüe
+- Inglés como lengua franca en país multilingüe
 - Aspiración de inserción en circuitos globales (Nature India, BMJ India)
 
 **Resistencias en humanidades y ciencias sociales**
@@ -1033,13 +1042,13 @@ Algunas revistas mantienen estructuras alternativas:
 **Economic and Political Weekly (EPW, Mumbai)**
 
 Estructura única:
-- **Editorials**: Posicionamiento político de la revista sobre actualidad
-- **Perspectives**: Ensayos de reflexión teórica (sin estructura IMRyD)
-- **Special Articles**: Investigación empírica (más flexibilidad que "research articles" estándar)
-- **Reviews**: Reseñas extensas que son intervenciones intelectuales
-- **Commentary**: Análisis de coyuntura política
+- **Editoriales**: Posicionamiento político de la revista sobre actualidad
+- **Perspectivas**: Ensayos de reflexión teórica (sin estructura IMRyD)
+- **Artículos especiales**: Investigación empírica (más flexibilidad que artículos de investigación estándar)
+- **Revisiones**: Reseñas extensas que son intervenciones intelectuales
+- **Comentario**: Análisis de coyuntura política
 
-Esta estructura híbrida refleja la tradición de "engaged scholarship" (investigación comprometida) en India, donde separar análisis académico de intervención política es considerado artificial.
+Esta estructura híbrida refleja la tradición de investigación comprometida en India, donde separar análisis académico de intervención política es considerado artificial.
 
 #### África Subsahariana: entre dependencia y afirmación
 
@@ -1052,38 +1061,38 @@ La mayoría de revistas africanas adoptan formato anglosajón o francófono seg�
 **Limitaciones estructurales:**
 - Financiamiento externo (fundaciones occidentales) condiciona formatos
 - Presión por indexación en bases de datos globales
-- Fuga de cerebros: investigadores africanos publican en journals del Norte
+- Fuga de cerebros: investigadores africanos publican en revistas del Norte
 
-**Innovaciones: secciones de "African Perspectives"**
+**Innovaciones: secciones de "Perspectivas africanas"**
 
 Algunas revistas introducen secciones explícitas que reivindican especificidad africana:
 
 ***African Affairs* (Royal African Society, UK, pero editada en África desde 1990s)**
 
 Estructura híbrida:
-- **Research Articles**: Formato estándar
-- **Africa and...**: Sección que conecta temas africanos con debates globales
+- **Artículos de investigación**: Formato estándar
+- **África y...**: Sección que conecta temas africanos con debates globales
 - **Debates**: Controversias sobre política africana
-- **Briefing**: Análisis de coyuntura (elecciones, conflictos)
+- **Informe**: Análisis de coyuntura (elecciones, conflictos)
 
 **Africa Development (CODESRIA, Senegal)**
 
-Revista panafricana con estructura que refleja diversidad regional:
+Revista panafricana con estructura que refleja diversidad regional [17]:
 - Artículos en inglés, francés, y ocasionalmente portugués o árabe
-- Secciones de "African Scholars": perfiles de intelectuales africanos (función: construir genealogías intelectuales propias)
+- Secciones de "Académicos africanos": perfiles de intelectuales africanos (función: construir genealogías intelectuales propias)
 - **Debates**: Intercambios sobre colonialidad, desarrollo, panafricanismo
 
 #### Medio Oriente: entre tradición islámica y globalización
 
 **Tradición de revista académica en árabe**
 
-El mundo árabe tiene una larga tradición de *majallat* (مجلات, revistas), pero su estructura difiere de modelos occidentales:
+El mundo árabe tiene una larga tradición de revistas, pero su estructura difiere de modelos occidentales:
 
 **Características clásicas:**
-- Sin peer review anónimo (prestigio del autor determina publicación)
+- Sin revisión por pares anónima (prestigio del autor determina publicación)
 - Reseñas extensas de libros clásicos (no solo novedades)
-- Inclusión de *fatwas* (opiniones jurídico-religiosas) en revistas de estudios islámicos
-- Secciones de *turāth* (تراث, "patrimonio"): edición de manuscritos antiguos
+- Inclusión de opiniones jurídico-religiosas en revistas de estudios islámicos
+- Secciones de patrimonio: edición de manuscritos antiguos
 
 **Tensión contemporánea: Arabización vs. Anglofización**
 
@@ -1092,12 +1101,12 @@ Debate activo en países árabes:
 **Posición "arabizante":**
 - Publicar en árabe para fortalecer idioma como lengua de ciencia
 - Mantener estructuras editoriales que reflejan epistemología islámica
-- Ejemplo: Revistas de Al-Azhar (Egipto) que incluyen secciones de *tafsir* (exégesis coránica) junto a análisis sociológico
+- Ejemplo: Revistas de Al-Azhar (Egipto) que incluyen secciones de exégesis coránica junto a análisis sociológico
 
 **Posición "globalizante":**
 - Publicar en inglés para visibilidad internacional
 - Adoptar estructura IMRyD incluso en ciencias sociales
-- Ejemplo: Revistas de universidades del Golfo (Qatar, UAE) que son indistinguibles de journals anglosajones
+- Ejemplo: Revistas de universidades del Golfo (Qatar, UAE) que son indistinguibles de revistas anglosajonas
 
 **Casos híbridos: Doble publicación**
 
@@ -1111,7 +1120,7 @@ Algunas revistas publican:
 - Sin secciones rígidas, estructura flexible según contenido
 - Énfasis en diálogo entre tradiciones académicas occidentales y árabes
 
-### 3.5. Síntesis: geografías como epistemologías
+### Síntesis: geografías como epistemologías
 
 Este recorrido por tradiciones regionales revela que la estructura editorial de las revistas científicas no es técnicamente neutral, sino que inscribe **diferentes concepciones sobre cómo se produce y circula el conocimiento legítimo**:
 
@@ -1119,56 +1128,55 @@ Este recorrido por tradiciones regionales revela que la estructura editorial de 
 |-----------|-------------------|------------------------|----------------|
 | **Anglosajona** | Contribuciones discretas agregadas | Conocimiento como acumulación de hallazgos individuales verificables | Mercado competitivo de ideas |
 | **Europa Continental** | Números temáticos y debates explícitos | Conocimiento como construcción colectiva dialógica | Construcción de escuelas de pensamiento |
-| **Latinoamericana** | *Dossier* como red intelectual | Conocimiento como agenda regional frente a dependencia | Soberanía epistémica y integración transnacional |
+| **Latinoamericana** | *Dossier* como red intelectual | Conocimiento como agenda regional frente a dependencia | Soberanía epistémica e integración transnacional |
 | **Asiática** | Dual (nacional en idioma local + internacional en inglés) | Conocimiento como negociación entre tradición local y ciencia global | Preservación cultural + inserción global |
 | **Africana** | Adopción adaptativa de modelos externos + reivindicación de perspectivas propias | Conocimiento como recuperación de agencia en contexto poscolonial | Descolonización epistémica |
 
 La diversidad estructural no es un "problema" a homogeneizar, sino una **riqueza epistémica** que refleja la pluralidad de tradiciones intelectuales. La siguiente sección explora cómo las diferencias disciplinarias intersectan con estas geografías, generando una matriz compleja de modelos editoriales.
 
-
 ## 4. Epistemologías disciplinarias: cómo valida el conocimiento cada campo
 
 Si la geografía académica genera modelos editoriales divergentes, las **diferencias disciplinarias** producen variaciones estructurales aún más profundas. La estructura de una revista no solo refleja dónde se publica, sino **qué tipo de conocimiento** se produce. Esta sección examina cuatro grandes campos —ciencias experimentales, ciencias sociales, humanidades, profesiones aplicadas— mostrando cómo sus estructuras editoriales inscriben epistemologías específicas.
 
-### 4.1. Ciencias experimentales: datos, replicabilidad y el artículo como protocolo
+### Ciencias experimentales: datos, replicabilidad y el artículo como protocolo
 
 #### La lógica experimental inscrita en la estructura editorial
 
 Las revistas de ciencias experimentales (física, química, biología molecular, fisiología) desarrollaron el modelo estructural más estandarizado porque comparten una **epistemología común**: el conocimiento válido proviene de **experimentos controlados y replicables**. La estructura editorial debe, por tanto, permitir que otros laboratorios reproduzcan los resultados.
 
-**Estructura canónica del Research Article en ciencias experimentales:**
+**Estructura canónica del artículo de investigación en ciencias experimentales:**
 
 ```
-1. ABSTRACT (150-250 palabras)
-   - Background
-   - Methods (resumido)
-   - Results (principales hallazgos)
-   - Conclusions
+1. RESUMEN (150-250 palabras)
+   - Antecedentes
+   - Métodos (resumido)
+   - Resultados (principales hallazgos)
+   - Conclusiones
 
-2. INTRODUCTION
+2. INTRODUCCIÓN
    - Estado actual del conocimiento
    - Pregunta de investigación específica
    - Hipótesis a probar
 
-3. MATERIALS AND METHODS
+3. MATERIALES Y MÉTODOS
    - Reactivos y equipamiento (con marcas, modelos, proveedores)
    - Procedimientos experimentales (paso a paso)
    - Diseño experimental (grupos control, variables)
    - Análisis estadístico
 
-4. RESULTS
+4. RESULTADOS
    - Presentación de datos (texto + figuras + tablas)
    - Sin interpretación (solo descripción de patrones observados)
 
-5. DISCUSSION
+5. DISCUSIÓN
    - Interpretación de resultados
    - Comparación con literatura previa
    - Limitaciones del estudio
    - Implicaciones y direcciones futuras
 
-6. REFERENCES
+6. REFERENCIAS
 
-7. SUPPLEMENTARY MATERIALS (opcional)
+7. MATERIALES SUPLEMENTARIOS (opcional)
    - Datos completos
    - Protocolos detallados
    - Figuras adicionales
@@ -1178,12 +1186,12 @@ Las revistas de ciencias experimentales (física, química, biología molecular,
 
 Cada sección cumple una **función epistémica específica**:
 
-**MATERIALS AND METHODS: El corazón de la replicabilidad**
+**MATERIALES Y MÉTODOS: El corazón de la replicabilidad**
 
 Esta sección es, argumentablemente, la más importante en ciencias experimentales. Un ejemplo de *Cell* (revista de biología molecular):
 
-> **Plasmid Construction**
-> The human CRISPR-Cas9 vector was purchased from Addgene (#52961). The guide RNA sequence (5'-GCACTGAGATCAGCGACTT-3') targeting exon 3 of the TP53 gene was cloned into the BbsI site using T4 DNA ligase (New England Biolabs, M0202S) according to manufacturer's protocol. Sequence verification was performed by Sanger sequencing (Genewiz).
+> **Construcción de plásmidos**
+> El vector CRISPR-Cas9 humano se adquirió de Addgene (#52961). La secuencia de ARN guía (5'-GCACTGAGATCAGCGACTT-3') dirigida al exón 3 del gen TP53 se clonó en el sitio BbsI usando ligasa de ADN T4 (New England Biolabs, M0202S) según protocolo del fabricante. La verificación de secuencia se realizó mediante secuenciación Sanger (Genewiz).
 
 Este nivel de detalle permite que:
 1. Otro laboratorio compre exactamente los mismos reactivos
@@ -1192,76 +1200,76 @@ Este nivel de detalle permite que:
 
 **La especificidad es epistémicamente necesaria**: si el artículo dijera solo "usamos CRISPR-Cas9", sería insuficiente porque hay múltiples variantes del sistema, cada una con comportamiento diferente.
 
-**RESULTS: Separación estricta entre observación e interpretación**
+**RESULTADOS: Separación estricta entre observación e interpretación**
 
 Esta sección debe presentar datos "en crudo" sin valoración. Ejemplo de *Nature Neuroscience*:
 
 > **Correcto (solo descripción):**
-> "Mice in the experimental group showed a 43% reduction in freezing behavior compared to controls (experimental: 21.3 ± 3.8%, control: 37.4 ± 4.2%, t(18) = 3.21, p = 0.005; Figure 2B)."
+> "Los ratones del grupo experimental mostraron una reducción del 43% en comportamiento de congelamiento comparado con controles (experimental: 21.3 ± 3.8%, control: 37.4 ± 4.2%, t(18) = 3.21, p = 0.005; Figura 2B)."
 
 > **Incorrecto (incluye interpretación):**
-> "Mice in the experimental group showed a significant improvement in fear extinction, suggesting that the drug effectively modulates amygdala circuits."
+> "Los ratones del grupo experimental mostraron una mejora significativa en extinción del miedo, sugiriendo que el fármaco modula efectivamente los circuitos de la amígdala."
 
-La interpretación ("improvement", "effectively modulates") debe ir en Discussion, no en Results. Esta separación refleja una epistemología **positivista**: primero reportamos "lo que vimos", luego interpretamos "lo que significa".
+La interpretación ("mejora", "modula efectivamente") debe ir en Discusión, no en Resultados. Esta separación refleja una epistemología **positivista**: primero reportamos "lo que vimos", luego interpretamos "lo que significa".
 
-**DISCUSSION: Espacio de especulación controlada**
+**DISCUSIÓN: Espacio de especulación controlada**
 
 Aquí sí está permitido interpretar, pero con restricciones:
-- Toda afirmación debe estar anclada en los datos presentados en Results
-- Las especulaciones deben marcarse explícitamente ("we speculate that...", "these findings suggest...")
+- Toda afirmación debe estar anclada en los datos presentados en Resultados
+- Las especulaciones deben marcarse explícitamente ("especulamos que...", "estos hallazgos sugieren...")
 - Deben reconocerse limitaciones
 
-Ejemplo de buena Discussion (*Science*):
+Ejemplo de buena Discusión (*Science*):
 
-> "While our data demonstrate that X causes Y in cultured cells, the in vivo relevance remains unclear. The high concentrations required (10 μM) exceed physiological levels reported in human plasma (0.5-2 μM). Future studies using tissue-specific knockout models will be necessary to determine whether this pathway operates in whole organisms."
+> "Aunque nuestros datos demuestran que X causa Y en células cultivadas, la relevancia in vivo permanece incierta. Las altas concentraciones requeridas (10 μM) exceden niveles fisiológicos reportados en plasma humano (0.5-2 μM). Estudios futuros usando modelos de eliminación génica tejido-específicos serán necesarios para determinar si esta vía opera en organismos completos."
 
-Esta estructura de Discussion reconoce que **todo experimento tiene límites**: condiciones artificiales (cultivo celular vs. organismo vivo), dosis no fisiológicas, etc. La honestidad sobre limitaciones es parte de la validación epistémica.
+Esta estructura de Discusión reconoce que **todo experimento tiene límites**: condiciones artificiales (cultivo celular vs. organismo vivo), dosis no fisiológicas, etc. La honestidad sobre limitaciones es parte de la validación epistémica.
 
 #### Variaciones dentro de las ciencias experimentales
 
 No todas las ciencias experimentales usan IMRyD idéntico:
 
-**Física teórica: sin sección de "Methods"**
+**Física teórica: sin sección de "Métodos"**
 
 Las revistas de física teórica (*Physical Review D*, *Journal of High Energy Physics*) estructuran artículos así:
 
 ```
-1. Introduction
-2. Theoretical Framework
-3. Calculations
-4. Results and Discussion
-5. Conclusions
+1. Introducción
+2. Marco teórico
+3. Cálculos
+4. Resultados y discusión
+5. Conclusiones
 ```
 
-**¿Por qué no hay "Methods"?**
-Porque el "método" en física teórica son las matemáticas mismas. La sección "Calculations" muestra las derivaciones, que es equivalente a describir un experimento. Ejemplo:
+**¿Por qué no hay "Métodos"?**
+Porque el "método" en física teórica son las matemáticas mismas. La sección "Cálculos" muestra las derivaciones, que es equivalente a describir un experimento. Ejemplo:
 
-> **Calculation of the partition function:**
-> Starting from the path integral formulation:
+> **Cálculo de la función de partición:**
+> Partiendo de la formulación de integral de camino:
 > Z = ∫ Dφ exp(-S[φ])
-> where S[φ] is the action functional. For a free scalar field in d dimensions:
+> donde S[φ] es el funcional de acción. Para un campo escalar libre en d dimensiones:
 > S[φ] = ∫ d^d x [(∂φ)² + m²φ²]
 
 El lector puede "replicar" este resultado siguiendo las ecuaciones, igual que un biólogo replica un experimento siguiendo el protocolo.
 
-**Astronomía observacional: secciones de Data Reduction**
+**Astronomía observacional: secciones de reducción de datos**
 
 Las revistas astronómicas (*Astrophysical Journal*, *Astronomy & Astrophysics*) incluyen:
 
 ```
-1. Introduction
-2. Observations
-   2.1. Telescope and instruments
-   2.2. Observation strategy
-3. Data Reduction
-   3.1. Calibration
-   3.2. Background subtraction
-   3.3. Error analysis
-4. Results
-5. Discussion
+1. Introducción
+2. Observaciones
+   2.1. Telescopio e instrumentos
+   2.2. Estrategia de observación
+3. Reducción de datos
+   3.1. Calibración
+   3.2. Sustracción de fondo
+   3.3. Análisis de errores
+4. Resultados
+5. Discusión
 ```
 
-**La sección "Data Reduction" es crucial** porque en astronomía no se pueden "replicar" observaciones (no se puede volver a ver una supernova que explotó). Por tanto, la validez depende de:
+**La sección "Reducción de datos" es crucial** porque en astronomía no se pueden "replicar" observaciones (no se puede volver a ver una supernova que explotó). Por tanto, la validez depende de:
 - Transparencia en cómo los datos crudos del telescopio se convirtieron en mediciones científicas
 - Cuantificación rigurosa de errores e incertidumbres
 - Disponibilidad de datos crudos para que otros apliquen técnicas alternativas de reducción
@@ -1271,19 +1279,19 @@ Las revistas astronómicas (*Astrophysical Journal*, *Astronomy & Astrophysics*)
 *Organic Syntheses* (revista especializada) publica artículos que son **exclusivamente protocolos** de síntesis química:
 
 ```
-TÍTULO: Synthesis of (±)-Lactacystin (protocolo verificado)
+TÍTULO: Síntesis de (±)-Lactacistina (protocolo verificado)
 
-1. Reagents and Equipment
-2. Procedure
-   Step 1: [descripción detallada con cantidades exactas]
-   Step 2: [...]
-3. Notes
+1. Reactivos y equipamiento
+2. Procedimiento
+   Paso 1: [descripción detallada con cantidades exactas]
+   Paso 2: [...]
+3. Notas
    - Precauciones de seguridad
    - Problemas comunes y soluciones
-4. Characterization Data
-   - NMR spectra
-   - Mass spectrometry
-   - Melting point
+4. Datos de caracterización
+   - Espectros NMR
+   - Espectrometría de masas
+   - Punto de fusión
 ```
 
 **Peculiaridad:** Todos los protocolos son **verificados experimentalmente** por otros químicos antes de publicación. Si el procedimiento no funciona consistentemente, se rechaza aunque los datos sean correctos.
@@ -1294,26 +1302,26 @@ Esta estructura reconoce que en química sintética, **el conocimiento es el pro
 
 Las revistas de ciencias experimentales de mayor prestigio (*Nature*, *Science*, *Cell*) desarrollaron secciones adicionales:
 
-**1. Brief Communications / Letters**
+**1. Comunicaciones breves / Cartas**
 - Extensión: 2-3 páginas
 - Función: Reportar hallazgos urgentes o sorprendentes
-- Estructura simplificada: Methods condensados en 1 párrafo, Results y Discussion fusionados
-- Ejemplo de uso: Descubrimiento de CRISPR-Cas9 se publicó inicialmente como Letter en *Science* (2012)
+- Estructura simplificada: Métodos condensados en 1 párrafo, Resultados y Discusión fusionados
+- Ejemplo de uso: Descubrimiento de CRISPR-Cas9 se publicó inicialmente como carta en *Science* (2012)
 
-**2. Articles vs. Reports (en *Science*)**
-- **Articles**: trabajos completos, estructura IMRyD completa
-- **Reports**: hallazgos significativos pero más breves, Methods en Supplementary
-- Función: Balancear impacto inmediato (Reports) con documentación exhaustiva (Articles)
+**2. Artículos vs. Reportes (en *Science*)**
+- **Artículos**: trabajos completos, estructura IMRyD completa
+- **Reportes**: hallazgos significativos pero más breves, Métodos en material suplementario
+- Función: Balancear impacto inmediato (Reportes) con documentación exhaustiva (Artículos)
 
-**3. Registered Reports**
+**3. Informes registrados**
 - Innovación reciente (adoptada por *Nature Human Behaviour*, *Royal Society Open Science*)
-- **Inversión del proceso:** peer review ANTES de obtener resultados
+- **Inversión del proceso:** revisión por pares ANTES de obtener resultados
 - Estructura:
-  - Stage 1: Introducción + Métodos propuestos → revisión → aceptación provisional
-  - Stage 2: Ejecución del estudio
-  - Stage 3: Results + Discussion → revisión de ejecución (no de resultados) → publicación garantizada
+  - Etapa 1: Introducción + Métodos propuestos → revisión → aceptación provisional
+  - Etapa 2: Ejecución del estudio
+  - Etapa 3: Resultados + Discusión → revisión de ejecución (no de resultados) → publicación garantizada
 
-**¿Por qué Registered Reports?**
+**¿Por qué informes registrados?**
 Combate el sesgo de publicación (solo resultados "positivos" se publican). Si el estudio fue bien diseñado y ejecutado, se publica aunque los resultados sean "negativos" o "nulos".
 
 Este formato reconoce que la ciencia no solo avanza con descubrimientos espectaculares, sino también con resultados que refutan hipótesis o muestran que efectos esperados no existen.
@@ -1322,14 +1330,14 @@ Este formato reconoce que la ciencia no solo avanza con descubrimientos espectac
 
 | Disciplina | Estructura distintiva | Función epistémica | Ejemplo de revista |
 |------------|----------------------|-------------------|-------------------|
-| **Biología molecular** | IMRyD estándar + Supplementary Materials extensos | Replicabilidad mediante protocolos detallados | *Cell*, *Nature Biotechnology* |
-| **Física experimental** | Methods con descripción exhaustiva de aparatos | Reproducibilidad de condiciones experimentales | *Physical Review Letters* |
-| **Física teórica** | Sin Methods, Calculations extensas | Derivaciones matemáticas replicables | *Journal of High Energy Physics* |
+| **Biología molecular** | IMRyD estándar + materiales suplementarios extensos | Replicabilidad mediante protocolos detallados | *Cell*, *Nature Biotechnology* |
+| **Física experimental** | Métodos con descripción exhaustiva de aparatos | Reproducibilidad de condiciones experimentales | *Physical Review Letters* |
+| **Física teórica** | Sin Métodos, cálculos extensos | Derivaciones matemáticas replicables | *Journal of High Energy Physics* |
 | **Química sintética** | Protocolos verificados como género propio | Procedimiento es el conocimiento | *Organic Syntheses* |
-| **Astronomía observacional** | Data Reduction como sección central | Transparencia en procesamiento de datos | *Astrophysical Journal* |
-| **Medicina clínica** | IMRyD + Trial Registration + Ethics Statement | Validación ética y pre-registro de hipótesis | *The Lancet*, *JAMA* |
+| **Astronomía observacional** | Reducción de datos como sección central | Transparencia en procesamiento de datos | *Astrophysical Journal* |
+| **Medicina clínica** | IMRyD + registro de ensayo + declaración ética | Validación ética y pre-registro de hipótesis | *The Lancet*, *JAMA* |
 
-### 4.2. Ciencias sociales: balance entre teoría y empiria
+### Ciencias sociales: balance entre teoría y empiria
 
 #### La tensión constitutiva de las ciencias sociales
 
@@ -1348,31 +1356,31 @@ Esta tensión se refleja en **estructuras editoriales heterogéneas** que intent
 **Estructura similar a ciencias experimentales:**
 
 ```
-1. Abstract
-2. Introduction
+1. Resumen
+2. Introducción
    - Pregunta de investigación
    - Revisión de literatura
    - Hipótesis formales
-3. Theoretical Framework (a veces)
+3. Marco teórico (a veces)
    - Modelo conceptual
    - Predicciones derivadas
-4. Data and Methods
-   - Descripción de dataset (encuesta, experimento, datos administrativos)
+4. Datos y métodos
+   - Descripción de conjunto de datos (encuesta, experimento, datos administrativos)
    - Variables y operacionalización
-   - Técnicas estadísticas (regresión, matching, diferencias en diferencias)
-5. Results
+   - Técnicas estadísticas (regresión, emparejamiento, diferencias en diferencias)
+5. Resultados
    - Tablas con coeficientes
-   - Robustness checks (pruebas de sensibilidad)
-6. Discussion
-7. Conclusion
+   - Pruebas de robustez
+6. Discusión
+7. Conclusión
 ```
 
 **Ejemplo: *American Economic Review***
 
 Un artículo típico sobre efecto de educación en ingresos:
 
-> **Data and Methods:**
-> "We use the National Longitudinal Survey of Youth 1979 (NLSY79), a nationally representative sample of 12,686 individuals aged 14-22 in 1979. Educational attainment is measured as years of completed schooling. We estimate the returns to education using ordinary least squares (OLS) and instrumental variables (IV) approaches. Our instrument for schooling is distance to the nearest college in 1979, following Card (1995). The identifying assumption is that distance affects earnings only through its effect on educational choices."
+> **Datos y métodos:**
+> "Usamos la Encuesta Longitudinal Nacional de Juventud 1979 (NLSY79), una muestra nacionalmente representativa de 12,686 individuos de 14-22 años en 1979. El logro educativo se mide como años de escolaridad completada. Estimamos los retornos a la educación usando mínimos cuadrados ordinarios (MCO) y enfoques de variables instrumentales (VI). Nuestro instrumento para escolaridad es distancia al colegio más cercano en 1979, siguiendo a Card (1995). El supuesto identificador es que la distancia afecta ingresos solo a través de su efecto en elecciones educativas."
 
 Esta estructura refleja una epistemología **neopositivista**:
 - Se asume que hay "efectos causales" identificables (educación → ingresos)
@@ -1381,36 +1389,36 @@ Esta estructura refleja una epistemología **neopositivista**:
 
 **Secciones distintivas de ciencias sociales cuantitativas:**
 
-**A) Identification Strategy**
+**A) Estrategia de identificación**
 - Explica cómo se infiere causalidad de datos observacionales (no experimentales)
 - Crucial porque en ciencias sociales raramente se pueden hacer experimentos controlados
 - Técnicas: variables instrumentales, diseños de discontinuidad, diferencias en diferencias
 
-**B) Robustness Checks**
+**B) Pruebas de robustez**
 - Muestra que resultados no dependen de especificaciones arbitrarias del modelo
-- Ejemplo: "Results hold when we control for X, use alternative measures of Y, or restrict sample to Z"
+- Ejemplo: "Los resultados se mantienen cuando controlamos por X, usamos medidas alternativas de Y, o restringimos muestra a Z"
 
 #### Modelo 2: Ciencias sociales cualitativas (etnografía, sociología interpretativa)
 
 **Estructura radicalmente diferente:**
 
 ```
-1. Abstract (narrativo, no estructurado)
-2. Introduction
-   - Puzzle teórico o empírico
+1. Resumen (narrativo, no estructurado)
+2. Introducción
+   - Enigma teórico o empírico
    - Importancia del caso estudiado
-3. Theoretical Framework
+3. Marco teórico
    - Marco conceptual extenso (no "hipótesis" formales)
    - Diálogo con tradiciones teóricas (Bourdieu, Foucault, Weber)
-4. Methods / Research Design
+4. Métodos / Diseño de investigación
    - NO es protocolo replicable
    - Descripción de proceso de investigación
    - Reflexividad del investigador
-5. Analytical Narrative / Ethnographic Account
+5. Narrativa analítica / Relato etnográfico
    - Sección central, muy extensa (puede ser 60% del artículo)
    - Entreteje datos empíricos e interpretación
-   - Sin separación entre "Results" y "Discussion"
-6. Conclusion
+   - Sin separación entre "Resultados" y "Discusión"
+6. Conclusión
    - Contribución teórica
    - Generalización analítica (no estadística)
 ```
@@ -1419,44 +1427,44 @@ Esta estructura refleja una epistemología **neopositivista**:
 
 Un estudio sobre identidad profesional de enfermeras:
 
-> **Methods:**
-> "I conducted ethnographic fieldwork in three hospitals over 18 months (2018-2019), including 400 hours of observation and 60 semi-structured interviews with nurses, doctors, and administrators. As a former nurse myself, I occupied what Merton (1972) calls a 'dual insider-outsider' position: familiar enough to gain trust, distant enough to maintain analytic perspective. This positionality shaped what I could see and how participants presented themselves to me. Throughout fieldwork, I kept detailed memos reflecting on my assumptions and emotional reactions, which became data themselves."
+> **Métodos:**
+> "Conduje trabajo de campo etnográfico en tres hospitales durante 18 meses (2018-2019), incluyendo 400 horas de observación y 60 entrevistas semi-estructuradas con enfermeras, médicos y administradores. Como ex-enfermera, ocupé lo que Merton (1972) llama una posición 'doble interno-externo': suficientemente familiarizada para ganar confianza, suficientemente distante para mantener perspectiva analítica. Este posicionamiento configuró lo que pude ver y cómo los participantes se presentaron ante mí. Durante el trabajo de campo, mantuve notas detalladas reflexionando sobre mis supuestos y reacciones emocionales, que se convirtieron en datos en sí mismos."
 
 **Diferencias clave con ciencias experimentales:**
 
 1. **Reflexividad explícita**: El investigador reconoce que su posición afecta los datos
 2. **No hay "replicabilidad"**: Otro investigador en el mismo hospital obtendría datos diferentes
-3. **Validez por "thick description"**: Descripciones densas que permiten al lector evaluar interpretaciones
-4. **Teoría está entretejida**: No hay sección de "Results" sin interpretación
+3. **Validez por "descripción densa"**: Descripciones densas que permiten al lector evaluar interpretaciones
+4. **Teoría está entretejida**: No hay sección de "Resultados" sin interpretación
 
-**Sección distintiva: Researcher Positionality**
+**Sección distintiva: Posicionamiento del investigador**
 
 Cada vez más revistas de ciencias sociales cualitativas exigen:
 
-> "I am a white, middle-class woman researching poor Black communities. This shaped access: some participants viewed me with suspicion, others performed respectability. I do not claim to 'give voice' to marginalized groups, but to analyze structures of inequality that include my own privileges."
+> "Soy una mujer blanca de clase media investigando comunidades negras pobres. Esto configuró el acceso: algunos participantes me vieron con sospecha, otros actuaron con respetabilidad. No pretendo 'dar voz' a grupos marginalizados, sino analizar estructuras de desigualdad que incluyen mis propios privilegios."
 
 Esta sección reconoce que **no hay observación neutral** en ciencias sociales. El investigador es parte del mundo social que estudia.
 
-#### Modelo 3: Métodos mixtos (integración cuanti-cuali)
+#### Modelo 3: Métodos mixtos (integración cuantitativo-cualitativo)
 
 Algunas revistas promueven artículos que combinan ambos enfoques:
 
 **Estructura híbrida:**
 
 ```
-1. Introduction
-2. Theoretical Framework
-3. Research Design
-   3.1. Quantitative component (survey, N=1200)
-   3.2. Qualitative component (interviews, N=40)
-   3.3. Integration strategy
-4. Quantitative Results
+1. Introducción
+2. Marco teórico
+3. Diseño de investigación
+   3.1. Componente cuantitativo (encuesta, N=1200)
+   3.2. Componente cualitativo (entrevistas, N=40)
+   3.3. Estrategia de integración
+4. Resultados cuantitativos
    - Análisis estadístico
-5. Qualitative Findings
+5. Hallazgos cualitativos
    - Narrativa interpretativa
-6. Integration and Discussion
+6. Integración y discusión
    - Cómo lo cualitativo ilumina/complejiza lo cuantitativo
-7. Conclusion
+7. Conclusión
 ```
 
 **Ejemplo: Estudio sobre desempleo juvenil**
@@ -1466,8 +1474,8 @@ Algunas revistas promueven artículos que combinan ambos enfoques:
 - **Integración**: Los números identifican el patrón, las entrevistas explican el mecanismo
 
 Esta estructura reconoce que:
-- Las estadísticas muestran **qué** ocurre (patterns)
-- Las etnografías muestran **cómo** y **por qué** ocurre (mechanisms)
+- Las estadísticas muestran **qué** ocurre (patrones)
+- Las etnografías muestran **cómo** y **por qué** ocurre (mecanismos)
 - Ninguno es suficiente solo
 
 #### Ciencias sociales y el problema del *dossier*
@@ -1493,14 +1501,14 @@ Cada artículo usa **epistemología diferente**, pero juntos construyen una comp
 
 | Subdisciplina | Estructura típica | Epistemología | Secciones distintivas |
 |---------------|------------------|---------------|----------------------|
-| **Economía** | Cuantitativa, similar a experimental | Neopositivista, causalidad | Identification Strategy, Robustness |
-| **Sociología cuantitativa** | Cuantitativa, menos énfasis en causalidad | Descripción de patrones sociales | Data and Methods extenso |
-| **Antropología cultural** | Cualitativa, narrativa | Interpretativista | Ethnographic Account, Positionality |
-| **Ciencia política (comparada)** | Mixta, casos múltiples | Configuracional | Case Selection, Cross-case Analysis |
-| **Psicología social** | Experimental o correlacional | Experimental (laboratorio) | Stimuli Design, Manipulation Check |
-| **Estudios culturales** | Ensayística, análisis textual | Post-estructuralista | Critical Reading, Discourse Analysis |
+| **Economía** | Cuantitativa, similar a experimental | Neopositivista, causalidad | Estrategia de identificación, robustez |
+| **Sociología cuantitativa** | Cuantitativa, menos énfasis en causalidad | Descripción de patrones sociales | Datos y métodos extenso |
+| **Antropología cultural** | Cualitativa, narrativa | Interpretativista | Relato etnográfico, posicionamiento |
+| **Ciencia política (comparada)** | Mixta, casos múltiples | Configuracional | Selección de casos, análisis entre casos |
+| **Psicología social** | Experimental o correlacional | Experimental (laboratorio) | Diseño de estímulos, verificación de manipulación |
+| **Estudios culturales** | Ensayística, análisis textual | Post-estructuralista | Lectura crítica, análisis de discurso |
 
-### 4.3. Humanidades: interpretación, argumentación y el ensayo como conocimiento
+### Humanidades: interpretación, argumentación y el ensayo como conocimiento
 
 #### La resistencia de las humanidades a la estandarización
 
@@ -1515,7 +1523,7 @@ Las humanidades (historia, filosofía, literatura, estudios clásicos, musicolog
 
 ```
 1. Título (a menudo metafórico o alusivo)
-2. Abstract (narrativo, 150-300 palabras)
+2. Resumen (narrativo, 150-300 palabras)
 3. [Cuerpo del artículo - SIN secciones numeradas obligatorias]
    - Introducción (plantea problema interpretativo)
    - Desarrollo argumentativo (puede tener subtítulos temáticos)
@@ -1528,12 +1536,12 @@ Las humanidades (historia, filosofía, literatura, estudios clásicos, musicolog
 
 **A) Ausencia de secciones metodológicas**
 
-Un artículo de historia no tiene sección de "Methods". ¿Por qué?
+Un artículo de historia no tiene sección de "Métodos". ¿Por qué?
 
 Ejemplo: Artículo sobre la Revolución Francesa en *Past & Present*:
 
-> **Típico inicio:**
-> "The storming of the Bastille on July 14, 1789, has been narrated countless times, yet its meaning remains contested. Was it a spontaneous popular uprising or a choreographed political act? This article argues, through close reading of pamphlets, police reports, and visual representations, that the event's significance emerged *retroactively*, through a process of symbolic construction in the months following July 14."
+> **Inicio típico:**
+> "La toma de la Bastilla el 14 de julio de 1789 ha sido narrada innumerables veces, sin embargo su significado permanece disputado. ¿Fue un levantamiento popular espontáneo o un acto político coreografiado? Este artículo argumenta, mediante lectura detallada de panfletos, reportes policiales y representaciones visuales, que la significación del evento emergió *retroactivamente*, a través de un proceso de construcción simbólica en los meses posteriores al 14 de julio."
 
 El "método" (lectura de fuentes) está implícito en la práctica interpretativa. No hay protocolo replicable porque:
 - Leer las mismas fuentes no garantiza la misma interpretación
@@ -1545,7 +1553,7 @@ El "método" (lectura de fuentes) está implícito en la práctica interpretativ
 Humanidades usan prosa argumentativa continua, raramente tablas o figuras. Ejemplo de estructura argumentativa en filosofía (*Philosophy and Phenomenological Research*):
 
 ```
-Título: "The Paradox of Fictional Emotions: Why We Fear What We Know Does Not Exist"
+Título: "La paradoja de las emociones ficcionales: Por qué tememos lo que sabemos que no existe"
 
 [Sin secciones numeradas, pero estructura lógica:]
 
@@ -1560,7 +1568,7 @@ Párrafos 16-18: Implicaciones para teoría estética general
 Párrafo 19: Conclusión
 ```
 
-La estructura existe, pero es **argumental**, no metodológica. No hay "Results" separados de "Discussion" porque el argumento filosófico **ES** el resultado.
+La estructura existe, pero es **argumental**, no metodológica. No hay "Resultados" separados de "Discusión" porque el argumento filosófico **ES** el resultado.
 
 **C) Notas al pie como espacio dialógico**
 
@@ -1574,35 +1582,35 @@ Las notas pueden ocupar 30-40% de la página. No son información "suplementaria
 
 Las revistas humanísticas no solo publican "artículos de investigación" sino múltiples géneros con valor académico equivalente:
 
-**1. Research Articles / Essays**
+**1. Artículos de investigación / Ensayos**
 - Extensión: 8,000-12,000 palabras (mucho más largo que artículos científicos)
 - Función: Desarrollar interpretación original con argumentación extensa
-- Ejemplo: Análisis de *Ulysses* de Joyce en *James Joyce Quarterly*
+- Ejemplo: Análisis de *Ulises* de Joyce en *James Joyce Quarterly*
 
-**2. Critical Readings / Close Readings**
+**2. Lecturas críticas / Lecturas detalladas**
 - Análisis detallado de un texto, obra de arte, o práctica cultural específica
 - Función: Mostrar cómo atención a detalles revela significados no obvios
 - Ejemplo: Lectura de un poema de Emily Dickinson en *The Emily Dickinson Journal*
 
-**3. Review Essays**
+**3. Ensayos de reseña**
 - Extensión: 4,000-8,000 palabras
 - No son reseñas descriptivas, sino **ensayos que usan libros recientes para hacer un argumento propio**
 - Función: Intervenir en debates usando bibliografía como pretexto
 - Ejemplo típico: "Tres nuevos libros sobre Kant replantean el problema de..."
 
-**4. Debates / Exchanges**
+**4. Debates / Intercambios**
 - Intercambio extendido entre intérpretes con posiciones opuestas
 - Formato: Artículo → Respuesta → Réplica → Cierre editorial
 - Puede extenderse varios números
 - Ejemplo: Debate sobre interpretación de Heidegger en *Philosophy and Literature*
 
-**5. Documents / Édition critique**
+**5. Documentos / Edición crítica**
 - Edición de textos inéditos o poco accesibles (manuscritos, cartas, borradores)
 - Incluye aparato crítico: variantes textuales, notas aclaratorias, introducción contextual
 - Función: Hacer disponibles fuentes primarias para comunidad académica
 - Ejemplo: Correspondencia inédita de Virginia Woolf en *Woolf Studies Annual*
 
-**6. Translations / Traducciones comentadas**
+**6. Traducciones / Traducciones comentadas**
 - Traducción de textos en idiomas poco accesibles con introducción académica
 - Función: Democratizar acceso a tradiciones intelectuales no anglófonas/hispanófonas
 - Ejemplo: Traducción de ensayo de Benjamin al español con estudio introductorio
@@ -1611,30 +1619,30 @@ Las revistas humanísticas no solo publican "artículos de investigación" sino 
 
 **Estructura típica de un número:**
 
-- **Articles** (3-4 artículos, 10,000-15,000 palabras cada uno)
+- **Artículos** (3-4 artículos, 10,000-15,000 palabras cada uno)
   - Sin estructura IMRyD
   - Subtítulos temáticos, no metodológicos
-  - Ejemplos: "The Household Economy of Early Modern Venice", "Memory and Forgetting in Post-Apartheid South Africa"
+  - Ejemplos: "La economía doméstica de la Venecia moderna temprana", "Memoria y olvido en Sudáfrica post-Apartheid"
 
-- **AHR Forum** (ocasional, 1-2 veces al año)
+- **Foro AHR** (ocasional, 1-2 veces al año)
   - Debate sobre un libro controversial o tema historiográfico
   - Formato: 4-6 ensayos breves (3,000 palabras) + respuesta del autor del libro
 
-- **Featured Reviews** (5-8 reseñas extensas, 2,000-3,000 palabras)
+- **Reseñas destacadas** (5-8 reseñas extensas, 2,000-3,000 palabras)
   - Análisis crítico de monografías importantes
   - No solo describen el libro, sino que evalúan su contribución al campo
 
-- **Review Essays** (2-3 ensayos, 4,000-6,000 palabras)
+- **Ensayos de reseña** (2-3 ensayos, 4,000-6,000 palabras)
   - Revisan múltiples libros sobre un tema para identificar tendencias en el campo
-  - Ejemplo: "Three New Approaches to the French Revolution"
+  - Ejemplo: "Tres nuevos enfoques sobre la Revolución Francesa"
 
-- **Reviews** (20-30 reseñas breves, 500-800 palabras)
+- **Reseñas** (20-30 reseñas breves, 500-800 palabras)
   - Reseñas descriptivas de libros recientes
 
 **Ausencias significativas:**
-- No hay "Short Communications" o "Letters" (no existe urgencia de publicación rápida)
-- No hay "Data Papers" o "Supplementary Materials" (las fuentes están en archivos, no en suplementos)
-- No hay "Methods" sections (el "método" histórico es implícito en la argumentación)
+- No hay "comunicaciones breves" o "cartas" (no existe urgencia de publicación rápida)
+- No hay "artículos de datos" o "materiales suplementarios" (las fuentes están en archivos, no en suplementos)
+- No hay secciones de "Métodos" (el "método" histórico es implícito en la argumentación)
 
 #### Historia vs. Filosofía vs. Literatura: variaciones internas
 
@@ -1666,9 +1674,9 @@ Estructura típica:
 #### Tensión contemporánea: presión por "cientifizar" las humanidades
 
 Algunas voces (especialmente en evaluación académica) presionan por adoptar estructuras "más científicas":
-- Abstract estructurado (Background, Methods, Results, Conclusions)
-- Secciones explícitas de "Methodology"
-- Separación entre "Data" (fuentes) y "Analysis" (interpretación)
+- Resumen estructurado (antecedentes, métodos, resultados, conclusiones)
+- Secciones explícitas de "Metodología"
+- Separación entre "Datos" (fuentes) y "Análisis" (interpretación)
 
 **Argumentos a favor:**
 - Mayor claridad y comparabilidad
@@ -1684,9 +1692,9 @@ Algunas voces (especialmente en evaluación académica) presionan por adoptar es
 
 Revistas como *Critical Inquiry*, *Representations*, *October* mantienen estructuras flexibles. Ejemplo de editorial de *Critical Inquiry* (2015):
 
-> "The demand for 'methodological transparency' assumes knowledge is a procedimiento aplicable, not a practice of reading. But interpretation cannot be protocolized. Two scholars can follow the same 'method' and reach opposite conclusions—and both be right. This is not a flaw but a feature of humanistic knowledge."
+> "La demanda de 'transparencia metodológica' asume que el conocimiento es un procedimiento aplicable, no una práctica de lectura. Pero la interpretación no puede protocolizarse. Dos académicos pueden seguir el mismo 'método' y llegar a conclusiones opuestas—y ambos estar en lo correcto. Esto no es un defecto sino una característica del conocimiento humanístico."
 
-### 4.4. Profesiones aplicadas: práctica como conocimiento
+### Profesiones aplicadas: práctica como conocimiento
 
 #### Lógica de las revistas profesionales
 
@@ -1695,8 +1703,8 @@ Las revistas de profesiones aplicadas (medicina clínica, derecho, educación, t
 2. **Practicantes** que necesitan conocimiento para la profesión
 
 Esta dualidad genera estructuras editoriales híbridas que combinan:
-- Research Articles (contribución al conocimiento abstracto)
-- Practice-oriented sections (aplicación directa a casos concretos)
+- Artículos de investigación (contribución al conocimiento abstracto)
+- Secciones orientadas a la práctica (aplicación directa a casos concretos)
 
 #### Medicina clínica: el modelo más desarrollado
 
@@ -1706,68 +1714,68 @@ Las revistas médicas desarrollaron el sistema editorial más sofisticado de las
 
 ```
 SECCIONES DE INVESTIGACIÓN:
-- Original Research (estudios controlados, IMRyD estricto)
-- Reviews (meta-análisis, síntesis cuantitativa de literatura)
+- Investigación original (estudios controlados, IMRyD estricto)
+- Revisiones (meta-análisis, síntesis cuantitativa de literatura)
 
 SECCIONES PROFESIONALES:
-- Case Reports (descripción de casos clínicos inusuales)
-- Clinical Practice Guidelines (recomendaciones basadas en evidencia)
-- Perspectives (reflexiones sobre práctica médica)
-- Correspondence (debates sobre tratamientos)
+- Reportes de casos (descripción de casos clínicos inusuales)
+- Guías de práctica clínica (recomendaciones basadas en evidencia)
+- Perspectivas (reflexiones sobre práctica médica)
+- Correspondencia (debates sobre tratamientos)
 
 SECCIONES DE POLÍTICA:
-- Health Policy (análisis de sistemas de salud)
-- Global Health (inequidades sanitarias)
+- Política sanitaria (análisis de sistemas de salud)
+- Salud global (inequidades sanitarias)
 
 SECCIONES EDITORIALES:
-- Editorials (posicionamiento de la revista sobre controversias)
-- The Lancet Commission (reportes extensos sobre problemas globales)
+- Editoriales (posicionamiento de la revista sobre controversias)
+- Comisión de The Lancet (reportes extensos sobre problemas globales)
 ```
 
 **Secciones distintivas de medicina:**
 
-**1. Case Reports**
+**1. Reportes de casos**
 
 Género único de medicina: descripción detallada de un caso clínico individual.
 
 Estructura:
 ```
-- Patient presentation (síntomas iniciales)
-- Diagnostic workup (pruebas realizadas)
-- Treatment (intervenciones)
-- Outcome (resultado del paciente)
-- Discussion (por qué este caso es instructivo)
+- Presentación del paciente (síntomas iniciales)
+- Evaluación diagnóstica (pruebas realizadas)
+- Tratamiento (intervenciones)
+- Desenlace (resultado del paciente)
+- Discusión (por qué este caso es instructivo)
 ```
 
 Ejemplo de *New England Journal of Medicine*:
 
-> **CASE 42-2023: A 68-Year-Old Woman with Abdominal Pain and Hypotension**
+> **CASO 42-2023: Una mujer de 68 años con dolor abdominal e hipotensión**
 >
-> "A 68-year-old woman presented to the emergency department with sudden-onset severe abdominal pain. Her medical history included hypertension and type 2 diabetes. On examination, her blood pressure was 85/50 mm Hg... Imaging revealed... The case highlights the importance of considering atypical presentations of..."
+> "Una mujer de 68 años se presentó al servicio de emergencias con dolor abdominal de inicio súbito. Su historia médica incluía hipertensión y diabetes tipo 2. Al examen, su presión arterial era 85/50 mm Hg... Las imágenes revelaron... El caso resalta la importancia de considerar presentaciones atípicas de..."
 
 **¿Por qué publicar casos individuales?**
 - Educación: Los médicos aprenden reconociendo patrones de casos
 - Alerta sobre condiciones raras: Un caso raro publicado ayuda a otros médicos a diagnosticar futuros casos similares
 - Generación de hipótesis: Casos inusuales sugieren líneas de investigación
 
-**2. Clinical Practice Guidelines**
+**2. Guías de práctica clínica**
 
 Documentos de 30-100 páginas que sintetizan evidencia y recomiendan prácticas:
 
 Estructura:
 ```
-1. Scope and Purpose
-2. Methods (cómo se revisó evidencia)
-3. Recommendations
+1. Alcance y propósito
+2. Métodos (cómo se revisó evidencia)
+3. Recomendaciones
    - Cada recomendación tiene "nivel de evidencia" (A: alta, B: moderada, C: baja)
    - Y "fuerza de recomendación" (1: fuerte, 2: condicional)
-4. Implementation Considerations
+4. Consideraciones de implementación
 ```
 
 Ejemplo de recomendación:
 
-> **Recommendation 3.2:**
-> "For adults with type 2 diabetes and established cardiovascular disease, we recommend SGLT2 inhibitors in addition to metformin. (Strong recommendation, high-quality evidence)"
+> **Recomendación 3.2:**
+> "Para adultos con diabetes tipo 2 y enfermedad cardiovascular establecida, recomendamos inhibidores SGLT2 además de metformina. (Recomendación fuerte, evidencia de alta calidad)"
 
 **Función epistémica:**
 - Traducir investigación a práctica
@@ -1778,26 +1786,26 @@ Ejemplo de recomendación:
 
 Las revistas jurídicas tienen estructura muy diferente de revistas científicas:
 
-**Law Reviews (modelo estadounidense):**
+**Revistas jurídicas (modelo estadounidense):**
 
 Estructura típica:
-- **Articles** (50-150 páginas, escritos por profesores)
+- **Artículos** (50-150 páginas, escritos por profesores)
   - Análisis doctrinal de precedentes
   - Crítica de decisiones judiciales
   - Propuestas de reforma legal
 
-- **Notes** (20-40 páginas, escritos por estudiantes de derecho)
+- **Notas** (20-40 páginas, escritas por estudiantes de derecho)
   - Análisis de casos recientes
-  - Menor alcance que Articles
+  - Menor alcance que artículos
 
-- **Book Reviews**
+- **Reseñas de libros**
 
-- **Case Comments** (análisis de fallos judiciales importantes)
+- **Comentarios de casos** (análisis de fallos judiciales importantes)
 
 **Peculiaridad:** Las revistas jurídicas son editadas por estudiantes, no profesores (sistema único en la academia).
 
 **Ausencias:**
-- No hay "peer review" en sentido científico (los editores estudiantes deciden qué publicar)
+- No hay "revisión por pares" en sentido científico (los editores estudiantes deciden qué publicar)
 - No hay estructura IMRyD (son ensayos argumentativos)
 - No hay "datos" empíricos (la "evidencia" son precedentes legales y textos legislativos)
 
@@ -1822,7 +1830,7 @@ Revistas educativas muestran tensión entre dos modelos:
 **Modelo 2: Práctica educativa (profesional)**
 
 *Educational Leadership*:
-- Articles cortos (2,000-3,000 palabras)
+- Artículos cortos (2,000-3,000 palabras)
 - Sin metodología explícita
 - Narrativas de "qué funcionó en mi escuela"
 - Función: Inspirar practicantes, no producir teoría
@@ -1830,8 +1838,8 @@ Revistas educativas muestran tensión entre dos modelos:
 **Revistas que intentan integrar ambos:**
 
 *Teaching and Teacher Education*:
-- Research Articles sobre aprendizaje docente
-- **Practitioner Inquiry** (investigación por docentes activos)
+- Artículos de investigación sobre aprendizaje docente
+- **Investigación del practicante** (investigación por docentes activos)
 - Estructura: Descripción de problema en aula → Intervención → Reflexión sobre resultados
 - No es IMRyD pero tampoco es anecdótico: usa evidencia sistemática (registros, trabajos de estudiantes)
 
@@ -1839,16 +1847,16 @@ Revistas educativas muestran tensión entre dos modelos:
 
 Estas profesiones desarrollaron géneros editoriales únicos:
 
-**Practice Reflections / Reflexiones de práctica**
+**Reflexiones de práctica**
 - Análisis de casos atendidos
 - Incluye dilemas éticos, emociones del profesional, limitaciones institucionales
 - Función: Desarrollar "sabiduría práctica" que va más allá de protocolos
 
 Ejemplo de *Social Work* (revista de trabajo social):
 
-> **"Working with Families Experiencing Homelessness: A Reflective Account"**
+> **"Trabajando con familias en situación de sin techo: Un relato reflexivo"**
 >
-> "When I met the Martinez family at the shelter, I felt overwhelmed. Three children, both parents unemployed, eviction notices, substance use issues. My training said: assess, refer, document. But what this family needed was someone to just *listen*. This article reflects on the tension between bureaucratic requirements and human responsiveness..."
+> "Cuando conocí a la familia Martínez en el refugio, me sentí abrumada. Tres niños, ambos padres desempleados, avisos de desalojo, problemas de abuso de sustancias. Mi formación decía: evaluar, derivar, documentar. Pero lo que esta familia necesitaba era alguien que simplemente *escuchara*. Este artículo reflexiona sobre la tensión entre requisitos burocráticos y capacidad de respuesta humana..."
 
 Esta estructura reconoce que:
 - El conocimiento profesional incluye **saberes tácitos** (no codificables)
@@ -1859,60 +1867,59 @@ Esta estructura reconoce que:
 
 | Profesión | Géneros distintivos | Epistemología | Balance investigación/práctica |
 |-----------|-------------------|---------------|-------------------------------|
-| **Medicina clínica** | Case Reports, Clinical Guidelines | Evidencia empírica + experiencia clínica | 60% investigación / 40% práctica |
-| **Derecho** | Análisis doctrinal, Case Comments | Interpretación de textos legales | 80% doctrina / 20% empírico |
-| **Educación** | Practitioner Inquiry, Lesson Studies | Reflexión sobre práctica + investigación formal | 50% / 50% (varía por revista) |
-| **Trabajo Social** | Practice Reflections, Case Studies | Reflexividad crítica | 40% investigación / 60% práctica |
-| **Enfermería** | Clinical Narratives, Evidence Synthesis | Cuidado basado en evidencia + experiencia | 55% investigación / 45% práctica |
+| **Medicina clínica** | Reportes de casos, guías clínicas | Evidencia empírica + experiencia clínica | 60% investigación / 40% práctica |
+| **Derecho** | Análisis doctrinal, comentarios de casos | Interpretación de textos legales | 80% doctrina / 20% empírico |
+| **Educación** | Investigación del practicante, estudios de lecciones | Reflexión sobre práctica + investigación formal | 50% / 50% (varía por revista) |
+| **Trabajo Social** | Reflexiones de práctica, estudios de casos | Reflexividad crítica | 40% investigación / 60% práctica |
+| **Enfermería** | Narrativas clínicas, síntesis de evidencia | Cuidado basado en evidencia + experiencia | 55% investigación / 45% práctica |
 
-### 4.5. Síntesis: epistemologías y estructuras editoriales
+### Síntesis: epistemologías y estructuras editoriales
 
 Esta sección ha mostrado que las estructuras editoriales no son arbitrarias sino que **inscriben diferentes modos de validación del conocimiento**:
 
 | Campo | ¿Qué cuenta como evidencia? | ¿Cómo se valida? | Estructura editorial resultante |
 |-------|---------------------------|-----------------|--------------------------------|
-| **Ciencias experimentales** | Datos experimentales | Replicabilidad | IMRyD estricto, Methods detallado |
-| **Ciencias sociales cuantitativas** | Datos observacionales | Estrategias de identificación causal | IMRyD + Identification Strategy |
-| **Ciencias sociales cualitativas** | Narrativas, observaciones, textos | Thick description, reflexividad | Narrativa analítica integrada |
+| **Ciencias experimentales** | Datos experimentales | Replicabilidad | IMRyD estricto, Métodos detallado |
+| **Ciencias sociales cuantitativas** | Datos observacionales | Estrategias de identificación causal | IMRyD + estrategia de identificación |
+| **Ciencias sociales cualitativas** | Narrativas, observaciones, textos | Descripción densa, reflexividad | Narrativa analítica integrada |
 | **Humanidades** | Textos, objetos culturales | Argumentación interpretativa | Ensayo sin secciones metodológicas |
-| **Profesiones aplicadas** | Casos, protocolos, evidencia + experiencia | Consenso profesional, outcomes | Híbrido: investigación + práctica |
+| **Profesiones aplicadas** | Casos, protocolos, evidencia + experiencia | Consenso profesional, resultados | Híbrido: investigación + práctica |
 
 La siguiente sección explora cómo estas estructuras están siendo transformadas (o desafiadas) por innovaciones tecnológicas, cambios en sistemas de evaluación, y resistencias desde la periferia académica.
-
 
 ## 5. Crisis y transformaciones contemporáneas: entre homogeneización y resistencia
 
 Las estructuras editoriales desarrolladas a lo largo de tres siglos enfrentan hoy transformaciones radicales impulsadas por tres fuerzas convergentes: la **presión homogeneizadora** de sistemas de evaluación bibliométrica, las **posibilidades tecnológicas** de la publicación digital, y las **resistencias periféricas** que reclaman autonomía epistémica. Esta sección analiza estas tensiones y las innovaciones estructurales que están emergiendo.
 
-### 5.1. La presión homogeneizadora: índices internacionales y estandarización editorial
+### La presión homogeneizadora: índices internacionales y estandarización editorial
 
 #### El ascenso de la bibliometría como política científica
 
 Desde los años 1990, la evaluación de revistas, instituciones e investigadores individuales se ha vinculado crecientemente a **métricas cuantitativas** derivadas de bases de datos bibliográficas:
 
 **Web of Science (Clarivate Analytics)**
-- Fundada como Science Citation Index por Eugene Garfield (1964)
+- Fundada como Índice de Citas Científicas por Eugene Garfield (1964)
 - Cobertura: ~20,000 revistas (selectivas)
-- Métricas: Impact Factor (IF), Journal Citation Reports (JCR)
+- Métricas: Factor de Impacto (FI), Informes de Citas de Revistas
 - Predominio: Ciencias naturales, biomedicina, algunas ciencias sociales
 
 **Scopus (Elsevier)**
 - Lanzada en 2004 como competidor de WoS
 - Cobertura: ~27,000 revistas (más inclusiva)
-- Métricas: CiteScore, SJR (SCImago Journal Rank)
+- Métricas: CiteScore, SJR
 - Mayor cobertura en ciencias sociales y regiones no anglosajonas
 
-**Google Scholar / Google Scholar Metrics**
+**Google Scholar / Métricas de Google Scholar**
 - Lanzado en 2004 (métricas desde 2012)
 - Cobertura: Todo lo indexable en Google
-- Métricas: h5-index, h5-median
+- Métricas: índice h5, mediana h5
 - Más inclusivo pero menos selectivo
 
 #### Criterios de indexación: la estandarización implícita
 
-Para ser indexadas en WoS o Scopus, las revistas deben cumplir **criterios formales** que, aunque no prescriben explícitamente una estructura editorial, favorecen implícitamente el modelo anglosajón:
+Para ser indexadas en WoS o Scopus, las revistas deben cumplir **criterios formales** que, aunque no prescriben explícitamente una estructura editorial, favorecen implícitamente el modelo anglosajón [18]:
 
-**Criterios de WoS (Core Collection):**
+**Criterios de WoS (Colección Principal):**
 
 1. **Puntualidad de publicación**
    - Cumplir con periodicidad declarada (no retrasos)
@@ -1928,102 +1935,102 @@ Para ser indexadas en WoS o Scopus, las revistas deben cumplir **criterios forma
    - ORCID (preferible)
    - Implicación: Favorece artículos individuales identificables sobre contribuciones colectivas
 
-4. **Peer review documentado**
+4. **Revisión por pares documentada**
    - Descripción explícita del proceso de revisión
-   - Preferencia por double-blind o single-blind
+   - Preferencia por doble ciego o ciego simple
    - Implicación: Desfavorece modelos de "coordinador de *dossier*" donde selección es menos transparente
 
-5. **Contenido "original research" predominante**
-   - Al menos 50% del contenido debe ser "research articles"
+5. **Contenido de "investigación original" predominante**
+   - Al menos 50% del contenido debe ser "artículos de investigación"
    - Implicación: Penaliza revistas con secciones extensas de debates, reseñas, o documentos
 
 6. **Citación internacional**
-   - La revista debe ser citada por journals internacionales (fuera de su país de origen)
+   - La revista debe ser citada por revistas internacionales (fuera de su país de origen)
    - Implicación: Favorece temas "universales" sobre problemas regionales específicos
 
 **Lo que estos criterios excluyen o penalizan:**
 
 - **Números monográficos**: Pueden causar irregularidad en periodicidad
-- ***Dossier* coordinados**: Proceso de peer review menos estandarizado
-- **Secciones de debate**: No cuentan como "research articles"
+- ***Dossier* coordinados**: Proceso de revisión por pares menos estandarizado
+- **Secciones de debate**: No cuentan como "artículos de investigación"
 - **Reseñas extensas**: Mismo problema
 - **Revistas nacionales**: Difícil obtener citación "internacional"
 - **Multilingüismo**: Costoso traducir todo al inglés
 - **Temas locales**: Menor interés internacional
 
-#### El Impact Factor como dispositivo de poder
+#### El Factor de Impacto como dispositivo de poder
 
-El **Impact Factor** (IF) se calcula como:
+El **Factor de Impacto** (FI) se calcula como:
 
 ```
-IF(año N) = [Citas en año N a artículos de años N-1 y N-2] / [Artículos publicados en años N-1 y N-2]
+FI(año N) = [Citas en año N a artículos de años N-1 y N-2] / [Artículos publicados en años N-1 y N-2]
 ```
 
 **Ejemplo:**
 - Revista X publicó 100 artículos en 2023-2024
 - Esos artículos recibieron 500 citas en 2025
-- IF(2025) = 500/100 = 5.0
+- FI(2025) = 500/100 = 5.0
 
-**Problemas metodológicos del IF:**
+**Problemas metodológicos del FI:**
 
 1. **Sesgo temporal**: Solo cuenta citas de 2 años. Favorece campos de citación rápida (biomedicina) sobre campos de citación lenta (humanidades, matemáticas)
 
 2. **Sesgo de idioma**: Revistas en inglés citan (y son citadas por) otras revistas en inglés con mayor frecuencia
 
-3. **Sesgo disciplinario**: Disciplinas con muchas revistas y muchos autores por artículo (biomedicina) tienen IFs más altos que campos pequeños (matemáticas, filosofía)
+3. **Sesgo disciplinario**: Disciplinas con muchas revistas y muchos autores por artículo (biomedicina) tienen FIs más altos que campos pequeños (matemáticas, filosofía)
 
 4. **Manipulabilidad**: Los editores pueden:
    - Solicitar autocitación ("cite nuestros artículos previos")
-   - Publicar muchas reviews (que reciben más citas que research articles)
+   - Publicar muchas revisiones (que reciben más citas que artículos de investigación)
    - Rechazar artículos sobre temas "no citables"
 
-5. **Promedia lo no promediable**: Algunos artículos reciben 100+ citas, otros ninguna. El IF es un promedio que no refleja distribución
+5. **Promedia lo no promediable**: Algunos artículos reciben 100+ citas, otros ninguna. El FI es un promedio que no refleja distribución
 
-**Pero a pesar de estas limitaciones, el IF opera como proxy de "calidad":**
+**Pero a pesar de estas limitaciones, el FI opera como indicador de "calidad":**
 
-- Universidades usan IF para evaluar investigadores ("publicó en revista IF>5")
-- Agencias de financiamiento priorizan proyectos con publicaciones en journals de alto IF
-- Investigadores individuales estratégicamente envían manuscritos a revistas según IF
+- Universidades usan FI para evaluar investigadores ("publicó en revista FI>5")
+- Agencias de financiamiento priorizan proyectos con publicaciones en revistas de alto FI
+- Investigadores individuales estratégicamente envían manuscritos a revistas según FI
 
 **Efecto sobre estructuras editoriales:**
 
-Revistas que quieren aumentar IF modifican estructuras:
+Revistas que quieren aumentar FI modifican estructuras:
 
 **Caso: Cambios en *Sociological Theory* (EE.UU.)**
 
 Antes (1990s):
-- 40% Research Articles
+- 40% Artículos de investigación
 - 30% Debates (intercambios entre autores)
-- 30% Review Essays
+- 30% Ensayos de reseña
 
 Después (2010s):
-- 70% Research Articles
-- 20% Debates (renombrados como "Research Articles" si desarrollan argumento propio)
-- 10% Reviews (reducidas porque citan menos)
+- 70% Artículos de investigación
+- 20% Debates (renombrados como "artículos de investigación" si desarrollan argumento propio)
+- 10% Reseñas (reducidas porque citan menos)
 
-**Justificación editorial explícita:** "Para mantener competitividad en rankings internacionales"
+**Justificación editorial explícita:** "Para mantener competitividad en clasificaciones internacionales"
 
 #### Resistencia y adaptaciones
 
 **Algunas comunidades académicas han resistido:**
 
-**Matemáticas: Rechazo explícito del IF**
+**Matemáticas: Rechazo explícito del FI**
 
-La International Mathematical Union declaró (2008):
+La Unión Matemática Internacional declaró (2008):
 
-> "Impact factors are not a reliable measure of quality in mathematics. Citation patterns in mathematics differ fundamentally from those in biomedicine. A good theorem may be cited 50 years after publication, which is invisible to the two-year IF window."
+> "Los factores de impacto no son una medida confiable de calidad en matemáticas. Los patrones de citación en matemáticas difieren fundamentalmente de aquellos en biomedicina. Un buen teorema puede ser citado 50 años después de su publicación, lo cual es invisible a la ventana de dos años del FI."
 
-Revistas matemáticas prestigiosas (*Annals of Mathematics*, *Inventiones Mathematicae*) no modificaron estructuras editoriales para mejorar IFs.
+Revistas matemáticas prestigiosas (*Annals of Mathematics*, *Inventiones Mathematicae*) no modificaron estructuras editoriales para mejorar FIs.
 
 **Humanidades: Creación de métricas alternativas**
 
-European Science Foundation desarrolló ERIH (European Reference Index for the Humanities) con categorización cualitativa (A, B, C) en lugar de métricas cuantitativas.
+La Fundación Europea de Ciencia desarrolló ERIH (Índice Europeo de Referencia para las Humanidades) con categorización cualitativa (A, B, C) en lugar de métricas cuantitativas.
 
 **Crítica:** ERIH también reforzó jerarquías, favoreciendo revistas anglófonas establecidas.
 
 **América Latina: SciELO como modelo alternativo**
 
-SciELO (Scientific Electronic Library Online, 1998) desarrolló criterios de calidad que:
+SciELO (Biblioteca Electrónica Científica en Línea, 1998) desarrolló criterios de calidad que:
 - No dependen exclusivamente de citación internacional
 - Reconocen relevancia regional
 - Valoran acceso abierto
@@ -2031,19 +2038,19 @@ SciELO (Scientific Electronic Library Online, 1998) desarrolló criterios de cal
 
 Pero SciELO también gradualmente incorporó métricas bibliométricas, generando tensiones internas.
 
-### 5.2. Innovaciones digitales: nuevas estructuras para nuevas posibilidades
+### Innovaciones digitales: nuevas estructuras para nuevas posibilidades
 
-La transición de impreso a digital no solo replica lo anterior en formato electrónico, sino que **habilita estructuras editoriales previamente imposibles**. Esta sección explora tres transformaciones: granularidad, multimedialidad, y versioning.
+La transición de impreso a digital no solo replica lo anterior en formato electrónico, sino que **habilita estructuras editoriales previamente imposibles**. Esta sección explora tres transformaciones: granularidad, multimedialidad, y versionado.
 
 #### Granularidad: del número a la publicación continua
 
 **El modelo impreso tradicional:**
-- Artículos se agrupan en "números" (issues)
+- Artículos se agrupan en "números"
 - Cada número se publica en fecha fija (trimestral, semestral)
 - Los lectores reciben el número completo (conjunto de artículos no relacionados)
 
 **El modelo digital de publicación continua:**
-- Artículos se publican individualmente conforme son aceptados ("ahead of print")
+- Artículos se publican individualmente conforme son aceptados ("publicación anticipada")
 - No hay "números" en sentido estricto (solo volúmenes anuales)
 - Los lectores acceden a artículos individuales vía búsqueda, no hojeando números
 
@@ -2070,14 +2077,14 @@ Algunas revistas intentan híbridos:
 
 **Modelo 1: *Dossier* como "colección virtual"**
 - Los artículos se publican individualmente en fechas diferentes
-- Pero se agrupan bajo etiqueta común ("Collection: Climate Justice")
+- Pero se agrupan bajo etiqueta común ("Colección: Justicia climática")
 - La página de la colección presenta los artículos como conjunto
 
 **Problema:** La experiencia de lectura es diferente. Leer artículos con meses de separación no es lo mismo que recibirlos como número completo.
 
 **Modelo 2: Números temáticos en publicación continua**
 - La revista mantiene flujo continuo normal
-- Pero 2-3 veces al año publica "Special Issues" tradicionales
+- Pero 2-3 veces al año publica "números especiales" tradicionales
 - Estos sí se lanzan como conjunto en fecha fija
 
 **Problema:** Crea dos clases de artículos (regulares vs. especiales), con prestigio desigual.
@@ -2086,203 +2093,203 @@ Algunas revistas intentan híbridos:
 
 El artículo digital puede incluir elementos imposibles en impreso:
 
-**1. Datasets interactivos**
+**1. Conjuntos de datos interactivos**
 
 Ejemplo de *Nature Scientific Data*:
-- Artículo describe un dataset de 10 millones de observaciones
-- El dataset está disponible en repositorio (Figshare, Dryad)
+- Artículo describe un conjunto de datos de 10 millones de observaciones
+- El conjunto de datos está disponible en repositorio (Figshare, Dryad)
 - El artículo incluye **visualizaciones interactivas**: el lector puede filtrar datos, generar gráficos personalizados
 - Código de análisis (R, Python) disponible para reproducir resultados
 
 **Implicación estructural:**
-- El artículo ya no es autónomo, sino **portal** al dataset
-- Sección de "Data Availability" se vuelve central (antes era footnote)
-- Peer review debe evaluar código y datos, no solo texto
+- El artículo ya no es autónomo, sino **portal** al conjunto de datos
+- Sección de "Disponibilidad de datos" se vuelve central (antes era nota al pie)
+- Revisión por pares debe evaluar código y datos, no solo texto
 
 **2. Videográficos y materiales audiovisuales**
 
 Revistas de ciencias sociales y humanidades experimentan con:
 
-**JOVE (Journal of Visualized Experiments):**
+**JOVE (Revista de Experimentos Visualizados):**
 - Revista de biología/medicina que publica **videos de protocolos experimentales**
 - Estructura: Video (10-15 min) + artículo escrito
 - Justificación: Algunos procedimientos son difíciles de describir verbalmente (técnicas quirúrgicas, manipulación celular)
 
-**American Anthropologist (sección Visual Anthropology):**
-- Etnografías visuales: documentales cortos (20-30 min) con peer review
+**American Anthropologist (sección Antropología Visual):**
+- Etnografías visuales: documentales cortos (20-30 min) con revisión por pares
 - Estructura: Video + ensayo escrito (contexto teórico)
 - Función: Mostrar prácticas culturales que pierden sentido en descripción textual
 
-**3. Notebooks computacionales reproducibles**
+**3. Cuadernos computacionales reproducibles**
 
-Algunas revistas de ciencia de datos aceptan **Jupyter Notebooks** como formato de publicación:
+Algunas revistas de ciencia de datos aceptan **cuadernos Jupyter** como formato de publicación:
 
-- El "artículo" es un notebook que intercala:
+- El "artículo" es un cuaderno que intercala:
   - Narrativa explicativa (texto)
   - Código ejecutable (Python, R)
-  - Outputs (gráficos, tablas generadas por el código)
+  - Salidas (gráficos, tablas generadas por el código)
 
 **Ventaja:** Reproducibilidad completa. El lector puede ejecutar el código y verificar resultados.
 
-**Ejemplo: Distill (revista de machine learning, 2017-2021)**
+**Ejemplo: Distill (revista de aprendizaje automático, 2017-2021)**
 - Artículos publicados como páginas web interactivas
 - Incluyen simulaciones: el lector ajusta parámetros y ve cómo cambian resultados
 - Código embebido directamente en el artículo
 
-**Desafío:** ¿Cómo se "cita" un notebook? ¿Qué versión (el código cambia con updates de librerías)?
+**Desafío:** ¿Cómo se "cita" un cuaderno? ¿Qué versión (el código cambia con actualizaciones de bibliotecas)?
 
-#### Versioning: la crisis del "artículo definitivo"
+#### Versionado: la crisis del "artículo definitivo"
 
-El modelo tradicional asume que un artículo, una vez publicado, es **inmutable**. La versión impresa es "la versión de registro" (*version of record*).
+El modelo tradicional asume que un artículo, una vez publicado, es **inmutable**. La versión impresa es "la versión de registro".
 
 Lo digital rompe esta estabilidad:
 
-**Preprints: Publicación antes de peer review**
+**Preimpresos: Publicación antes de revisión por pares**
 
 Plataformas como arXiv (física, matemáticas), bioRxiv (biología), SocArXiv (ciencias sociales) permiten:
-- Subir manuscritos antes de enviarlos a journals
-- Recibir feedback de la comunidad
+- Subir manuscritos antes de enviarlos a revistas
+- Recibir retroalimentación de la comunidad
 - Establecer prioridad de descubrimiento
 
 **Problema de versiones:**
-- Versión 1: Preprint inicial
-- Versión 2: Preprint revisado tras feedback
-- Versión 3: Manuscrito enviado a journal
-- Versión 4: Manuscrito revisado tras peer review
+- Versión 1: Preimpreso inicial
+- Versión 2: Preimpreso revisado tras retroalimentación
+- Versión 3: Manuscrito enviado a revista
+- Versión 4: Manuscrito revisado tras revisión por pares
 - Versión 5: Versión aceptada (antes de edición de estilo)
-- Versión 6: Versión publicada (version of record)
+- Versión 6: Versión publicada (versión de registro)
 
 **¿Cuál se cita?** Diferentes comunidades tienen normas diferentes.
 
-**Postprints: versión del autor vs. versión del editor**
+**Postimpresos: versión del autor vs. versión del editor**
 
 Muchas políticas de acceso abierto permiten que autores depositen "versión aceptada" en repositorios institucionales, pero no la "versión publicada" (con diseño editorial).
 
 **Problema:** Ahora hay DOS versiones legítimas del "mismo" artículo:
-- Versión en journal (con DOI oficial, paginación)
+- Versión en revista (con DOI oficial, paginación)
 - Versión en repositorio (sin diseño editorial, paginación diferente)
 
-**Living Articles: artículos actualizables**
+**Artículos vivos: artículos actualizables**
 
 Algunas revistas experimentan con **artículos vivos** que se actualizan continuamente:
 
 **Living Reviews in Relativity:**
-- Review articles sobre temas de relatividad general
+- Artículos de revisión sobre temas de relatividad general
 - Autores actualizan periódicamente (cada 1-3 años) con nuevas referencias y hallazgos
 - Cada versión tiene DOI único, pero todas se consideran "el mismo artículo"
 
-**Ventaja:** El review siempre está actualizado
-**Desafío:** ¿Cómo se evalúa? ¿La actualización requiere nuevo peer review?
+**Ventaja:** La revisión siempre está actualizada
+**Desafío:** ¿Cómo se evalúa? ¿La actualización requiere nueva revisión por pares?
 
-**Correcciones y retracciones:**
+**Correcciones y retractaciones:**
 
 Lo digital hace visible lo que antes era oscuro:
 
 - **Correcciones:** Antes se publicaban en números posteriores. Ahora se ligan directamente al artículo original (con banners de advertencia)
-- **Retracciones:** El artículo retractado permanece visible (con marca de retractación), ya no desaparece de archivos
+- **Retractaciones:** El artículo retractado permanece visible (con marca de retractación), ya no desaparece de archivos
 
-**Problema:** ¿Un artículo retractado sigue siendo "publicación"? ¿Cuenta para CV?
+**Problema:** ¿Un artículo retractado sigue siendo "publicación"? ¿Cuenta para currículum?
 
-### 5.3. Nuevos géneros editoriales: Data Papers, Registered Reports, Living Reviews
+### Nuevos géneros editoriales: artículos de datos, informes registrados, revisiones vivas
 
-#### Data Papers: datos como contribución epistémica
+#### Artículos de datos: datos como contribución epistémica
 
-**Concepto:** Artículo que describe un dataset, sin análisis ni conclusiones substantivas.
+**Concepto:** Artículo que describe un conjunto de datos, sin análisis ni conclusiones substantivas.
 
 **Estructura típica (Scientific Data, Nature):**
 
 ```
-1. Background & Summary
+1. Antecedentes y resumen
    - Qué motivó la recolección de estos datos
    - Potenciales usos
 
-2. Methods
+2. Métodos
    - Cómo se recolectaron los datos
    - Protocolos de medición
    - Control de calidad
 
-3. Data Records
+3. Registros de datos
    - Dónde están depositados (Figshare, Zenodo, etc.)
    - Formato de archivos
    - Estructura de datos (variables, unidades)
 
-4. Technical Validation
+4. Validación técnica
    - Precisión de mediciones
-   - Comparación con otros datasets
+   - Comparación con otros conjuntos de datos
    - Limitaciones conocidas
 
-5. Usage Notes
+5. Notas de uso
    - Cómo cargar/procesar los datos
    - Ejemplos de análisis
 ```
 
-**Ejemplo: Dataset de mamíferos urbanos**
+**Ejemplo: Conjunto de datos de mamíferos urbanos**
 
-Un data paper podría describir:
+Un artículo de datos podría describir:
 - 5 años de capturas fotográficas de fauna urbana en 20 ciudades
 - 500,000 imágenes clasificadas por especie
 - Metadatos: fecha, hora, ubicación, temperatura
 - Depositado en Dryad con DOI
 
-**SIN análisis de:** ¿Por qué los mapaches son más comunes en Ciudad A que B? Eso sería un research article separado que usa estos datos.
+**SIN análisis de:** ¿Por qué los mapaches son más comunes en Ciudad A que B? Eso sería un artículo de investigación separado que usa estos datos.
 
 **Justificación epistémica:**
 
-Tradicionalmente, datasets solo se compartían como "supplementary material" de un artículo analítico. Problemas:
+Tradicionalmente, conjuntos de datos solo se compartían como "material suplementario" de un artículo analítico. Problemas:
 - Los datos quedan ocultos (descubribles solo si conoces el artículo analítico)
 - No hay incentivo para curar datos bien (no cuenta como publicación)
 - Datos valiosos se pierden si el análisis no se publica
 
-**Data Papers reconocen que:**
+**Los artículos de datos reconocen que:**
 - Recolectar y curar datos es trabajo académico valioso en sí mismo
 - Datos pueden tener múltiples usos analíticos futuros
 - La reutilización de datos es eficiente (evita duplicar esfuerzos)
 
 **Adopción por disciplinas:**
 
-| Campo | Revistas de Data Papers | Razón de adopción |
+| Campo | Revistas de artículos de datos | Razón de adopción |
 |-------|------------------------|------------------|
 | **Ecología** | *Ecology*, *Scientific Data* | Datos de campo costosos, difíciles de replicar |
 | **Neurociencia** | *Data in Brief*, *GigaScience* | Neuroimágenes reutilizables para múltiples hipótesis |
-| **Genómica** | *BMC Research Notes*, *F1000Research* | Datasets masivos (secuencias genómicas) |
+| **Genómica** | *BMC Research Notes*, *F1000Research* | Conjuntos de datos masivos (secuencias genómicas) |
 | **Ciencias sociales** | Menos común, resistencia | Preocupaciones éticas (privacidad de participantes) |
 
-#### Registered Reports: peer review antes de resultados
+#### Informes registrados: revisión por pares antes de resultados
 
-**Innovación radical:** Invertir el proceso de peer review.
+**Innovación radical:** Invertir el proceso de revisión por pares.
 
 **Modelo tradicional:**
 1. Investigador hace estudio
 2. Obtiene resultados
 3. Escribe artículo
-4. Envía a journal
-5. Peer review evalúa resultados
+4. Envía a revista
+5. Revisión por pares evalúa resultados
 6. Si resultados son "interesantes" → aceptación; si "nulos" → rechazo
 
-**Problema:** Sesgo de publicación. Resultados "positivos" se publican, "negativos" quedan en el "file drawer".
+**Problema:** Sesgo de publicación. Resultados "positivos" se publican, "negativos" quedan en el "cajón de archivos".
 
-**Modelo Registered Reports:**
+**Modelo de informes registrados:**
 
-**Stage 1: Propuesta**
-1. Investigador escribe Introduction + Methods (sin resultados aún)
+**Etapa 1: Propuesta**
+1. Investigador escribe Introducción + Métodos (sin resultados aún)
 2. Declara hipótesis y plan de análisis estadístico
-3. Envía a journal
-4. Peer review evalúa: ¿Es la pregunta importante? ¿Son los métodos apropiados?
-5. Si sí → **aceptación provisional** ("in principle acceptance")
+3. Envía a revista
+4. Revisión por pares evalúa: ¿Es la pregunta importante? ¿Son los métodos apropiados?
+5. Si sí → **aceptación provisional** ("aceptación en principio")
 
-**Stage 2: Ejecución y resultados**
+**Etapa 2: Ejecución y resultados**
 6. Investigador ejecuta el estudio tal como propuso
 7. Obtiene resultados (sean cuales sean)
-8. Escribe Results + Discussion
+8. Escribe Resultados + Discusión
 9. Envía versión completa
-10. Peer review solo verifica que se ejecutó como prometido
+10. Revisión por pares solo verifica que se ejecutó como prometido
 11. **Publicación garantizada**, independiente de si resultados son "interesantes"
 
 **Ventajas:**
 
 1. **Elimina sesgo de publicación:** Resultados "nulos" se publican si el diseño era bueno
-2. **Previene HARKing** (Hypothesizing After Results are Known): No se pueden inventar hipótesis después de ver datos
-3. **Incentiva diseños rigurosos:** Los revisores se enfocan en calidad metodológica, no en si los resultados son "wow"
+2. **Previene formulación de hipótesis posterior a resultados conocidos**: No se pueden inventar hipótesis después de ver datos
+3. **Incentiva diseños rigurosos:** Los revisores se enfocan en calidad metodológica, no en si los resultados son "sorprendentes"
 
 **Desafíos:**
 
@@ -2292,58 +2299,58 @@ Tradicionalmente, datasets solo se compartían como "supplementary material" de 
 
 **Adopción:**
 
-- ~300 journals aceptan Registered Reports (2023)
+- ~300 revistas aceptan informes registrados (2023)
 - Predominantemente en psicología (*Psychological Science*, *Nature Human Behaviour*)
-- Adoptado parcialmente en medicina (clinical trials ya requieren pre-registro)
+- Adoptado parcialmente en medicina (ensayos clínicos ya requieren pre-registro)
 - Casi ausente en humanidades (incompatible con lógica interpretativa)
 
-#### Living Reviews: artículos de revisión actualizables
+#### Revisiones vivas: artículos de revisión actualizables
 
-**Concepto:** Review articles que se actualizan periódicamente en lugar de quedar congelados.
+**Concepto:** Artículos de revisión que se actualizan periódicamente en lugar de quedar congelados.
 
-**Modelo tradicional de reviews:**
+**Modelo tradicional de revisiones:**
 - Autor escribe síntesis de literatura hasta fecha X
 - Artículo se publica
 - En 5 años, está desactualizado
 
-**Modelo Living Review:**
+**Modelo de revisión viva:**
 - Autor escribe síntesis inicial (versión 1.0)
 - Cada 1-3 años, actualiza con nueva literatura (versiones 1.1, 1.2, etc.)
 - Cada versión tiene DOI único pero todas están ligadas
 
 **Ejemplo: *Living Reviews in Relativity***
 
-Un artículo sobre "Black Hole Thermodynamics":
+Un artículo sobre "Termodinámica de agujeros negros":
 - Versión 1.0 (2010): Síntesis hasta 2009
 - Versión 2.0 (2013): Incluye hallazgos 2010-2012
 - Versión 3.0 (2018): Incluye descubrimiento de ondas gravitacionales
-- Versión 4.0 (2023): Incluye primera imagen de agujero negro (Event Horizon Telescope)
+- Versión 4.0 (2023): Incluye primera imagen de agujero negro (Telescopio del Horizonte de Eventos)
 
 **Ventajas:**
-- El review permanece útil a largo plazo
+- La revisión permanece útil a largo plazo
 - Autores reconocidos por trabajo continuo (no solo publicación inicial)
 
 **Desafíos:**
-- ¿Cómo se evalúa cada actualización? (¿Nuevo peer review completo o solo revisión incremental?)
+- ¿Cómo se evalúa cada actualización? (¿Nueva revisión por pares completa o solo revisión incremental?)
 - ¿Qué versión se cita? (Recomendación: la más reciente)
-- ¿Cuándo termina? (¿Autor puede "retirarse" de mantener el review?)
+- ¿Cuándo termina? (¿Autor puede "retirarse" de mantener la revisión?)
 
-**Variante: Collaborative Living Reviews**
+**Variante: Revisiones vivas colaborativas**
 
-*WikiJournal* experimenta con reviews colaborativos:
+*WikiJournal* experimenta con revisiones colaborativas:
 - Múltiples autores contribuyen y actualizan
-- Modelo similar a Wikipedia pero con peer review
+- Modelo similar a Wikipedia pero con revisión por pares
 - Cambios mayores requieren aprobación editorial
 
-### 5.4. Resistencias periféricas: SciELO, Redalyc y soberanía temática
+### Resistencias periféricas: SciELO, Redalyc y soberanía temática
 
 #### SciELO: infraestructura alternativa desde el Sur Global
 
-**SciELO (Scientific Electronic Library Online)** es una iniciativa brasileña (1998) que se expandió a 16 países latinoamericanos, España, Portugal y Sudáfrica.
+**SciELO (Biblioteca Electrónica Científica en Línea)** es una iniciativa brasileña (1998) que se expandió a 16 países latinoamericanos, España, Portugal y Sudáfrica [19].
 
 **Principios fundacionales:**
 
-1. **Acceso abierto radical:** Todos los artículos gratuitos desde el momento de publicación (no paywalls)
+1. **Acceso abierto radical:** Todos los artículos gratuitos desde el momento de publicación (no muros de pago)
 2. **Multilingüismo:** Artículos en español, portugués, inglés (sin imponer un idioma único)
 3. **Relevancia regional:** Valorar investigación sobre problemas latinoamericanos, no solo temas "internacionales"
 4. **Soberanía tecnológica:** Plataforma desarrollada en América Latina, no dependiente de Elsevier o Wiley
@@ -2359,7 +2366,7 @@ SciELO no prescribe una estructura única, pero sus criterios de indexación **n
 
 **Criterios de calidad de SciELO:**
 
-En lugar de Impact Factor, usa indicadores múltiples:
+En lugar de Factor de Impacto, usa indicadores múltiples:
 - **Puntualidad:** Cumplimiento de periodicidad
 - **Normalización:** Metadatos completos (autores, afiliaciones, resúmenes en múltiples idiomas)
 - **Visibilidad:** Accesibilidad técnica de los artículos
@@ -2391,19 +2398,19 @@ A medida que SciELO creció, enfrentó presiones:
 
 3. **Incorporación de métricas bibliométricas:**
    - SciELO desarrolló su propio índice de citación
-   - Revistas ahora tienen "SciELO Citation Index"
-   - Riesgo de reproducir lógicas del Impact Factor
+   - Revistas ahora tienen índice de citación SciELO
+   - Riesgo de reproducir lógicas del Factor de Impacto
 
 **Debate actual:** ¿SciELO debe resistir convergencia con modelos anglosajones o adaptarse para "competir" globalmente?
 
-#### Redalyc: defensa del multilingüismo y acceso abierto sin APC
+#### Redalyc: defensa del multilingüismo y acceso abierto sin cargos
 
-**Redalyc (Red de Revistas Científicas de América Latina y el Caribe)** es una iniciativa mexicana (2003) con énfasis aún mayor en autonomía regional.
+**Redalyc (Red de Revistas Científicas de América Latina y el Caribe)** es una iniciativa mexicana (2003) con énfasis aún mayor en autonomía regional [20].
 
 **Diferencias con SciELO:**
 
 1. **Modelo de financiamiento:**
-   - SciELO cobra a journals por indexación (APC a nivel journal)
+   - SciELO cobra a revistas por indexación (cargo a nivel revista)
    - Redalyc es completamente gratuito (financiado por universidades públicas)
 
 2. **Multilingüismo estricto:**
@@ -2433,11 +2440,11 @@ Redalyc evalúa revistas por:
 
 *Revista Mexicana de Investigación Educativa* (RMIE):
 - Publica sobre sistema educativo mexicano
-- Alto impacto en política educativa nacional (citada en documentos SEP)
+- Alto impacto en política educativa nacional (citada en documentos oficiales)
 - Descargas masivas por docentes y directivos escolares
 - Pero bajo impacto en citación académica internacional (temas muy locales)
 
-**Para WoS:** Revista de bajo impacto (IF marginal)
+**Para WoS:** Revista de bajo impacto (FI marginal)
 **Para Redalyc:** Revista de alto impacto social
 
 #### Debates sobre soberanía temática
@@ -2450,9 +2457,9 @@ La capacidad de comunidades académicas periféricas de **definir qué problemas
 
 Una revista africana de economía podría:
 - Opción A: Aplicar modelos de crecimiento neoclásicos a economías africanas
-  → Publicable en journals internacionales, alto IF
+  → Publicable en revistas internacionales, alto FI
 - Opción B: Desarrollar teorías sobre economías informales desde prácticas africanas
-  → Difícil publicar internacionalmente, bajo IF, pero mayor relevancia local
+  → Difícil publicar internacionalmente, bajo FI, pero mayor relevancia local
 
 **La estructura editorial afecta soberanía temática:**
 
@@ -2470,80 +2477,80 @@ Una revista africana de economía podría:
 **Tensión contemporánea:**
 
 Investigadores latinoamericanos, africanos, asiáticos enfrentan dilema:
-- Publicar en journals del Norte Global → prestigio individual, promoción académica
-- Publicar en journals regionales → relevancia social, construcción de comunidades locales
+- Publicar en revistas del Norte Global → prestigio individual, promoción académica
+- Publicar en revistas regionales → relevancia social, construcción de comunidades locales
 
 Estructura editorial afecta esta elección:
-- Si journals regionales mantienen *dossier*/debates → ofrecen valor distintivo
-- Si journals regionales solo imitan modelo anglosajón → no hay razón para preferirlos sobre journals del Norte
+- Si revistas regionales mantienen *dossier*/debates → ofrecen valor distintivo
+- Si revistas regionales solo imitan modelo anglosajón → no hay razón para preferirlos sobre revistas del Norte
 
-### 5.5. COVID-19 y la aceleración de transformaciones
+### COVID-19 y la aceleración de transformaciones
 
 La pandemia de COVID-19 (2020-2023) aceleró dramáticamente cambios estructurales en publicación científica:
 
-#### Preprints como norma
+#### Preimpresos como norma
 
 **Antes de COVID:**
-- Preprints usados en física, matemáticas
+- Preimpresos usados en física, matemáticas
 - Minoritarios en biomedicina, ciencias sociales
 
 **Durante COVID:**
-- medRxiv recibió 30,000+ preprints sobre COVID en 2020-2021
-- Preprints citados en medios, políticas públicas, documentos OMS
-- Primer uso masivo de preprints para informar decisiones urgentes
+- medRxiv recibió 30,000+ preimpresos sobre COVID en 2020-2021
+- Preimpresos citados en medios, políticas públicas, documentos OMS
+- Primer uso masivo de preimpresos para informar decisiones urgentes
 
 **Consecuencias estructurales:**
 
-1. **Crisis del peer review tradicional:**
-   - Preprints permitieron difusión rápida de hallazgos
-   - Pero muchos preprints contenían errores serios
-   - Debate: ¿Peer review es necesario o es un filtro obsoleto?
+1. **Crisis del sistema de revisión por pares tradicional:**
+   - Preimpresos permitieron difusión rápida de hallazgos
+   - Pero muchos preimpresos contenían errores serios
+   - Debate: ¿La revisión por pares es necesaria o es un filtro obsoleto?
 
-2. **Post-publication peer review emergente:**
-   - Plataformas como PubPeer permitieron comentar preprints públicamente
-   - Errores identificados en días (vs. meses de peer review tradicional)
-   - Pero también trolling y ataques ad hominem
+2. **Revisión por pares post-publicación emergente:**
+   - Plataformas como PubPeer permitieron comentar preimpresos públicamente
+   - Errores identificados en días (vs. meses de revisión por pares tradicional)
+   - Pero también hostigamiento y ataques personales
 
-3. **Journals tradicionales perdieron monopolio de "primera publicación":**
-   - Hallazgos importantes se difundieron vía preprint
-   - Journal publication se volvió "validación formal" posterior
-   - Cuestionamiento: ¿Para qué sirve el journal si el preprint ya circuló?
+3. **Revistas tradicionales perdieron monopolio de "primera publicación":**
+   - Hallazgos importantes se difundieron vía preimpreso
+   - Publicación en revista se volvió "validación formal" posterior
+   - Cuestionamiento: ¿Para qué sirve la revista si el preimpreso ya circuló?
 
 #### Publicación ultrarrápida
 
-Algunos journals implementaron "fast-track" para COVID:
+Algunas revistas implementaron vías rápidas para COVID:
 
 **Ejemplo: *The Lancet***
 - Tiempo normal de publicación: 6-12 meses (recepción → publicación)
-- Fast-track COVID: 2-4 semanas
+- Vía rápida COVID: 2-4 semanas
 
 **Cómo lo lograron:**
-- Peer review acelerado (revisores contactados urgentemente)
+- Revisión por pares acelerada (revisores contactados urgentemente)
 - Edición de estilo simplificada
-- Publicación online inmediata (sin esperar "número" impreso)
+- Publicación en línea inmediata (sin esperar "número" impreso)
 
 **Pregunta resultante:** Si es posible publicar en 3 semanas, ¿por qué normalmente toma 9 meses?
 
-#### Open Data como imperativo
+#### Datos abiertos como imperativo
 
 Agencias de financiamiento exigieron que datos COVID fueran abiertos inmediatamente:
 - NIH, Wellcome Trust: "Datos COVID deben compartirse en repositorios públicos"
-- Journals: "Artículos COVID sin datos disponibles no se aceptan"
+- Revistas: "Artículos COVID sin datos disponibles no se aceptan"
 
 **Consecuencia estructural:**
 
-Sección "Data Availability" pasó de apéndice marginal a **requisito central**:
+Sección "Disponibilidad de datos" pasó de apéndice marginal a **requisito central**:
 
 **Antes:**
-- "Data available upon request" (raramente se compartían realmente)
+- "Datos disponibles bajo solicitud" (raramente se compartían realmente)
 
 **Ahora:**
-- "Data deposited in [repositorio] under accession number XXXX"
-- Reviewers verifican que datos sean realmente accesibles
+- "Datos depositados en [repositorio] bajo número de acceso XXXX"
+- Revisores verifican que datos sean realmente accesibles
 
 **Problema:** ¿Esta política se mantendrá o solo fue temporal?
 
-### 5.6. Síntesis: ¿convergencia o diversificación?
+### Síntesis: ¿convergencia o diversificación?
 
 Esta sección ha mostrado fuerzas contradictorias:
 
@@ -2551,10 +2558,10 @@ Esta sección ha mostrado fuerzas contradictorias:
 - Presión de índices bibliométricos (WoS, Scopus)
 - Adopción global del modelo anglosajón como "estándar"
 - Anglofización de revistas para aumentar citación
-- Convergencia en métricas (Impact Factor, h-index)
+- Convergencia en métricas (Factor de Impacto, índice h)
 
 **Fuerzas diversificadoras:**
-- Innovaciones digitales (Data Papers, Registered Reports, Living Reviews)
+- Innovaciones digitales (artículos de datos, informes registrados, revisiones vivas)
 - Resistencias regionales (SciELO, Redalyc)
 - Emergencia de modelos alternativos de evaluación
 - Reconocimiento de que "calidad" es contextual (relevancia social vs. citación académica)
@@ -2568,29 +2575,29 @@ Esta sección ha mostrado fuerzas contradictorias:
 - **Riesgo:** Empobrecimiento epistémico, pérdida de relevancia local
 
 **Escenario 2: Diferenciación funcional**
-- Coexistencia de journals "internacionales" (modelo anglosajón) y "regionales" (modelos alternativos)
+- Coexistencia de revistas "internacionales" (modelo anglosajón) y "regionales" (modelos alternativos)
 - Cada uno sirve funciones diferentes (reputación global vs. impacto local)
-- **Riesgo:** Reproducción de jerarquías (journals "centrales" vs. "periféricos")
+- **Riesgo:** Reproducción de jerarquías (revistas "centrales" vs. "periféricos")
 
 **Escenario 3: Innovación disruptiva**
-- Nuevos modelos (Registered Reports, Data Papers, preprints + post-publication review) sustituyen journals tradicionales
-- Plataformas abiertas (arXiv, OSF) dominan sobre journals comerciales
+- Nuevos modelos (informes registrados, artículos de datos, preimpresos + revisión post-publicación) sustituyen revistas tradicionales
+- Plataformas abiertas (arXiv, OSF) dominan sobre revistas comerciales
 - **Riesgo:** Pérdida de control de calidad, exceso de información no filtrada
 
 **La estructura editorial en cada escenario:**
 
 | Escenario | Estructura dominante | Quién decide qué se publica | Cómo se evalúa calidad |
 |-----------|---------------------|---------------------------|----------------------|
-| **Convergencia** | IMRyD estandarizado, publicación continua | Editores profesionales + peer review double-blind | Impact Factor, citación |
-| **Diferenciación** | Múltiples modelos coexistentes | Varía según tipo de journal | Métricas plurales |
-| **Disrupción** | Preprints + comentarios post-pub | Autores + comunidad | Altmetrics, post-pub review |
+| **Convergencia** | IMRyD estandarizado, publicación continua | Editores profesionales + revisión por pares doble ciego | Factor de Impacto, citación |
+| **Diferenciación** | Múltiples modelos coexistentes | Varía según tipo de revista | Métricas plurales |
+| **Disrupción** | Preimpresos + comentarios post-publicación | Autores + comunidad | Métricas alternativas, revisión post-publicación |
 
 La siguiente sección (Conclusión) propone un marco normativo para pensar estas tensiones.
 
 
 ## 6. Conclusión: hacia una ecología de modelos editoriales
 
-### 6.1. Recapitulación: la estructura editorial como epistemología inscrita
+### Recapitulación: la estructura editorial como epistemología inscrita
 
 Este artículo ha demostrado que las divisiones internas de las revistas científicas —qué secciones incluyen, cómo las nombran, qué jerarquía establecen entre ellas— no son decisiones meramente formales o estéticas, sino **inscripciones materiales de prácticas de validación del conocimiento**. La estructura editorial de una revista revela, simultáneamente:
 
@@ -2598,11 +2605,11 @@ Este artículo ha demostrado que las divisiones internas de las revistas cientí
 
 Diferentes campos del conocimiento producen y validan conocimiento de maneras radicalmente distintas:
 
-- Las **ciencias experimentales** requieren replicabilidad mediante protocolos detallados → estructura IMRyD con sección de Methods exhaustiva
-- Las **ciencias sociales cuantitativas** necesitan explicitar estrategias de identificación causal → secciones de Identification Strategy y Robustness Checks
-- Las **ciencias sociales cualitativas** valoran reflexividad y thick description → narrativas analíticas integradas sin separación Results/Discussion
+- Las **ciencias experimentales** requieren replicabilidad mediante protocolos detallados → estructura IMRyD con sección de Métodos exhaustiva
+- Las **ciencias sociales cuantitativas** necesitan explicitar estrategias de identificación causal → secciones de estrategia de identificación y pruebas de robustez
+- Las **ciencias sociales cualitativas** valoran reflexividad y descripción densa → narrativas analíticas integradas sin separación Resultados/Discusión
 - Las **humanidades** producen interpretaciones argumentativas → ensayos sin secciones metodológicas, con notas al pie como espacio de debate
-- Las **profesiones aplicadas** combinan investigación y práctica → géneros híbridos como Case Reports, Clinical Guidelines, Practice Reflections
+- Las **profesiones aplicadas** combinan investigación y práctica → géneros híbridos como reportes de casos, guías clínicas, reflexiones de práctica
 
 Ninguna de estas estructuras es "superior" a otra; cada una es **funcionalmente adecuada** al tipo de conocimiento que produce. Intentar imponer IMRyD a un ensayo filosófico sería tan absurdo como exigir "argumentación narrativa" a un reporte de ensayo clínico controlado.
 
@@ -2610,26 +2617,26 @@ Ninguna de estas estructuras es "superior" a otra; cada una es **funcionalmente 
 
 La estructura editorial también refleja cómo se organiza la producción académica en diferentes contextos nacionales/regionales:
 
-- El **modelo anglosajón** de "contribuciones discretas" refleja: universidades basadas en departamentos, financiamiento competitivo por proyectos, cultura de claim-staking individual
+- El **modelo anglosajón** de "contribuciones discretas" refleja: universidades basadas en departamentos, financiamiento competitivo por proyectos, cultura de delimitación de territorio individual
 - El **modelo europeo continental** de números monográficos refleja: tradición de academias estatales, escuelas de pensamiento institucionalizadas, financiamiento institucional estable
 - El **modelo latinoamericano** del *dossier* como red intelectual refleja: necesidad de integración transnacional, resistencia a dependencia temática, construcción de soberanía epistémica
 - Los **modelos asiáticos, africanos y de Medio Oriente** muestran hibridaciones entre tradiciones locales y presiones globalizadoras, negociando entre preservación cultural e inserción internacional
 
 **3. Dinámicas de poder en el sistema académico global**
 
-La presión actual por homogeneización estructural (adoptar modelo anglosajón, publicar en inglés, privilegiar research articles sobre otros géneros) no es un proceso neutral de "mejora de calidad", sino una **reconfiguración geopolítica** de lo que cuenta como conocimiento legítimo:
+La presión actual por homogeneización estructural (adoptar modelo anglosajón, publicar en inglés, privilegiar artículos de investigación sobre otros géneros) no es un proceso neutral de "mejora de calidad", sino una **reconfiguración geopolítica** de lo que cuenta como conocimiento legítimo:
 
 - Índices bibliométricos (WoS, Scopus) funcionan como **dispositivos de poder** que normalizan cierto modelo estructural
-- El Impact Factor opera como **proxy de calidad** a pesar de limitaciones metodológicas serias
-- Políticas de evaluación académica que solo reconocen artículos en journals indexados internacionalmente **desincentivan** modelos alternativos
+- El Factor de Impacto opera como **indicador de calidad** a pesar de limitaciones metodológicas serias
+- Políticas de evaluación académica que solo reconocen artículos en revistas indexadas internacionalmente **desincentivan** modelos alternativos
 - La anglofización creciente **reduce diversidad lingüística y temática**
 
 Sin embargo, también hemos visto **resistencias significativas**:
 - SciELO y Redalyc ofrecen infraestructuras alternativas que valoran relevancia regional y multilingüismo
-- Innovaciones digitales (Data Papers, Registered Reports, Living Reviews) desafían estructuras tradicionales
+- Innovaciones digitales (artículos de datos, informes registrados, revisiones vivas) desafían estructuras tradicionales
 - Comunidades disciplinarias (matemáticas, humanidades) mantienen autonomía estructural frente a presiones homogeneizadoras
 
-### 6.2. Propuesta normativa: pensar en términos de ecología, no de estándar único
+### Propuesta normativa: pensar en términos de ecología, no de estándar único
 
 La pregunta central no debería ser "¿cuál es la mejor estructura para una revista científica?" sino **"¿qué funciones epistémicas y sociales cumplen las diferentes estructuras en sus contextos específicos?"**
 
@@ -2642,8 +2649,8 @@ Diferentes estructuras editoriales permiten diferentes tipos de contribuciones:
 - **Artículos IMRyD individuales** son óptimos para: comunicar resultados experimentales replicables, acumular evidencia sobre preguntas bien definidas, permitir publicación rápida
 - **Números monográficos/*dossier*** son óptimos para: construir agendas de investigación emergentes, generar masa crítica sobre temas nuevos, articular comunidades transnacionales
 - **Debates extendidos** son óptimos para: madurar controversias teóricas, explicitar desacuerdos metodológicos, construir consensos o reconocer disensos legítimos
-- **Review Essays** son óptimos para: cartografiar campos, identificar tendencias, intervenir en debates usando bibliografía como evidencia
-- **Data Papers** son óptimos para: valorar trabajo de curación de datos, facilitar reutilización, evitar duplicación de esfuerzos
+- **Ensayos de reseña** son óptimos para: cartografiar campos, identificar tendencias, intervenir en debates usando bibliografía como evidencia
+- **Artículos de datos** son óptimos para: valorar trabajo de curación de datos, facilitar reutilización, evitar duplicación de esfuerzos
 
 **Una ecología saludable requiere múltiples nichos**, no monocultivo. La imposición de un único modelo empobrece las posibilidades epistémicas.
 
@@ -2652,8 +2659,8 @@ Diferentes estructuras editoriales permiten diferentes tipos de contribuciones:
 No existe "la revista científica ideal", sino **revistas adecuadas a contextos específicos**:
 
 **Contexto: Biomedicina con necesidad de comunicación urgente**
-→ Modelo apropiado: Publicación continua, peer review acelerado, preprints + validación posterior
-→ Ejemplo: medRxiv + journals de rápida publicación como *The Lancet Infectious Diseases*
+→ Modelo apropiado: Publicación continua, revisión por pares acelerada, preimpresos + validación posterior
+→ Ejemplo: medRxiv + revistas de rápida publicación como *The Lancet Infectious Diseases*
 
 **Contexto: Humanidades con debates madurados lentamente**
 → Modelo apropiado: Números monográficos planificados, extensión generosa, ensayos sin estructura rígida
@@ -2664,7 +2671,7 @@ No existe "la revista científica ideal", sino **revistas adecuadas a contextos 
 → Ejemplo: Revistas SciELO con *dossier* temáticos
 
 **Contexto: Ciencia de datos con necesidad de reproducibilidad computacional**
-→ Modelo apropiado: Notebooks computacionales, código ejecutable, datasets públicos
+→ Modelo apropiado: Cuadernos computacionales, código ejecutable, conjuntos de datos públicos
 → Ejemplo: *Journal of Open Source Software*, plataformas tipo Distill
 
 **La evaluación de calidad debe considerar si la estructura es adecuada al contexto**, no si coincide con un estándar abstracto.
@@ -2672,51 +2679,51 @@ No existe "la revista científica ideal", sino **revistas adecuadas a contextos 
 #### Principio 3: la innovación estructural debe ser posible y valorada
 
 El modelo actual de evaluación bibliométrica **castiga la innovación estructural**:
-- Una revista que experimenta con Registered Reports puede ver caer su IF (porque publica resultados "nulos" menos citables)
-- Una revista que dedica 40% de su espacio a debates puede ser penalizada (porque "debates" no cuentan como "research articles")
+- Una revista que experimenta con informes registrados puede ver caer su FI (porque publica resultados "nulos" menos citables)
+- Una revista que dedica 40% de su espacio a debates puede ser penalizada (porque "debates" no cuentan como "artículos de investigación")
 - Una revista multilingüe puede tener menor citación internacional (porque artículos en español/portugués se citan menos)
 
 **Propuesta:** Sistemas de evaluación deben **incentivar experimentación**, no solo replicación del modelo dominante. Esto requiere:
 
-1. **Métricas plurales:** No solo Impact Factor, sino también:
+1. **Métricas plurales:** No solo Factor de Impacto, sino también:
    - Uso social (descargas, menciones en política pública)
    - Construcción de comunidades (formación de redes de investigación)
    - Innovación metodológica (introducción de nuevos géneros)
 
 2. **Evaluación cualitativa:** Paneles de expertos que juzguen **contribución epistémica**, no solo números
-   - Ejemplo: Sistema de evaluación holandés (SEP) que combina métricas con narrativas cualitativas
+   - Ejemplo: Sistema de evaluación holandés que combina métricas con narrativas cualitativas
 
 3. **Reconocimiento de diversidad funcional:** Una revista que sirve a comunidad nacional puede ser tan valiosa como una de circulación global
-   - Ejemplo: *Revista Mexicana de Investigación Educativa* tiene alto impacto en política educativa mexicana, aunque bajo IF internacional
+   - Ejemplo: *Revista Mexicana de Investigación Educativa* tiene alto impacto en política educativa mexicana, aunque bajo FI internacional
 
-### 6.3. Implicaciones prácticas para diferentes actores
+### Implicaciones prácticas para diferentes actores
 
 #### Para editores científicos
 
 **Recomendación 1: Definir explícitamente la función epistémica de la revista**
 
 ¿La revista busca:
-- Difundir resultados de investigación original? → Priorizar research articles
+- Difundir resultados de investigación original? → Priorizar artículos de investigación
 - Construir agendas de investigación? → Invertir en *dossier* coordinados
 - Generar debates teóricos? → Crear secciones de controversia
-- Apoyar práctica profesional? → Incluir case reports, guidelines
+- Apoyar práctica profesional? → Incluir reportes de casos, guías
 - Múltiples funciones? → Estructura híbrida con secciones diferenciadas
 
 **Recomendación 2: Hacer visible el trabajo editorial**
 
-El modelo de publicación continua invisible el trabajo de curación temática. Estrategias para mantener coherencia:
-- Publicar "editorial introductions" que contextualicen grupos de artículos
-- Crear "collections" o "special sections" virtuales que agrupen artículos relacionados
+El modelo de publicación continua invisibiliza el trabajo de curación temática. Estrategias para mantener coherencia:
+- Publicar editoriales introductorios que contextualicen grupos de artículos
+- Crear "colecciones" o "secciones especiales" virtuales que agrupen artículos relacionados
 - Usar editoriales para orientar el campo, no solo reportar cambios administrativos
 
 **Recomendación 3: Experimentar con géneros editoriales**
 
-No limitarse a research articles. Considerar:
-- **Registered Reports** (especialmente en psicología, ciencias sociales experimentales)
-- **Data Papers** (en campos donde recolección de datos es costosa)
-- **Replication Studies** (validación de hallazgos previos)
-- **Negative Results** (reportar qué NO funciona)
-- **Method Papers** (describir técnicas innovadoras sin aplicación empírica completa)
+No limitarse a artículos de investigación. Considerar:
+- **Informes registrados** (especialmente en psicología, ciencias sociales experimentales)
+- **Artículos de datos** (en campos donde recolección de datos es costosa)
+- **Estudios de replicación** (validación de hallazgos previos)
+- **Resultados negativos** (reportar qué NO funciona)
+- **Artículos de método** (describir técnicas innovadoras sin aplicación empírica completa)
 
 **Recomendación 4: Resistir presiones homogeneizadoras que contradigan la misión**
 
@@ -2725,7 +2732,7 @@ Si la revista sirve a comunidad nacional o regional:
 - Valorar relevancia local (no solo temas "universales")
 - Preservar *dossier* si cumplen función de construcción de agendas
 
-Pero ser transparente sobre trade-offs:
+Pero ser transparente sobre compromisos:
 - "Esta revista prioriza relevancia para América Latina sobre indexación en WoS"
 - "Publicamos en español/portugués aunque eso reduzca citación internacional"
 
@@ -2733,13 +2740,13 @@ Pero ser transparente sobre trade-offs:
 
 **Desafío 1: Capturar diversidad estructural en metadatos**
 
-El estándar JATS XML (Journal Article Tag Suite) asume modelo anglosajón:
-- Elementos como `<abstract>`, `<method>`, `<results>`, `<discussion>` presuponen IMRyD
-- No hay etiquetas estándar para *dossier*, "debate", "review essay" como géneros distintivos
+El estándar JATS XML (Conjunto de Etiquetas de Artículos de Revista) asume modelo anglosajón:
+- Elementos como resumen, métodos, resultados, discusión presuponen IMRyD
+- No hay etiquetas estándar para *dossier*, "debate", "ensayo de reseña" como géneros distintivos
 
 **Propuesta:** Extender JATS con:
-- Elemento `<article-collection>` para *dossier* (agrupando artículos relacionados)
-- Atributo `@collection-type` con valores: *dossier*, "special-issue", "debate", "thematic-section"
+- Elemento de colección de artículos para *dossier* (agrupando artículos relacionados)
+- Atributo de tipo de colección con valores: *dossier*, "número-especial", "debate", "sección-temática"
 - Metadatos de coordinadores de *dossier* (no solo autores de artículos individuales)
 - Relaciones entre artículos (respuesta, réplica, extensión)
 
@@ -2747,18 +2754,18 @@ El estándar JATS XML (Journal Article Tag Suite) asume modelo anglosajón:
 
 ¿Cómo preservar un *dossier* cuando artículos se publican en fechas diferentes?
 - Repositorios deben capturar relaciones entre artículos, no solo archivos individuales
-- Necesidad de "compound objects" (objetos compuestos) en sistemas de preservación
+- Necesidad de "objetos compuestos" en sistemas de preservación
 
 **Desafío 3: Descubribilidad de géneros no estándar**
 
-Motores de búsqueda académica (Google Scholar, Dimensions) priorizan research articles.
-- ¿Cómo hacer descubribles debates, review essays, data papers?
+Motores de búsqueda académica (Google Scholar, Dimensions) priorizan artículos de investigación.
+- ¿Cómo hacer descubribles debates, ensayos de reseña, artículos de datos?
 - Necesidad de filtros por tipo de contribución en interfaces de búsqueda
 
 **Propuesta de proyecto desde gbpublisher:** Generar extensiones de JATS que capturen:
 ```xml
 <article-meta>
-  <article-type>dossier-article</article-type>
+  <article-type>artículo-dossier</article-type>
   <collection-meta>
     <collection-id collection-id-type="doi">10.1234/dossier.001</collection-id>
     <collection-title>Movimientos sociales y democracia en América Latina</collection-title>
@@ -2773,13 +2780,13 @@ Motores de búsqueda académica (Google Scholar, Dimensions) priorizan research 
 #### Para sistemas de evaluación académica
 
 **Problema actual:** Evaluación reduce "producción científica" a:
-- Número de artículos en journals indexados
-- Impact Factor de esos journals
+- Número de artículos en revistas indexadas
+- Factor de Impacto de esas revistas
 - Número de citas recibidas
 
 Esto **invisibiliza contribuciones valiosas**:
 - Coordinar un *dossier* (trabajo editorial complejo)
-- Escribir review essays (síntesis crítica de literatura)
+- Escribir ensayos de reseña (síntesis crítica de literatura)
 - Participar en debates (construcción dialógica de conocimiento)
 - Editar fuentes o documentos (disponibilizar materiales primarios)
 
@@ -2787,20 +2794,20 @@ Esto **invisibiliza contribuciones valiosas**:
 
 | Tipo de contribución | Valor epistémico | Cómo evaluar |
 |---------------------|------------------|--------------|
-| Research article original | Producción de conocimiento nuevo | Peer review + citación |
-| Review article | Síntesis de campo | Impacto en orientar investigación futura |
+| Artículo de investigación original | Producción de conocimiento nuevo | Revisión por pares + citación |
+| Artículo de revisión | Síntesis de campo | Impacto en orientar investigación futura |
 | Coordinación de *dossier* | Construcción de agenda | Calidad del conjunto temático |
 | Participación en debate | Maduración teórica | Influencia en consensos/disensos |
-| Data paper | Infraestructura para otros | Reutilización del dataset |
-| Registered Report | Rigor metodológico | Diseño del estudio |
-| Replication study | Validación de hallazgos | Robustez de conocimiento acumulado |
+| Artículo de datos | Infraestructura para otros | Reutilización del conjunto de datos |
+| Informe registrado | Rigor metodológico | Diseño del estudio |
+| Estudio de replicación | Validación de hallazgos | Robustez de conocimiento acumulado |
 
-**Caso ejemplar: Sistema de evaluación DORA (Declaration on Research Assessment)**
+**Caso ejemplar: Sistema de evaluación DORA (Declaración sobre Evaluación de la Investigación)**
 
-Principios:
-1. No usar Impact Factor como medida de calidad de artículos individuales
-2. Evaluar investigación por sus propios méritos, no por journal donde se publica
-3. Reconocer múltiples tipos de outputs (no solo research articles)
+Principios [21]:
+1. No usar Factor de Impacto como medida de calidad de artículos individuales
+2. Evaluar investigación por sus propios méritos, no por revista donde se publica
+3. Reconocer múltiples tipos de productos (no solo artículos de investigación)
 4. Usar métricas apropiadas a cada campo (no universales)
 
 **Adopción:** Firmado por >20,000 instituciones (2023), pero implementación desigual.
@@ -2808,156 +2815,27 @@ Principios:
 #### Para investigadores individuales
 
 **Tensión:** Investigadores enfrentan incentivos contradictorios:
-- Publicar en journals de alto IF para promoción académica
-- Pero journals de alto IF suelen ser anglosajones, con estructuras rígidas, sobre temas "internacionales"
+- Publicar en revistas de alto FI para promoción académica
+- Pero revistas de alto FI suelen ser anglosajones, con estructuras rígidas, sobre temas "internacionales"
 
 **Estrategias de navegación:**
 
-**Estrategia 1: Portfolio diversificado**
-- Algunos artículos en journals internacionales de alto IF (legitimación profesional)
-- Otros en journals regionales con *dossier* (construcción de comunidades, relevancia local)
-- Participación en debates, reseñas extensas (contribución intelectual más allá de "papers")
+**Estrategia 1: Portafolio diversificado**
+- Algunos artículos en revistas internacionales de alto FI (legitimación profesional)
+- Otros en revistas regionales con *dossier* (construcción de comunidades, relevancia local)
+- Participación en debates, reseñas extensas (contribución intelectual más allá de artículos)
 
 **Estrategia 2: Aprovechar nuevos géneros**
-- Publicar datasets como Data Papers (valorización de trabajo de campo)
-- Usar Registered Reports (protección contra sesgo de publicación)
-- Colaborar en Living Reviews (contribución reconocida a largo plazo)
+- Publicar conjuntos de datos como artículos de datos (valorización de trabajo de campo)
+- Usar informes registrados (protección contra sesgo de publicación)
+- Colaborar en revisiones vivas (contribución reconocida a largo plazo)
 
-**Estrategia 3: Advocacy por cambio institucional**
+**Estrategia 3: Defensa del cambio institucional**
 - Exigir que comités de evaluación reconozcan diversidad de contribuciones
 - Presionar por adopción de DORA en la propia institución
-- Participar en journals que experimentan con estructuras alternativas
+- Participar en revistas que experimentan con estructuras alternativas
 
-### 6.4. Desafíos técnicos y infraestructurales
-
-#### Metadatos para la diversidad
-
-**Problema:** Los sistemas actuales de metadatos (Dublin Core, JATS XML, Schema.org) fueron diseñados asumiendo:
-- Artículo individual como unidad básica
-- Estructura IMRyD
-- Géneros limitados (research article, review, editorial)
-
-**Limitaciones concretas:**
-
-1. **No hay manera estándar de marcar un *dossier***
-   - Se puede etiquetar como "special issue", pero eso no captura:
-     * Coordinación por editores invitados
-     * Relaciones temáticas entre artículos
-     * Presentación del *dossier* como contribución colectiva
-
-2. **Debates y réplicas son invisibles**
-   - Un artículo que responde a otro no tiene marcador estándar de esa relación
-   - Lectores no pueden descubrir fácilmente "todos los artículos del debate sobre X"
-
-3. **Autoría colectiva se representa mal**
-   - Coordinador de *dossier* no es "autor" de los artículos, pero tampoco es solo "editor"
-   - No hay campo para capturar este rol intermedio
-
-**Propuestas técnicas:**
-
-**A) Extender Schema.org con tipos específicos**
-
-Schema.org es vocabulario usado por motores de búsqueda para entender contenido web. Actualmente tiene:
-- `ScholarlyArticle` (artículo académico)
-- `Collection` (colección genérica)
-
-**Propuesta:** Agregar:
-- `DossierArticle` (artículo parte de *dossier* coordinado)
-- `DebateContribution` (artículo en controversia multi-artículo)
-- `ReviewEssay` (reseña bibliográfica extensa con argumento propio)
-- `DataPaper` (descripción de dataset)
-- `RegisteredReport` (con distinción Stage 1 / Stage 2)
-
-**B) Desarrollar ontología de relaciones entre artículos**
-
-Inspirado en iniciativas como CiTO (Citation Typing Ontology), crear marcadores para:
-- `isPartOfDossier`: Este artículo es parte del *dossier* X
-- `respondsTo`: Este artículo responde a artículo Y
-- `replicates`: Este artículo replica hallazgos de artículo Z
-- `extends`: Este artículo extiende resultados de artículo W
-
-**C) Identificadores persistentes para objetos compuestos**
-
-DOI se asigna a artículos individuales, pero *dossier* completos también merecen identificador:
-- DOI para el *dossier* como unidad
-- Metadatos que listan todos los artículos componentes
-- Posibilidad de citar el *dossier* completo (no solo artículos individuales)
-
-#### Preservación digital de estructuras complejas
-
-**Desafío:** Los repositorios digitales (Portico, LOCKSS, Archive-It) están diseñados para preservar **archivos individuales**, no **relaciones estructurales**.
-
-**Problema concreto:**
-
-Un *dossier* coordinado tiene:
-- Artículo 1 (PDF + XML)
-- Artículo 2 (PDF + XML)
-- Artículo 3 (PDF + XML)
-- Presentación del *dossier* por coordinador (PDF + XML)
-- Página web que agrupa todos los anteriores
-
-Si se preservan solo los PDFs individuales, se pierde:
-- La relación temática entre artículos
-- La presentación del coordinador que contextualiza el conjunto
-- La experiencia de lectura del *dossier* como unidad
-
-**Propuesta:** Modelos de preservación basados en **compound objects**:
-
-Inspirado en METS (Metadata Encoding and Transmission Standard):
-```xml
-<mets:structMap TYPE="logical">
-  <mets:div TYPE="dossier" LABEL="Movimientos sociales y democracia">
-    <mets:div TYPE="presentation" LABEL="Presentación del coordinador">
-      <mets:fptr FILEID="file001"/>
-    </mets:div>
-    <mets:div TYPE="article" LABEL="Artículo 1">
-      <mets:fptr FILEID="file002"/>
-    </mets:div>
-    <mets:div TYPE="article" LABEL="Artículo 2">
-      <mets:fptr FILEID="file003"/>
-    </mets:div>
-  </mets:div>
-</mets:structMap>
-```
-
-Esto preserva no solo archivos individuales, sino **la estructura que los relaciona**.
-
-#### Interfaz y experiencia de usuario
-
-**Problema:** Las plataformas de journals digitales (OJS, HighWire, Atypon) priorizan:
-- Descubrimiento de artículos individuales
-- Lectura de PDFs aislados
-- Métricas de cada artículo (vistas, descargas, citas)
-
-**Lo que se pierde:**
-- Experiencia de "leer un número" completo (ver qué artículos se publican juntos)
-- Serendipia (descubrir artículo interesante porque estaba en mismo número que otro)
-- Coherencia editorial (la selección del editor de qué se publica junto)
-
-**Propuesta:** Diseño de interfaces que:
-
-1. **Muestren números completos, no solo artículos**
-   - Vista "tabla de contenidos" navegable
-   - Posibilidad de descargar número completo como PDF
-   - Editorial que introduce el número
-
-2. **Hagan visibles los *dossier***
-   - Página de landing del *dossier* con presentación del coordinador
-   - Visualización de relaciones entre artículos del *dossier*
-   - Posibilidad de leer secuencialmente o saltar entre artículos
-
-3. **Faciliten debates multi-artículo**
-   - Timeline de contribuciones al debate
-   - Visualización de quién responde a quién
-   - Síntesis automática de puntos de acuerdo/desacuerdo
-
-**Ejemplo de buena práctica:** *Public Culture* (Duke University Press) mantiene:
-- Números descargables completos en PDF
-- Tablas de contenido navegables
-- Introducción editorial a cada número
-- Pero también artículos individuales con DOI
-
-### 6.5. Agenda de investigación futura
+### Agenda de investigación futura
 
 Los hallazgos de este artículo sugieren múltiples líneas de investigación pendientes:
 
@@ -2974,11 +2852,11 @@ Los hallazgos de este artículo sugieren múltiples líneas de investigación pe
 
 #### 2. Efectos de estructuras editoriales sobre prácticas de investigación
 
-**Pregunta:** ¿La estructura editorial de journals disciplinarios afecta cómo se diseña y reporta investigación?
+**Pregunta:** ¿La estructura editorial de revistas disciplinarias afecta cómo se diseña y reporta investigación?
 
 **Metodología propuesta:**
-- Entrevistas con investigadores sobre cómo eligen journals según estructura
-- Análisis de borradores vs. versiones publicadas (¿autores adaptan estructura a requisitos del journal?)
+- Entrevistas con investigadores sobre cómo eligen revistas según estructura
+- Análisis de borradores vs. versiones publicadas (¿autores adaptan estructura a requisitos de la revista?)
 - Experimentos: mostrar mismos resultados con estructuras diferentes, ¿cambia percepción de calidad?
 
 **Hipótesis:** Estructuras editoriales funcionan como **plantillas cognitivas** que moldean investigación desde el diseño
@@ -2990,7 +2868,7 @@ Los hallazgos de este artículo sugieren múltiples líneas de investigación pe
 **Metodología propuesta:**
 - Estudios de caso de revistas que modificaron estructura para indexación
 - Análisis de criterios de indexación y su evolución temporal
-- Comparación de journals indexados vs. no indexados en términos de estructura
+- Comparación de revistas indexadas vs. no indexadas en términos de estructura
 
 **Hipótesis:** Presión de indexación genera homogeneización, pero con resistencias en campos donde WoS/Scopus tienen menor legitimidad
 
@@ -2999,24 +2877,24 @@ Los hallazgos de este artículo sugieren múltiples líneas de investigación pe
 **Pregunta:** ¿Qué tipos de estructuras editoriales maximizan impacto en política pública, práctica profesional, movimientos sociales?
 
 **Metodología propuesta:**
-- Análisis de citación en documentos no académicos (informes gubernamentales, sentencias judiciales, reportes ONG)
+- Análisis de citación en documentos no académicos (informes gubernamentales, sentencias judiciales, reportes de organizaciones no gubernamentales)
 - ¿Qué tipos de artículos/secciones se citan más fuera de academia?
-- Entrevistas con policy-makers sobre qué formatos son más útiles
+- Entrevistas con responsables de políticas sobre qué formatos son más útiles
 
-**Hipótesis:** Policy Briefs, Case Reports, Debates accesibles tienen mayor impacto social que Research Articles técnicos
+**Hipótesis:** Informes de políticas, reportes de casos, debates accesibles tienen mayor impacto social que artículos de investigación técnicos
 
 #### 5. Preservación de diversidad estructural en transición digital
 
 **Pregunta:** ¿La publicación digital está reduciendo o ampliando diversidad estructural?
 
 **Metodología propuesta:**
-- Comparar estructura de journals en versión impresa (pre-2000) vs. digital (post-2010)
+- Comparar estructura de revistas en versión impresa (pre-2000) vs. digital (post-2010)
 - ¿Desaparecieron secciones? ¿Surgieron nuevas?
 - Análisis de plataformas editoriales: ¿OJS permite misma flexibilidad que sistemas propietarios?
 
 **Hipótesis:** Estandarización técnica (XML, plataformas) reduce diversidad en algunos aspectos, pero habilita innovaciones en otros
 
-### 6.6. Reflexión final: la diversidad estructural como bien común epistémico
+### Reflexión final: la diversidad estructural como bien común epistémico
 
 Este artículo ha argumentado que la estructura editorial de las revistas científicas no es un detalle técnico menor, sino un **componente fundamental de la infraestructura epistémica** de la ciencia. Las secciones de una revista, los géneros que acoge, las relaciones que establece entre contribuciones, todo ello configura:
 
@@ -3032,7 +2910,7 @@ La diversidad estructural que hemos documentado —coexistencia de modelos anglo
 
 3. **Democracia epistémica:** La capacidad de comunidades académicas de definir sus propias estructuras de validación es ejercicio de autonomía intelectual frente a imposiciones hegemónicas
 
-La presión contemporánea por homogeneización —impulsada por índices bibliométricos, políticas de evaluación, y lógicas de mercado editorial— amenaza esta diversidad. No mediante prohibiciones explícitas, sino mediante **incentivos sutiles** que hacen racional para journals individuales converger hacia el modelo dominante, aunque eso contradiga sus funciones originales.
+La presión contemporánea por homogeneización —impulsada por índices bibliométricos, políticas de evaluación, y lógicas de mercado editorial— amenaza esta diversidad. No mediante prohibiciones explícitas, sino mediante **incentivos sutiles** que hacen racional para revistas individuales converger hacia el modelo dominante, aunque eso contradiga sus funciones originales.
 
 **La apuesta de este artículo es normativa:** Debemos **preservar y promover activamente la diversidad estructural**, no como concesión a particularismos locales, sino como condición para una ciencia global más robusta, más democrática, y más relevante para los múltiples contextos en que se produce y usa conocimiento.
 
@@ -3053,7 +2931,7 @@ Esto requiere:
 - Valoración de trabajo editorial (coordinar *dossier*, crear secciones de debate)
 - Solidaridad entre comunidades centrales y periféricas
 
-La revista científica, como artefacto epistémico, debe seguir siendo un **espacio de innovación estructural**, no un formato congelado. Las transformaciones que hemos analizado —publicación continua, multimedialidad, versioning, nuevos géneros— muestran que la invención no se detuvo en el siglo XX. Pero para que esa innovación sirva a diversidad epistémica, y no solo a eficiencia administrativa o rentabilidad comercial, necesitamos **defensa política consciente** de la pluralidad de modelos.
+La revista científica, como artefacto epistémico, debe seguir siendo un **espacio de innovación estructural**, no un formato congelado. Las transformaciones que hemos analizado —publicación continua, multimedialidad, versionado, nuevos géneros— muestran que la invención no se detuvo en el siglo XX. Pero para que esa innovación sirva a diversidad epistémica, y no solo a eficiencia administrativa o rentabilidad comercial, necesitamos **defensa política consciente** de la pluralidad de modelos.
 
 El conocimiento humano es demasiado complejo, demasiado situado, demasiado plural, para caber en una sola estructura editorial. Que las revistas científicas reflejen esa complejidad no es debilidad, sino fortaleza.
 
@@ -3061,68 +2939,44 @@ El conocimiento humano es demasiado complejo, demasiado situado, demasiado plura
 
 ## Referencias
 
-- Alperin, Juan Pablo et al. (2019). "How significant are the public dimensions of faculty work in review, promotion and tenure documents?". DOI: [10.7554/eLife.42254](10.7554/eLife.42254)
+[1] Gross, Alan G., Harmon, Joseph E. & Reidy, Michael S. (2002). *Communicating Science: The Scientific Article from the 17th Century to the Present*. Oxford: Oxford University Press.
 
-- Bazerman, Charles (1988). *Shaping Written Knowledge: The Genre and Activity of the Experimental Article in Science*. Madison: University of Wisconsin Press.
+[2] Fyfe, Aileen & Moxham, Noah (eds.) (2021). *Making Scientific Societies Work: Science, Knowledge and Authority in the 19th Century*. London: UCL Press.
 
-- Beall, Jeffrey (2012). "Predatory publishers are corrupting open access". *Nature* 489: 179.
+[3] Csiszar, Alex (2018). *The Scientific Journal: Authorship and the Politics of Knowledge in the Nineteenth Century*. Chicago: University of Chicago Press.
 
-- Becher, Tony & Trowler, Paul (2001). *Academic Tribes and Territories: Intellectual Enquiry and the Culture of Disciplines*. Buckingham: Open University Press.
+[4] Guédon, Jean-Claude (2001). *In Oldenburg's Long Shadow: Librarians, Research Scientists, Publishers, and the Control of Scientific Publishing*. Washington: Association of Research Libraries.
 
-- Beigel, Fernanda (coord.) (2013). *The Politics of Academic Autonomy in Latin America*. London: Ashgate.
+[5] Fyfe, Aileen et al. (2017). "Untangling academic publishing: A history of the relationship between commercial interests, academic prestige and the circulation of research". *Zenodo*. DOI: 10.5281/zenodo.546100
 
-- Beigel, Fernanda (2014a). "Academic dependence and professionalism in the South: Perspectives from the periphery". *Minerva* 52(1): 1-32.
+[6] Becher, Tony & Trowler, Paul (2001). *Academic Tribes and Territories: Intellectual Enquiry and the Culture of Disciplines*. Buckingham: Open University Press.
 
-- Beigel, Fernanda (2014b). "Publishing from the periphery: Structural heterogeneity and segmented circuits". *Current Sociology* 62(5): 743-765.
+[7] Tennant, Jonathan P. et al. (2017). "A multi-disciplinary perspective on emergent and future innovations in peer review". *F1000Research* 6:1151.
 
-- Belcher, Wendy Laura (2019). *Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success*. Chicago: University of Chicago Press.
+[8] Sollaci, Luciana B. & Pereira, Maurício G. (2004). "The introduction, methods, results, and discussion (IMRAD) structure: a fifty-year survey". *Journal of the Medical Library Association* 92(3): 364-367.
 
-- Björk, Bo-Christer & Solomon, David (2013). "The publishing delay in scholarly peer-reviewed journals". *Journal of Informetrics* 7(4): 914-923.
+[9] Medawar, Peter B. (1963). "Is the scientific paper a fraud?" *The Listener* 70: 377-378.
 
-- Csiszar, Alex (2018). *The Scientific Journal: Authorship and the Politics of Knowledge in the Nineteenth Century*. Chicago: University of Chicago Press.
+[10] Bazerman, Charles (1988). *Shaping Written Knowledge: The Genre and Activity of the Experimental Article in Science*. Madison: University of Wisconsin Press.
 
-- Day, Robert A. & Gastel, Barbara (2016). *How to Write and Publish a Scientific Paper* (8th ed.). Santa Barbara: Greenwood.
+[11] Myers, Greg (1990). *Writing Biology: Texts in the Social Construction of Scientific Knowledge*. Madison: University of Wisconsin Press.
 
-- Devés-Valdés, Eduardo (2007). *Redes intelectuales en América Latina: Hacia la constitución de una comunidad intelectual*. Santiago: Universidad de Santiago de Chile.
+[12] Devés-Valdés, Eduardo (2007). *Redes intelectuales en América Latina: Hacia la constitución de una comunidad intelectual*. Santiago: Universidad de Santiago de Chile.
 
-- Fyfe, Aileen et al. (2017). "Untangling academic publishing: A history of the relationship between commercial interests, academic prestige and the circulation of research". *Zenodo*. DOI: [10.5281/zenodo.546100](10.5281/zenodo.546100)
+[13] Beigel, Fernanda (coord.) (2013). *The Politics of Academic Autonomy in Latin America*. London: Ashgate.
 
-- Fyfe, Aileen & Moxham, Noah (eds.) (2021). *Making Scientific Societies Work: Science, Knowledge and Authority in the 19th Century*. London: UCL Press.
+[14] Beigel, Fernanda (2014a). "Academic dependence and professionalism in the South: Perspectives from the periphery". *Minerva* 52(1): 1-32.
 
-- Gingras, Yves (2014). *Les dérives de l'évaluation de la recherche: Du bon usage de la bibliométrie*. Paris: Raisons d'agir.
+[15] Packer, Abel L. (2009). "The SciELO Open Access: A gold way from the south". *Canadian Journal of Higher Education* 39(3): 111-126.
 
-- Gross, Alan G., Harmon, Joseph E. & Reidy, Michael S. (2002). *Communicating Science: The Scientific Article from the 17th Century to the Present*. Oxford: Oxford University Press.
+[16] Beigel, Fernanda (2014b). "Publishing from the periphery: Structural heterogeneity and segmented circuits". *Current Sociology* 62(5): 743-765.
 
-- Guédon, Jean-Claude (2001). *In Oldenburg's Long Shadow: Librarians, Research Scientists, Publishers, and the Control of Scientific Publishing*. Washington: Association of Research Libraries.
+[17] Okeke-Uzodike, Obianuju E. & Gamede, Bhekisisa C. (2020). "Academic publishing in Africa: Challenges and opportunities". *South African Journal of Science* 116(5-6): 1-5.
 
-- Hyland, Ken (2000). *Disciplinary Discourses: Social Interactions in Academic Writing*. London: Pearson Education.
+[18] Larivière, Vincent et al. (2015). "The oligopoly of academic publishers in the digital era". *PLOS ONE* 10(6): e0127502.
 
-- Larivière, Vincent et al. (2015). "The oligopoly of academic publishers in the digital era". *PLOS ONE* 10(6): e0127502.
+[19] Packer, Abel L. & Gómes, Isabel (2023). "SciELO Marketplace: An infrastructure for open access publishing". *Information Services & Use* 43(1): 45-58.
 
-- Maffie, James (2015). "Collaborative research, global and local knowledge: The case of indigenous knowledge in development". *Science, Technology, & Human Values* 40(5): 789-814.
+[20] Aguado-López, Eduardo et al. (2016). "Redalyc and the diamond model of open access". *Scholarly and Research Communication* 7(2): 1-12.
 
-- Medawar, Peter B. (1963). "Is the scientific paper a fraud?" *The Listener* 70: 377-378.
-
-- Myers, Greg (1990). *Writing Biology: Texts in the Social Construction of Scientific Knowledge*. Madison: University of Wisconsin Press.
-
-- Nosek, Brian A. et al. (2018). "The preregistration revolution". *PNAS* 115(11): 2600-2606.
-
-- Okeke-Uzodike, Obianuju E. & Gamede, Bhekisisa C. (2020). "Academic publishing in Africa: Challenges and opportunities". *South African Journal of Science* 116(5-6): 1-5.
-
-- Packer, Abel L. (2009). "The SciELO Open Access: A gold way from the south". *Canadian Journal of Higher Education* 39(3): 111-126.
-
-- Paltridge, Brian (2002). "Thesis and dissertation writing: An examination of published advice and actual practice". *English for Specific Purposes* 21(2): 125-143.
-
-- Sollaci, Luciana B. & Pereira, Maurício G. (2004). "The introduction, methods, results, and discussion (IMRAD) structure: a fifty-year survey". *Journal of the Medical Library Association* 92(3): 364-367.
-
-- Suber, Peter (2012). *Open Access*. Cambridge, MA: MIT Press.
-
-- Swales, John M. (1990). *Genre Analysis: English in Academic and Research Settings*. Cambridge: Cambridge University Press.
-
-- Swales, John M. & Feak, Christine B. (2012). *Academic Writing for Graduate Students* (3rd ed.). Ann Arbor: University of Michigan Press.
-
-- Tennant, Jonathan P. et al. (2017). "A multi-disciplinary perspective on emergent and future innovations in peer review". *F1000Research* 6:1151.
-
-- Waast, Roland & Rossi, Pier Luigi (2010). "Scientific production in Arab countries". *Research Policy* 39(10): 1324-1332.
-
-- Wilsdon, James et al. (2015). *The Metric Tide: Report of the Independent Review of the Role of Metrics in Research Assessment and Management*. London: HEFCE. DOI: [10.13140/RG.2.1.4929.1363](10.13140/RG.2.1.4929.1363)
+[21] Wilsdon, James et al. (2015). *The Metric Tide: Report of the Independent Review of the Role of Metrics in Research Assessment and Management*. London: HEFCE. DOI: 10.13140/RG.2.1.4929.1363
