@@ -2,12 +2,8 @@
 title: "¿Por qué los flujos de trabajo importan?"
 weight: 2
 description: >
-  En el ecosistema académico contemporáneo, donde la máxima "publicar o perecer" (*publish or perish*) se ha convertido en una realidad institucionalizada, los flujos de trabajo editoriales estructurados representan mucho más que simples protocolos burocráticos. Constituyen la columna vertebral que sostiene la integridad, calidad y eficiencia de la comunicación científica. Este capítulo explora por qué estos procesos no solo son necesarios, sino fundamentales para mantener los estándares de excelencia en la producción editorial académica.
+  En el ecosistema académico contemporáneo, donde la máxima **publicar o perecer** se ha convertido en una realidad institucionalizada, los flujos de trabajo editoriales estructurados representan mucho más que simples protocolos burocráticos. Constituyen la columna vertebral que sostiene la integridad, calidad y eficiencia de la comunicación científica. Este capítulo explora por qué estos procesos no solo son necesarios, sino fundamentales para mantener los estándares de excelencia en la producción editorial académica.
 ---
-
-# ¿Por qué los flujos de trabajo importan?
-
-En el ecosistema académico contemporáneo, donde la máxima "publicar o perecer" (*publish or perish*) se ha convertido en una realidad institucionalizada, los flujos de trabajo editoriales estructurados representan mucho más que simples protocolos burocráticos. Constituyen la columna vertebral que sostiene la integridad, calidad y eficiencia de la comunicación científica. Este capítulo explora por qué estos procesos no solo son necesarios, sino fundamentales para mantener los estándares de excelencia en la producción editorial académica.
 
 ## 1. Perspectiva histórica: La evolución de los procesos editoriales
 

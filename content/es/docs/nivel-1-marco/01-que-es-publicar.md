@@ -5,9 +5,7 @@ description: >
   La pregunta por la estructura interna de las revistas científicas —por qué algunas incluyen secciones de *Dossier* mientras otras no, por qué las humanidades resisten la estandarización IMRyD, por qué las revistas latinoamericanas organizan sus contenidos de manera diferente a las anglosajonas— no es meramente una cuestión de formato editorial. Es, fundamentalmente, una pregunta sobre **cómo se produce, valida y circula el conocimiento** en diferentes comunidades epistémicas, tradiciones académicas y geografías del saber.
 ---
 
-## Introducción
-
-La pregunta por la estructura interna de las revistas científicas —por qué algunas incluyen secciones de *Dossier* mientras otras no, por qué las humanidades resisten la estandarización IMRyD o por qué las revistas latinoamericanas organizan sus contenidos de manera diferente a las anglosajonas— no es meramente una cuestión de formato editorial. Es, fundamentalmente, una pregunta sobre **cómo se produce, valida y circula el conocimiento** en diferentes comunidades epistémicas, tradiciones académicas y geografías del saber.
+## 1. Introducción
 
 Este artículo sostiene que las divisiones internas de las revistas científicas no son arbitrarias ni resultado de preferencias estéticas, sino que constituyen **inscripciones materiales de prácticas de validación del conocimiento**. La estructura editorial de una revista —qué secciones incluye, cómo las nombra, qué jerarquía establece entre ellas— revela:
 
@@ -85,7 +83,7 @@ Este trabajo combina:
 
 La pregunta central no es "¿cuál es la mejor estructura para una revista científica?" sino "¿qué funciones epistémicas y sociales cumplen las diferentes estructuras en sus contextos específicos?" La respuesta, como veremos, es: muchas y complejas.
 
-## 1. Geografía y validación del conocimiento
+## 2. Geografía y validación del conocimiento
 
 Este artículo sostiene que las divisiones internas de las revistas científicas no son arbitrarias ni resultado de preferencias estéticas, sino que constituyen **inscripciones materiales de prácticas de validación del conocimiento**. La estructura editorial de una revista —qué secciones incluye, cómo las nombra, qué jerarquía establece entre ellas— revela:
 
@@ -93,7 +91,7 @@ Este artículo sostiene que las divisiones internas de las revistas científicas
 2. **Tradiciones institucionales**: Cómo se organiza la producción académica (sociedades científicas vs. universidades vs. academias estatales)
 3. **Geografías del conocimiento**: Quién define los temas relevantes, los estándares de calidad y los circuitos de legitimación (centro vs. periferia en el sistema académico global)
 
-## 2. Genealogía histórica: de la correspondencia indiferenciada al artículo estandarizado (s. XVII-XX)
+## 3. Genealogía histórica: de la correspondencia indiferenciada al artículo estandarizado (s. XVII-XX)
 
 La estructura contemporánea de las revistas científicas —con sus secciones diferenciadas, formatos prescritos y jerarquías implícitas— no surgió de manera espontánea ni inevitable. Es el resultado de **procesos históricos contingentes** ligados a transformaciones en la organización institucional de la ciencia, luchas por la autoridad epistémica, y cambios tecnológicos en la producción y circulación del conocimiento. Esta sección reconstruye esa genealogía en cuatro momentos clave.
 
@@ -415,7 +413,7 @@ La imposición del modelo anglosajón de ciencias experimentales como "estándar
 
 La siguiente sección explora cómo diferentes geografías académicas resistieron, adaptaron o hibridaron este modelo, generando la diversidad estructural contemporánea.
 
-## 3. Geografías editoriales divergentes: tradiciones nacionales y modelos regionales
+## 4. Geografías editoriales divergentes: tradiciones nacionales y modelos regionales
 
 La estructura de las revistas científicas no es solo producto de evoluciones temporales, sino también de **tradiciones académicas nacionales y regionales** que desarrollaron modelos editoriales distintivos. Estas diferencias no son meramente formales, sino que reflejan distintas concepciones sobre cómo se organiza la producción de conocimiento, quién tiene autoridad epistémica, y cómo circula el saber en comunidades académicas situadas geopolíticamente.
 
@@ -1134,7 +1132,7 @@ Este recorrido por tradiciones regionales revela que la estructura editorial de 
 
 La diversidad estructural no es un "problema" a homogeneizar, sino una **riqueza epistémica** que refleja la pluralidad de tradiciones intelectuales. La siguiente sección explora cómo las diferencias disciplinarias intersectan con estas geografías, generando una matriz compleja de modelos editoriales.
 
-## 4. Epistemologías disciplinarias: cómo valida el conocimiento cada campo
+## 5. Epistemologías disciplinarias: cómo valida el conocimiento cada campo
 
 Si la geografía académica genera modelos editoriales divergentes, las **diferencias disciplinarias** producen variaciones estructurales aún más profundas. La estructura de una revista no solo refleja dónde se publica, sino **qué tipo de conocimiento** se produce. Esta sección examina cuatro grandes campos —ciencias experimentales, ciencias sociales, humanidades, profesiones aplicadas— mostrando cómo sus estructuras editoriales inscriben epistemologías específicas.
 
@@ -1887,7 +1885,7 @@ Esta sección ha mostrado que las estructuras editoriales no son arbitrarias sin
 
 La siguiente sección explora cómo estas estructuras están siendo transformadas (o desafiadas) por innovaciones tecnológicas, cambios en sistemas de evaluación, y resistencias desde la periferia académica.
 
-## 5. Crisis y transformaciones contemporáneas: entre homogeneización y resistencia
+## 6. Crisis y transformaciones contemporáneas: entre homogeneización y resistencia
 
 Las estructuras editoriales desarrolladas a lo largo de tres siglos enfrentan hoy transformaciones radicales impulsadas por tres fuerzas convergentes: la **presión homogeneizadora** de sistemas de evaluación bibliométrica, las **posibilidades tecnológicas** de la publicación digital, y las **resistencias periféricas** que reclaman autonomía epistémica. Esta sección analiza estas tensiones y las innovaciones estructurales que están emergiendo.
 
@@ -2595,7 +2593,7 @@ Esta sección ha mostrado fuerzas contradictorias:
 La siguiente sección (Conclusión) propone un marco normativo para pensar estas tensiones.
 
 
-## 6. Conclusión: hacia una ecología de modelos editoriales
+## 7. Conclusión: hacia una ecología de modelos editoriales
 
 ### Recapitulación: la estructura editorial como epistemología inscrita
 
