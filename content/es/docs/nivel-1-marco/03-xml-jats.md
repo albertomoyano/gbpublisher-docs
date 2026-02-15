@@ -5,15 +5,17 @@ description: >
   El presente artículo examina la centralidad del estándar XML-JATS (eXtensible Markup Language - Journal Article Tag Suite) en el ecosistema contemporáneo de publicación científica. A través de un análisis histórico, técnico y pragmático, se demuestra que JATS ha dejado de ser una opción tecnológica para convertirse en un requisito estructural para la circulación, preservación e interoperabilidad del conocimiento científico. El documento explora los orígenes del estándar, su especificidad técnica, y fundamentalmente, cómo se materializa la interoperabilidad en casos de uso concretos que afectan a millones de documentos científicos en todo el mundo.
 ---
 
-## 1. El rol fundamental de XML-JATS como estándar para la circulación y preservación del conocimiento científico
+# ¿Por qué XML-JATS no es opcional?
 
+El presente artículo examina la centralidad del estándar XML-JATS (eXtensible Markup Language - Journal Article Tag Suite) en el ecosistema contemporáneo de publicación científica. A través de un análisis histórico, técnico y pragmático, se demuestra que JATS ha dejado de ser una opción tecnológica para convertirse en un requisito estructural para la circulación, preservación e interoperabilidad del conocimiento científico. El documento explora los orígenes del estándar, su especificidad técnica, y fundamentalmente, cómo se materializa la interoperabilidad en casos de uso concretos que afectan a millones de documentos científicos en todo el mundo.
+
+## 1. El rol fundamental de XML-JATS como estándar para la circulación y preservación del conocimiento científico
 
 Durante décadas, la publicación científica se concibió fundamentalmente como un acto tipográfico: el conocimiento se materializaba en páginas impresas cuya fidelidad visual constituía el único requisito de permanencia. Esta lógica tipográfica dominó incluso los primeros años de la transición digital, cuando las revistas científicas simplemente digitalizaban sus procesos sin modificar sustancialmente su concepción del documento académico. El formato PDF, heredero directo de esta mentalidad, se convirtió en el estándar *de facto* de la publicación electrónica porque prometía exactamente aquello que el mundo académico valoraba: la reproducción exacta e inmutable de una página impresa.
 
-Sin embargo, esta concepción está fundamentalmente reñida con las posibilidades y exigencias del entorno digital contemporáneo. Como señala Gil Leyva (2022), el verdadero potencial de la publicación científica en el entorno digital requiere una transición "de la lógica tipográfica del mundo impreso hacia la lógica semántica de la web". Esta no es una transición meramente tecnológica, sino epistemológica: implica reconceptualizar el artículo científico no como una imagen de texto, sino como un conjunto estructurado de datos semánticamente ricos, máquina-legibles e interoperables.
+Sin embargo, esta concepción está fundamentalmente reñida con las posibilidades y exigencias del entorno digital contemporáneo. Como señala Gil Leyva [1], el verdadero potencial de la publicación científica en el entorno digital requiere una transición "de la lógica tipográfica del mundo impreso hacia la lógica semántica de la web". Esta no es una transición meramente tecnológica, sino epistemológica: implica reconceptualizar el artículo científico no como una imagen de texto, sino como un conjunto estructurado de datos semánticamente ricos, máquina-legibles e interoperables.
 
 XML-JATS representa precisamente esta transición. Lejos de ser una mera especificación técnica más entre muchas, JATS se ha consolidado como el lenguaje común que permite que el conocimiento científico circule, se preserve y se transforme en el ecosistema digital global. La adopción de JATS por parte de infraestructuras críticas como PubMed Central, SciELO, Redalyc, CrossRef, y los principales repositorios de preservación digital no es coincidencia, sino consecuencia de una necesidad estructural: sin un estándar común, la promesa de una ciencia abierta, interoperable y preservada a largo plazo es simplemente inviable.
-
 
 ## 2. Génesis y evolución histórica de XML-JATS
 
@@ -29,15 +31,15 @@ Esta ambición planteaba un desafío técnico formidable: ¿cómo almacenar mile
 
 Entre 2002 y 2008, la NLM desarrolló y refinó el NLM DTD a través de múltiples versiones (de la 1.0 hasta la 3.0), aprendiendo de la experiencia de procesar decenas de miles de artículos para PMC. Cada versión incorporaba lecciones sobre la complejidad real de los artículos científicos: las múltiples formas en que los autores estructuran sus textos, la diversidad de elementos gráficos y matemáticos, las variaciones en las prácticas de citación, las complejidades de las afiliaciones institucionales en contextos internacionales.
 
-El momento decisivo llegó en 2012, cuando la Organización Nacional de Estándares de Información (National Information Standards Organization, NISO) adoptó formalmente el trabajo de la NLM como un estándar nacional estadounidense bajo la designación ANSI/NISO Z39.96-2012, denominándolo Journal Article Tag Suite (JATS) versión 1.0. Esta estandarización formal no fue un simple cambio de nombre: representaba la transformación de una solución institucional específica en un estándar comunitario abierto, gobernado por un proceso de desarrollo público con participación de múltiples actores.
+El momento decisivo llegó en 2012, cuando la Organización Nacional de Estándares de Información (National Information Standards Organization, NISO) adoptó formalmente el trabajo de la NLM como un estándar nacional estadounidense bajo la designación ANSI/NISO Z39.96-2012, denominándolo Journal Article Tag Suite (JATS) versión 1.0 [2]. Esta estandarización formal no fue un simple cambio de nombre: representaba la transformación de una solución institucional específica en un estándar comunitario abierto, gobernado por un proceso de desarrollo público con participación de múltiples actores.
 
 Como documenta el comité JATS, desde su creación participaron miembros de instituciones diversas: la American Library Association, la American Psychological Association, CrossRef, EBSCO Information Services, la Biblioteca del Congreso de Estados Unidos, ProQuest, Public Library of Science (PLoS), SAGE Publications, OCLC, y Microsoft Corporation, entre otras. Esta diversidad de participantes garantizaba que JATS no respondiera únicamente a los intereses de un actor particular, sino que reflejara las necesidades del ecosistema de publicación científica en su conjunto.
 
 ### Adopción global: de estándar técnico a infraestructura crítica
 
-La adopción de JATS por parte de la comunidad científica global ha sido progresiva pero inexorable. En 2013, SciELO inició cambios sustanciales en el proceso de edición de las revistas que indexa, adoptando la especificación SciELO Publishing Schema (SciELO PS) basada en JATS 1.0. Esta decisión representaba un punto de inflexión para la publicación científica latinoamericana: SciELO, con más de 1.500 revistas indexadas y millones de artículos, establecía un nuevo estándar de facto para la región.
+La adopción de JATS por parte de la comunidad científica global ha sido progresiva pero inexorable. En 2013, SciELO inició cambios sustanciales en el proceso de edición de las revistas que indexa, adoptando la especificación SciELO Publishing Schema (SciELO PS) basada en JATS 1.0 [3]. Esta decisión representaba un punto de inflexión para la publicación científica latinoamericana: SciELO, con más de 1.500 revistas indexadas y millones de artículos, establecía un nuevo estándar de facto para la región.
 
-En 2014, el modelo de SciELO fue seguido por Redalyc (Red de Revistas Científicas de América Latina y el Caribe, España y Portugal), que en 2015 lanzó Marcalyc, una herramienta de marcación XML-JATS destinada a profesionalizar a los editores y hacer sostenible la transición al nuevo modelo. Al igual que SciELO, Redalyc adoptó JATS no como una opción técnica entre muchas, sino como un componente esencial de su modelo de Acceso Abierto Diamante, comprometido con la publicación científica sin fines de lucro y sin costos para autores ni lectores.
+En 2014, el modelo de SciELO fue seguido por Redalyc (Red de Revistas Científicas de América Latina y el Caribe, España y Portugal), que en 2015 lanzó Marcalyc, una herramienta de marcación XML-JATS destinada a profesionalizar a los editores y hacer sostenible la transición al nuevo modelo [4]. Al igual que SciELO, Redalyc adoptó JATS no como una opción técnica entre muchas, sino como un componente esencial de su modelo de Acceso Abierto Diamante, comprometido con la publicación científica sin fines de lucro y sin costos para autores ni lectores [5].
 
 La cronología de adopción es reveladora de una tendencia global:
 - **2000**: PubMed Central comienza a operar con precursores de JATS
@@ -46,16 +48,15 @@ La cronología de adopción es reveladora de una tendencia global:
 - **2013**: SciELO adopta JATS para todas sus revistas indexadas
 - **2015**: Redalyc lanza Marcalyc basado en JATS 1.1
 - **2019**: JATS 1.2 amplía soporte para contenido multimedia y accesibilidad
-- **2024**: JATS 1.4 incorpora mejoras en metadatos de financiamiento y autoría
+- **2024**: JATS 1.4 incorpora mejoras en metadatos de financiamiento y autoría [6]
 
 Para 2025, JATS se encuentra en uso en más de 25 países, incluyendo Australia, Bélgica, Brasil, Bulgaria, Canadá, Chile, Egipto, Finlandia, Francia, Alemania, Italia, Japón, Noruega, Rusia, Corea del Sur, Suecia, Suiza, Emiratos Árabes Unidos, Reino Unido y Estados Unidos. Los archivos públicos y privados más importantes del mundo requieren o prefieren JATS, incluyendo PubMed Central (tanto en Estados Unidos como en Europa PMC), la Biblioteca Nacional Británica, la Biblioteca Nacional de Australia, la Biblioteca del Congreso de Estados Unidos, CLOCKSS, Portico y LOCKSS.
-
 
 ## 3. La especificidad técnica de JATS: más que un formato XML
 
 ### XML como fundamento: separación de contenido y presentación
 
-Para comprender la especificidad de JATS, primero debemos entender el fundamento sobre el cual está construido: el Lenguaje de Marcado Extensible (XML). XML, desarrollado por el World Wide Web Consortium (W3C) y cuya primera versión data de 1998, es un metalenguaje diseñado para la publicación electrónica y el intercambio de datos estructurados. A diferencia de los lenguajes de marcado específicos como HTML, XML permite crear vocabularios especializados para describir cualquier tipo de información estructurada.
+Para comprender la especificidad de JATS, primero debemos entender el fundamento sobre el cual está construido: el Lenguaje de Marcado Extensible (XML). XML, desarrollado por el World Wide Web Consortium (W3C) y cuya primera versión data de 1998 [7], es un metalenguaje diseñado para la publicación electrónica y el intercambio de datos estructurados. A diferencia de los lenguajes de marcado específicos como HTML, XML permite crear vocabularios especializados para describir cualquier tipo de información estructurada.
 
 El principio fundamental de XML es la **separación radical entre contenido y presentación**. Un documento XML contiene únicamente la estructura semántica y el contenido informativo, sin ninguna especificación sobre cómo debe verse o imprimirse. Esta separación, que puede parecer una abstracción técnica, tiene implicaciones profundas para la publicación científica:
 
@@ -138,7 +139,6 @@ Lo que distingue a JATS de otros esquemas XML es su expresividad semántica espe
 
 Esta expresividad no es meramente descriptiva: cada elemento semánticamente rico es una puerta a nuevas formas de interrogar y utilizar el conocimiento científico.
 
-
 ## 4. ¿Por qué XML-JATS no es opcional?, argumentos estructurales
 
 ### La interoperabilidad como imperativo sistémico
@@ -157,7 +157,7 @@ Cada conversión es una oportunidad de error, pérdida de información, y trabaj
 
 JATS resuelve este problema estableciendo un formato pivote: los editores producen en JATS (o convierten a JATS), y desde ese formato único pueden alimentar todos los sistemas del ecosistema. PubMed Central, CrossRef, bases de datos disciplinarias, repositorios institucionales, sistemas de preservación, todos pueden consumir JATS, cada uno extrayendo la información que necesita según sus requisitos específicos.
 
-Como documenta la especificación oficial de JATS, este estándar fue construido precisamente para "proporcionar interoperabilidad del contenido del artículo y los metadatos del artículo entre editores y archivos". No es coincidencia que las transformaciones públicas y gratuitas para crear depósitos en CrossRef se basen en JATS, o que PubMed Central requiera JATS para aceptar artículos.
+Como documenta la especificación oficial de JATS [2], este estándar fue construido precisamente para "proporcionar interoperabilidad del contenido del artículo y los metadatos del artículo entre editores y archivos". No es coincidencia que las transformaciones públicas y gratuitas para crear depósitos en CrossRef se basen en JATS [8], o que PubMed Central requiera JATS para aceptar artículos.
 
 ### Mandatos institucionales y requisitos de financiamiento
 
@@ -175,7 +175,7 @@ La preservación digital presenta un desafío único: ¿cómo garantizar que doc
 
 Los formatos dependientes de software propietario o de especificaciones de presentación tienen una vida útil limitada. El formato .doc de Microsoft Word de la década de 1990 es ya difícil de abrir correctamente en software moderno. Los PDF, aunque más robustos, dependen de la disponibilidad de lectores PDF y pueden presentar problemas de accesibilidad y extracción de información.
 
-JATS, como formato basado en XML de texto plano con una especificación públicamente documentada, ofrece garantías de longevidad que los formatos propietarios no pueden igualar:
+JATS, como formato basado en XML de texto plano con una especificación públicamente documentada, ofrece garantías de longevidad que los formatos propietarios no pueden igualar [9]:
 
 1. **Legibilidad humana**: Un archivo JATS es texto plano. Incluso sin software especializado, puede leerse y entenderse (aunque laboriosamente) con cualquier editor de texto.
 
@@ -205,7 +205,7 @@ JATS habilita formas de búsqueda y descubrimiento imposibles con formatos menos
 
 **Minería de texto a gran escala**: Proyectos como Europe PubMed Central Text Mining permiten analizar millones de artículos para identificar relaciones entre entidades, generar hipótesis, detectar tendencias emergentes. Esto es viable únicamente porque los artículos están en JATS, donde el contenido está estructurado de manera procesable.
 
-**Verificación automática de referencias**: CrossRef puede verificar automáticamente la exactitud de referencias bibliográficas en artículos JATS, corrigiendo errores tipográficos en DOIs, identificando referencias incompletas o incorrectas.
+**Verificación automática de referencias**: CrossRef puede verificar automáticamente la exactitud de referencias bibliográficas en artículos JATS, corrigiendo errores tipográficos en DOIs, identificando referencias incompletas o incorrectas [8].
 
 ### Accesibilidad universal y cumplimiento legal
 
@@ -222,7 +222,6 @@ JATS, por su naturaleza estructurada, facilita inmensamente la generación de co
 
 La accesibilidad no es solo una cuestión ética o legal: es una cuestión de justicia epistémica. El conocimiento científico debe estar disponible para todos, independientemente de sus capacidades sensoriales o motoras.
 
-
 ## 5. La interoperabilidad en acción: casos de uso de JATS bien construido
 
 ### Flujo de trabajo tipo: del manuscrito al ecosistema global
@@ -233,7 +232,7 @@ Para comprender cómo JATS materializa la interoperabilidad en la vida real, con
 
 Una revista recibe un manuscrito aceptado en formato Word. El equipo editorial tiene varias opciones para generar el XML-JATS:
 
-- **Servicios comerciales especializados**: Empresas como las identificadas en el SciELO Marketplace ofrecen conversión profesional, garantizando marcado de alta calidad
+- **Servicios comerciales especializados**: Empresas como las identificadas en el SciELO Marketplace [10] ofrecen conversión profesional, garantizando marcado de alta calidad
 - **Herramientas institucionales**: SciELO proporciona su herramienta Markup; Redalyc ofrece Marcalyc a revistas indexadas
 - **Software de gestión editorial**: Open Journal Systems (OJS) incluye plugins para generar JATS
 - **Conversión manual con editores especializados**: Herramientas como Texture (aunque en desuso), o JATSeditor.com permiten crear y editar JATS visualmente
@@ -243,13 +242,13 @@ El resultado es un archivo XML-JATS que codifica completamente el artículo: met
 
 **Fase 2: Validación y control de calidad**
 
-El archivo JATS debe validarse contra la DTD (Document Type Definition) o XSD (XML Schema Definition) correspondiente. Esta validación verifica que el archivo cumple las reglas sintácticas del estándar. Sin embargo, como documenta Mark Gross en la conferencia JATS-Con 2025, "válido no siempre significa funcional o bueno". Un archivo puede ser válido sintácticamente pero contener errores semánticos que causarán problemas downstream:
+El archivo JATS debe validarse contra la DTD (Document Type Definition) o XSD (XML Schema Definition) correspondiente. Esta validación verifica que el archivo cumple las reglas sintácticas del estándar. Sin embargo, como documenta Mark Gross en la conferencia JATS-Con 2025 [11], "válido no siempre significa funcional o bueno". Un archivo puede ser válido sintácticamente pero contener errores semánticos que causarán problemas downstream:
 
 - Un DOI que contenga un guion em (—, Unicode U+2014) en lugar del guion ASCII estándar (-, Unicode U+002D) será **sintácticamente válido en XML, pero fallará al resolverse**. Aunque ambos caracteres son visualmente similares, son códigos Unicode distintos. Dado que el DOI es una cadena literal que debe coincidir exactamente con el identificador registrado, cualquier sustitución tipográfica altera la secuencia de caracteres y provoca que el resolvedor no encuentre el recurso. Este tipo de error es frecuente cuando el texto ha sido redactado o editado en procesadores como Microsoft Word, que aplican automáticamente reglas de sustitución tipográfica (por ejemplo, reemplazando ciertos guiones por rayas tipográficas). En textos narrativos esto mejora la presentación, pero en identificadores técnicos puede introducir caracteres distintos al guion ASCII requerido.
 - Referencias con etiquetado insuficiente validarán pero no permitirán verificación automática
 - Afiliaciones con estructura incorrecta pasarán validación pero no permitirán extracción correcta de datos institucionales
 
-Por ello, sistemas de calidad avanzados implementan validaciones adicionales más allá de la DTD, verificando consistencia semántica, completitud de metadatos esenciales, y conformidad con mejores prácticas documentadas por JATS4R (JATS for Reuse), un esfuerzo comunitario para establecer convenciones de etiquetado sensatas.
+Por ello, sistemas de calidad avanzados implementan validaciones adicionales más allá de la DTD, verificando consistencia semántica, completitud de metadatos esenciales, y conformidad con mejores prácticas documentadas por JATS4R (JATS for Reuse) [12], un esfuerzo comunitario para establecer convenciones de etiquetado sensatas.
 
 **Fase 3: Publicación y generación de formatos derivados**
 
@@ -266,7 +265,7 @@ Estas transformaciones son automáticas porque están basadas en la estructura s
 
 El artículo debe depositarse en múltiples sistemas:
 
-**CrossRef**: Para registrar el DOI y hacer el artículo localizable. CrossRef acepta depósitos en su propio formato XML, pero proporciona transformaciones XSLT (eXtensible Stylesheet Language Transformations) para convertir JATS a formato CrossRef. El depósito exitoso en CrossRef significa que el artículo es ahora parte de la infraestructura global de citación, sus metadatos están disponibles para servicios de descubrimiento, y el DOI puede resolverse a la ubicación del artículo.
+**CrossRef**: Para registrar el DOI y hacer el artículo localizable. CrossRef acepta depósitos en su propio formato XML, pero proporciona transformaciones XSLT (eXtensible Stylesheet Language Transformations) para convertir JATS a formato CrossRef [8]. El depósito exitoso en CrossRef significa que el artículo es ahora parte de la infraestructura global de citación, sus metadatos están disponibles para servicios de descubrimiento, y el DOI puede resolverse a la ubicación del artículo.
 
 **PubMed Central** (si aplica): Para artículos biomédicos, especialmente aquellos financiados por NIH, el depósito en PMC es frecuentemente obligatorio. PMC requiere JATS; de hecho, PMC fue instrumental en el desarrollo del estándar. El depósito en PMC hace el artículo parte del archivo público de literatura biomédica más grande del mundo, accesible gratuitamente a investigadores globalmente.
 
@@ -304,7 +303,7 @@ SciELO (Scientific Electronic Library Online) representa uno de los casos de ado
 
 **Contexto y decisión estratégica**
 
-En 2013, SciELO tomó la decisión estratégica de migrar completamente a XML-JATS, estableciendo la especificación SciELO Publishing Schema (SciELO PS) basada en JATS 1.0. Esta no fue una decisión meramente técnica: representaba una reconceptualización completa del modelo de publicación científica regional.
+En 2013, SciELO tomó la decisión estratégica de migrar completamente a XML-JATS, estableciendo la especificación SciELO Publishing Schema (SciELO PS) basada en JATS 1.0 [3]. Esta no fue una decisión meramente técnica: representaba una reconceptualización completa del modelo de publicación científica regional.
 
 Antes de JATS, SciELO operaba con un modelo basado en PDF y HTML generados desde archivos de procesador de textos. Este modelo, aunque funcional, limitaba severamente las posibilidades de procesamiento automático, extracción de datos, e interoperabilidad con sistemas internacionales.
 
@@ -342,11 +341,11 @@ Los resultados son medibles en múltiples dimensiones:
 
 ### Caso de estudio: Redalyc y el modelo de acceso abierto diamante
 
-Redalyc (Red de Revistas Científicas de América Latina y el Caribe, España y Portugal) adoptó JATS en 2015, pero con una filosofía distintiva centrada en el acceso abierto diamante: publicación sin costos para autores (no APCs - Article Processing Charges) y sin costos para lectores, sostenida mediante apoyo institucional público.
+Redalyc (Red de Revistas Científicas de América Latina y el Caribe, España y Portugal) adoptó JATS en 2015, pero con una filosofía distintiva centrada en el acceso abierto diamante: publicación sin costos para autores (no APCs - Article Processing Charges) y sin costos para lectores, sostenida mediante apoyo institucional público [5].
 
 **Marcalyc: diseño para la profesionalización del editor**
 
-Marcalyc, la herramienta de marcación desarrollada por Redalyc, incorpora inteligencia artificial y algoritmos de procesamiento de lenguaje natural para automatizar parcialmente el proceso de etiquetado. El sistema puede:
+Marcalyc, la herramienta de marcación desarrollada por Redalyc [4], incorpora inteligencia artificial y algoritmos de procesamiento de lenguaje natural para automatizar parcialmente el proceso de etiquetado. El sistema puede:
 
 - Identificar automáticamente autores, afiliaciones, resúmenes y palabras clave
 - Estructurar automáticamente secciones del artículo (introducción, métodos, resultados, discusión)
@@ -381,7 +380,7 @@ A pesar de que tanto SciELO como Redalyc adoptaron JATS, las diferencias en sus 
 
 #### El problema: fragmentación del estándar
 
-En 2017, dos años después de la adopción de JATS por Redalyc, se hizo pública una controversia sobre la incompatibilidad entre los archivos JATS producidos según cada especificación. Una revista indexada en ambos metaeditores se veía forzada a producir dos versiones JATS diferentes, duplicando trabajo y costo.
+En 2017, dos años después de la adopción de JATS por Redalyc, se hizo pública una controversia sobre la incompatibilidad entre los archivos JATS producidos según cada especificación [13]. Una revista indexada en ambos metaeditores se veía forzada a producir dos versiones JATS diferentes, duplicando trabajo y costo.
 
 La controversia revela una tensión fundamental: ¿hasta qué punto un estándar debe ser flexible para acomodar necesidades locales, y en qué punto esa flexibilidad fragmenta el ecosistema que el estándar pretendía unificar?
 
@@ -419,7 +418,7 @@ Este modelo ofrece ventajas significativas:
 
 Los intentos de reconciliación bilateral, como LuXMeL (hacia la interoperabilidad Redalyc/AmeliCA-SciELO), buscan establecer puentes técnicos que permitan convertir entre especificaciones. Sin embargo, el enfoque más robusto es el del JATS canónico, que no intenta hacer compatibles las variantes existentes sino que las trata como productos derivados de una única fuente rica.
 
-Esta lección es importante: la comunidad global JATS debe equilibrar flexibilidad con rigor. JATS4R (JATS for Reuse) representa un esfuerzo comunitario precisamente para este fin: documentar mejores prácticas de etiquetado que, sin requerir modificaciones al estándar, establecen convenciones que facilitan intercambio e interpretación consistente.
+Esta lección es importante: la comunidad global JATS debe equilibrar flexibilidad con rigor. JATS4R (JATS for Reuse) [12] representa un esfuerzo comunitario precisamente para este fin: documentar mejores prácticas de etiquetado que, sin requerir modificaciones al estándar, establecen convenciones que facilitan intercambio e interpretación consistente.
 
 El futuro de la interoperabilidad JATS probablemente no pasa por lograr que todos produzcan exactamente el mismo JATS, sino por establecer:
 1. Un conjunto nuclear de metadatos absolutamente esenciales que *deben* estar presentes
@@ -433,7 +432,7 @@ CrossRef, la organización sin fines de lucro que administra el sistema de DOIs 
 
 **Depósito de metadatos**
 
-Cuando una revista registra un DOI para un artículo en CrossRef, debe depositar metadatos: información sobre autores, título, revista, volumen, número, páginas, referencias bibliográficas. CrossRef tiene su propio esquema XML para estos depósitos, pero proporciona transformaciones XSLT para convertir JATS al formato CrossRef.
+Cuando una revista registra un DOI para un artículo en CrossRef, debe depositar metadatos: información sobre autores, título, revista, volumen, número, páginas, referencias bibliográficas. CrossRef tiene su propio esquema XML para estos depósitos, pero proporciona transformaciones XSLT para convertir JATS al formato CrossRef [8].
 
 Crucialmente, las referencias bibliográficas en JATS están estructuradas componente por componente. CrossRef puede tomar estas referencias estructuradas y, mediante su servicio de matching, verificarlas contra su base de datos:
 
@@ -459,13 +458,13 @@ Todos estos servicios dependen de la calidad y estructuración de los metadatos 
 
 ### El desafío de la permanencia digital
 
-La preservación digital presenta una paradoja: los objetos digitales son simultáneamente más fáciles de copiar (perfectamente, sin degradación) que los objetos físicos, pero también incomparablemente más frágiles ante la obsolescencia tecnológica. Un libro impreso del siglo XV permanece legible con la tecnología más simple (ojos humanos). Un disco de 5.25 pulgadas de la década de 1980 es prácticamente inaccesible hoy porque las unidades de lectura ya no existen.
+La preservación digital presenta una paradoja: los objetos digitales son simultáneamente más fáciles de copiar (perfectamente, sin degradación) que los objetos físicos, pero también incomparablemente más frágiles ante la obsolescencia tecnológica [14]. Un libro impreso del siglo XV permanece legible con la tecnología más simple (ojos humanos). Un disco de 5.25 pulgadas de la década de 1980 es prácticamente inaccesible hoy porque las unidades de lectura ya no existen.
 
 La literatura científica digital enfrenta este desafío magnificado: no solo debe preservarse el texto, sino su estructura, contexto, y relaciones con otros documentos. Un artículo científico no es un objeto aislado sino un nodo en una red de conocimiento; su valor depende parcialmente de estas relaciones.
 
 ### JATS como formato de preservación: ventajas estructurales
 
-JATS fue diseñado considerando explícitamente requisitos de preservación a largo plazo:
+JATS fue diseñado considerando explícitamente requisitos de preservación a largo plazo [9]:
 
 **Independencia de plataforma**: No requiere software, sistema operativo o hardware específico. Cualquier sistema que pueda procesar texto plano y entender reglas XML puede leer JATS.
 
@@ -511,7 +510,7 @@ Los formatos dependientes de presentación (PDF) o software propietario requiere
 
 ### Preservación como acto político: soberanía del conocimiento
 
-Para regiones como Latinoamérica, la preservación digital del conocimiento científico en formatos abiertos y estándares públicos tiene dimensiones de soberanía epistemológica.
+Para regiones como Latinoamérica, la preservación digital del conocimiento científico en formatos abiertos y estándares públicos tiene dimensiones de soberanía epistemológica [15].
 
 Si el conocimiento científico producido en la región depende de formatos propietarios controlados por corporaciones del Norte Global, la permanencia de ese conocimiento depende de decisiones comerciales sobre las cuales la región no tiene control. Si un formato propietario se descontinúa, el conocimiento codificado en ese formato puede volverse inaccesible.
 
@@ -519,12 +518,11 @@ JATS, como estándar público mantenido por una organización de estándares sin
 
 La adopción masiva de JATS por SciELO y Redalyc debe entenderse en este contexto: no es solo una decisión técnica, sino una afirmación de que el conocimiento científico latinoamericano debe preservarse en formatos que garanticen su accesibilidad independientemente de dinámicas comerciales globales.
 
-
 ## 7. Desafíos, limitaciones y futuro de JATS
 
 ### Curva de aprendizaje y recursos necesarios
 
-La adopción de JATS no es trivial. Representa una transformación significativa en los flujos de trabajo editoriales que requiere:
+La adopción de JATS no es trivial. Representa una transformación significativa en los flujos de trabajo editoriales que requiere [16]:
 
 **Capacitación técnica**: Editores, correctores y personal de producción deben entender conceptos de marcado semántico, estructuración XML, validación de esquemas. Estas competencias no son tradicionalmente parte de la formación de editores.
 
@@ -538,11 +536,11 @@ Como evidencia la controversia SciELO-Redalyc, la adopción de un estándar glob
 
 JATS permite extensibilidad: comunidades pueden añadir elementos y atributos específicos a sus necesidades. Esta flexibilidad es necesaria para que el estándar sea útil en contextos diversos. Sin embargo, excesiva flexibilidad fragmenta el ecosistema: si cada implementación de JATS es sustancialmente diferente, la interoperabilidad prometida se erosiona.
 
-El equilibrio es delicado y requiere gobernanza comunitaria activa. JATS4R (JATS for Reuse) representa un esfuerzo importante en esta dirección, estableciendo consensos sobre mejores prácticas sin requerir modificaciones al estándar formal.
+El equilibrio es delicado y requiere gobernanza comunitaria activa. JATS4R (JATS for Reuse) [12] representa un esfuerzo importante en esta dirección, estableciendo consensos sobre mejores prácticas sin requerir modificaciones al estándar formal.
 
 ### Calidad del marcado: validez sintáctica vs. utilidad semántica
 
-Un desafío técnico significativo es que la validación automática contra DTD o XSD verifica únicamente sintaxis, no semántica. Como documenta el análisis de errores en artículos JATS publicados, existen archivos sintácticamente válidos pero semánticamente problemáticos:
+Un desafío técnico significativo es que la validación automática contra DTD o XSD verifica únicamente sintaxis, no semántica. Como documenta el análisis de errores en artículos JATS publicados [11], existen archivos sintácticamente válidos pero semánticamente problemáticos:
 
 - Referencias con componentes mal identificados (autores etiquetados como títulos, etc.)
 - Afiliaciones institucionales con estructura incorrecta que impide extracción automática
@@ -567,7 +565,7 @@ El futuro de JATS debe abordar estos desafíos, posiblemente mediante mayor inte
 
 ### Inteligencia artificial y automatización del marcado
 
-La producción manual de JATS es laboriosa. Herramientas como Marcalyc incorporan automatización basada en IA, pero la tecnología continúa evolucionando rápidamente.
+La producción manual de JATS es laboriosa. Herramientas como Marcalyc incorporan automatización basada en IA [4], pero la tecnología continúa evolucionando rápidamente.
 
 Los modelos de lenguaje de gran escala (Large Language Models, LLMs) contemporáneos muestran una capacidad impresionante para entender estructura de documentos y extraer información semántica. ¿Podría la próxima generación de herramientas JATS usar IA para marcado casi completamente automático, requiriendo solo supervisión humana mínima?
 
@@ -585,7 +583,6 @@ La integración efectiva de JATS con estas iniciativas requiere coordinación:
 - **Preprints**: Conectar artículos publicados con sus versiones preprint en servidores como arXiv, bioRxiv, permitiendo rastrear evolución del documento
 
 Estas integraciones no son opcionales sino necesarias para realizar plenamente la visión de ciencia abierta.
-
 
 ## 8. Conclusiones: JATS como infraestructura epistémica
 
@@ -626,48 +623,54 @@ En última instancia, XML-JATS no es opcional porque representa algo más fundam
 
 El conocimiento científico ha sobrevivido milenios porque cada generación ha asumido la responsabilidad de preservarlo y transmitirlo. En la era digital, esa responsabilidad incluye adoptar estándares que garanticen que nuestras contribuciones al conocimiento permanezcan accesibles y útiles mucho después de que las tecnologías particulares de hoy hayan desaparecido. XML-JATS es nuestra mejor respuesta actual a esa responsabilidad milenaria.
 
+---
 
 ## Referencias
 
-- Aguado-López, E., Becerril-García, A., & Chávez-Ávila, S. (2016). Conectando al Sur con la ciencia global: El nuevo modelo de publicación en América Latina y el Caribe, no comercial, colaborativo y sustentable. *XML JATS Redalyc*. Recuperado de https://xmljatsredalyc.org/
+[1] Gil Leyva, I. (2022). La edición digital y la lógica semántica de la web. En *Prácticas editoriales en el siglo XXI*. México: Universidad Nacional Autónoma de México.
 
-- Aguado-López, E., Becerril-García, A., & Leonardo-Valentín, E. (2024). Manual de usuario Marcalyc versión 4.0. Sistema de Información Científica Redalyc.
+[2] National Information Standards Organization [NISO]. (2012). *ANSI/NISO Z39.96-2012: JATS: Journal Article Tag Suite, version 1.0*.
 
-- Beagrie, N. (2013). *Preservación, fiabilidad y acceso continuado a las revistas digitales*. Digital Preservation Coalition Technology Watch Report.
+[3] Packer, A. L. (2014). Los criterios de indexación de SciELO se alinean con la comunicación en la investigación de vanguardia. *SciELO en Perspectiva*. Recuperado de https://blog.scielo.org/es/
 
-- Becerril-García, A., Aguado-López, E., & Sánchez Pereyra, A. (2023). La edición científica marcada por el XML JATS: des(encuentros) entre Markup y Marcalyc. *Palabra Clave (La Plata)*, 12(2), e179.
+[4] Aguado-López, E., Becerril-García, A., & Leonardo-Valentín, E. (2024). *Manual de usuario Marcalyc versión 4.0*. Sistema de Información Científica Redalyc.
 
-- Cristiani-Sienra, A. (2016). *Journal Article Tag Suite (JATS): situación actual y análisis de implantación del estándar promovido por NISO para revistas científicas basado en XML* [Trabajo de fin de máster]. Universidad Carlos III de Madrid.
+[5] Aguado-López, E., Becerril-García, A., & Chávez-Ávila, S. (2016). Conectando al Sur con la ciencia global: El nuevo modelo de publicación en América Latina y el Caribe, no comercial, colaborativo y sustentable. *XML JATS Redalyc*. Recuperado de https://xmljatsredalyc.org/
 
-- CrossRef. (2020). *Using JATS XML*. Recuperado de https://www.crossref.org/documentation/register-maintain-records/direct-deposit-xml/jats-xml/
+[6] National Information Standards Organization [NISO]. (2024). *ANSI/NISO Z39.96-2024: JATS: Journal Article Tag Suite, version 1.4*.
 
-- García Boyé, J. L. (2020). Las ventajas de utilizar XML-JATS en revistas científicas. *Aula Magna 2.0*. Recuperado de https://cuedespyd.hypotheses.org/8881
+[7] W3C (World Wide Web Consortium). (2016). *Extensible Markup Language (XML) 1.0 (Fifth Edition)*. Recuperado de https://www.w3.org/TR/xml/
 
-- Gil Leyva, I. (2022). La edición digital y la lógica semántica de la web. En *Prácticas editoriales en el siglo XXI*. México: Universidad Nacional Autónoma de México.
+[8] CrossRef. (2020). *Using JATS XML*. Recuperado de https://www.crossref.org/documentation/register-maintain-records/direct-deposit-xml/jats-xml/
 
-- Gross, M. (2025). From Valid XML to Valuable XML: When "Good" Matters More Than "Valid". En *Journal Article Tag Suite Conference (JATS-Con) Proceedings 2025*. Bethesda (MD): National Center for Biotechnology Information.
+[9] Beagrie, N. (2013). *Preservación, fiabilidad y acceso continuado a las revistas digitales*. Digital Preservation Coalition Technology Watch Report.
 
-- Guzmán-Useche, M. F., & Rodríguez-Contreras, L. (2016). Análisis comparativo de herramientas de marcación XML-JATS para revistas científicas. *Revista Interamericana de Bibliotecología*, 39(2), 103-116.
+[10] Packer, A. L., & Gómes, N. (2023). SciELO Marketplace: Una interfaz para servicios editoriales. *SciELO en Perspectiva*.
 
-- JATS4R Group. (2018). *JATS for Reuse: Best practices for JATS tagging*. Recuperado de https://jats4r.org/
+[11] Gross, M. (2025). From Valid XML to Valuable XML: When "Good" Matters More Than "Valid". En *Journal Article Tag Suite Conference (JATS-Con) Proceedings 2025*. Bethesda (MD): National Center for Biotechnology Information.
 
-- McKnight, C. (1997). Electronic journals: What do users think of them? En *Proceedings of International Symposium on Research, Development and Practice in Digital Libraries*.
+[12] JATS4R Group. (2018). *JATS for Reuse: Best practices for JATS tagging*. Recuperado de https://jats4r.org/
 
-- National Center for Biotechnology Information [NCBI]. (2012). *JATS: Journal Article Tag Suite, version 1.0*. Recuperado de https://jats.nlm.nih.gov/
+[13] Becerril-García, A., Aguado-López, E., & Sánchez Pereyra, A. (2023). La edición científica marcada por el XML JATS: des(encuentros) entre Markup y Marcalyc. *Palabra Clave (La Plata)*, 12(2), e179.
 
-- National Information Standards Organization [NISO]. (2024). *ANSI/NISO Z39.96-2024: JATS: Journal Article Tag Suite, version 1.4*.
+[14] McKnight, C. (1997). Electronic journals: What do users think of them? En *Proceedings of International Symposium on Research, Development and Practice in Digital Libraries*.
 
-- Packer, A. L. (2014). Los criterios de indexación de SciELO se alinean con la comunicación en la investigación de vanguardia. *SciELO en Perspectiva*. Recuperado de https://blog.scielo.org/es/
+[15] Sánchez-Pereyra, A. (2017). SciELO: 20 años de acceso abierto en América Latina. En *Historia de la ciencia abierta en América Latina*. Buenos Aires: CLACSO.
 
-- Packer, A. L., & Gómes, N. (2023). SciELO Marketplace: Una interfaz para servicios editoriales. *SciELO en Perspectiva*.
+[16] Rozemblum, C. (2021). Desafíos y oportunidades en la adopción de XML-JATS en revistas científicas de América Latina. *Palabra Clave (La Plata)*, 10(2), e098.
 
-- Rozemblum, C. (2021). Desafíos y oportunidades en la adopción de XML-JATS en revistas científicas de América Latina. *Palabra Clave (La Plata)*, 10(2), e098.
+**Bibliografía adicional**
 
-- Sánchez-Pereyra, A. (2017). SciELO: 20 años de acceso abierto en América Latina. En *Historia de la ciencia abierta en América Latina*. Buenos Aires: CLACSO.
+Cristiani-Sienra, A. (2016). *Journal Article Tag Suite (JATS): situación actual y análisis de implantación del estándar promovido por NISO para revistas científicas basado en XML* [Trabajo de fin de máster]. Universidad Carlos III de Madrid.
 
-- W3C (World Wide Web Consortium). (2016). *Extensible Markup Language (XML) 1.0 (Fifth Edition)*. Recuperado de https://www.w3.org/TR/xml/
+García Boyé, J. L. (2020). Las ventajas de utilizar XML-JATS en revistas científicas. *Aula Magna 2.0*. Recuperado de https://cuedespyd.hypotheses.org/8881
 
-- Zetter Patiño, E. (2018). *El desarrollo de JATS y su implementación global* [Tesis de maestría]. Universidad Nacional Autónoma de México.
+Guzmán-Useche, M. F., & Rodríguez-Contreras, L. (2016). Análisis comparativo de herramientas de marcación XML-JATS para revistas científicas. *Revista Interamericana de Bibliotecología*, 39(2), 103-116.
+
+National Center for Biotechnology Information [NCBI]. (2012). *JATS: Journal Article Tag Suite, version 1.0*. Recuperado de https://jats.nlm.nih.gov/
+
+Zetter Patiño, E. (2018). *El desarrollo de JATS y su implementación global* [Tesis de maestría]. Universidad Nacional Autónoma de México.
+
+---
 
 **Nota sobre fuentes**: Este artículo se basa en documentación oficial de NISO, NCBI, SciELO, Redalyc, CrossRef, CLOCKSS y otras instituciones del ecosistema de publicación científica, complementada con literatura académica sobre edición científica, preservación digital e infraestructuras de conocimiento. Todas las afirmaciones técnicas sobre JATS están verificadas contra la especificación oficial ANSI/NISO Z39.96-2024.
-
