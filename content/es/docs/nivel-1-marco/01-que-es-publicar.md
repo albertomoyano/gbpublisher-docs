@@ -58,20 +58,15 @@ Lejos de ser una "peculiaridad" o "retraso" respecto al modelo anglosajón, el *
 
 Para demostrar esta tesis, el artículo se organiza en cinco secciones:
 
-**Sección 1: Genealogía histórica (s. XVII-XX)**
-Reconstruye el desarrollo temporal de las estructuras editoriales, desde los orígenes indiferenciados del *Journal des Sçavans* (1665) hasta la consolidación del modelo IMRyD en biomedicina (post-1945). Muestra que la estructura "estándar" actual es un producto histórico reciente, no una propiedad esencial de la comunicación científica.
+**Sección 2: Genealogía histórica: de la correspondencia indiferenciada al artículo estandarizado (s. XVII-XX).** Reconstruye el desarrollo temporal de las estructuras editoriales, desde los orígenes indiferenciados del *Journal des Sçavans* (1665) hasta la consolidación del modelo IMRyD en biomedicina (post-1945). Muestra que la estructura "estándar" actual es un producto histórico reciente, no una propiedad esencial de la comunicación científica.
 
-**Sección 2: Geografías editoriales divergentes**
-Analiza cómo diferentes tradiciones académicas nacionales/regionales desarrollaron modelos editoriales distintivos: el énfasis anglosajón en "contribuciones discretas", la tradición europea continental de números temáticos y debates explícitos, el modelo latinoamericano del *dossier* como red intelectual, y las hibridaciones en Asia, África y Medio Oriente.
+**Sección 3: Geografías editoriales divergentes: tradiciones nacionales y modelos regionales.** Analiza cómo diferentes tradiciones académicas nacionales/regionales desarrollaron modelos editoriales distintivos: el énfasis anglosajón en "contribuciones discretas", la tradición europea continental de números temáticos y debates explícitos, el modelo latinoamericano del *dossier* como red intelectual, y las hibridaciones en Asia, África y Medio Oriente.
 
-**Sección 3: Epistemologías disciplinarias**
-Examina cómo las diferencias entre campos del conocimiento (ciencias experimentales, ciencias sociales, humanidades, profesiones aplicadas) generan requisitos estructurales divergentes: datos vs. interpretación, replicabilidad vs. reflexividad, métodos explícitos vs. argumentación narrativa.
+**Sección 4: Epistemologías disciplinarias: cómo valida el conocimiento cada campo.** Examina cómo las diferencias entre campos del conocimiento (ciencias experimentales, ciencias sociales, humanidades, profesiones aplicadas) generan requisitos estructurales divergentes: datos vs. interpretación, replicabilidad vs. reflexividad, métodos explícitos vs. argumentación narrativa.
 
-**Sección 4: Crisis y transformaciones contemporáneas**
-Explora las tensiones actuales: presión homogeneizadora de índices internacionales, innovaciones digitales (artículos de datos, informes registrados, revisiones vivas), resistencias periféricas (SciELO, Redalyc), y el debate sobre soberanía temática en la definición de agendas de investigación.
+**Sección 5: Crisis y transformaciones contemporáneas: entre homogeneización y resistencia.** Explora las tensiones actuales: presión homogeneizadora de índices internacionales, innovaciones digitales (artículos de datos, informes registrados, revisiones vivas), resistencias periféricas (SciELO, Redalyc), y el debate sobre soberanía temática en la definición de agendas de investigación.
 
-**Sección 5: Conclusión**
-Propone pensar en términos de una **ecología de modelos editoriales**, donde la diversidad estructural no es un problema a resolver sino una riqueza a preservar. Discute implicaciones para política científica, infraestructuras técnicas (metadatos, preservación digital) y agenda de investigación futura.
+**6. Conclusión: hacia una ecología de modelos editoriales.** Propone pensar en términos de una **ecología de modelos editoriales**, donde la diversidad estructural no es un problema a resolver sino una riqueza a preservar. Discute implicaciones para política científica, infraestructuras técnicas (metadatos, preservación digital) y agenda de investigación futura.
 
 ### Nota metodológica
 
@@ -83,7 +78,7 @@ Este trabajo combina:
 
 La pregunta central no es "¿cuál es la mejor estructura para una revista científica?" sino "¿qué funciones epistémicas y sociales cumplen las diferentes estructuras en sus contextos específicos?" La respuesta, como veremos, es: muchas y complejas.
 
-## 2. Geografía y validación del conocimiento
+### Geografía y validación del conocimiento
 
 Este artículo sostiene que las divisiones internas de las revistas científicas no son arbitrarias ni resultado de preferencias estéticas, sino que constituyen **inscripciones materiales de prácticas de validación del conocimiento**. La estructura editorial de una revista —qué secciones incluye, cómo las nombra, qué jerarquía establece entre ellas— revela:
 
@@ -91,7 +86,7 @@ Este artículo sostiene que las divisiones internas de las revistas científicas
 2. **Tradiciones institucionales**: Cómo se organiza la producción académica (sociedades científicas vs. universidades vs. academias estatales)
 3. **Geografías del conocimiento**: Quién define los temas relevantes, los estándares de calidad y los circuitos de legitimación (centro vs. periferia en el sistema académico global)
 
-## 3. Genealogía histórica: de la correspondencia indiferenciada al artículo estandarizado (s. XVII-XX)
+## 2. Genealogía histórica: de la correspondencia indiferenciada al artículo estandarizado (s. XVII-XX)
 
 La estructura contemporánea de las revistas científicas —con sus secciones diferenciadas, formatos prescritos y jerarquías implícitas— no surgió de manera espontánea ni inevitable. Es el resultado de **procesos históricos contingentes** ligados a transformaciones en la organización institucional de la ciencia, luchas por la autoridad epistémica, y cambios tecnológicos en la producción y circulación del conocimiento. Esta sección reconstruye esa genealogía en cuatro momentos clave.
 
@@ -413,7 +408,7 @@ La imposición del modelo anglosajón de ciencias experimentales como "estándar
 
 La siguiente sección explora cómo diferentes geografías académicas resistieron, adaptaron o hibridaron este modelo, generando la diversidad estructural contemporánea.
 
-## 4. Geografías editoriales divergentes: tradiciones nacionales y modelos regionales
+## 3. Geografías editoriales divergentes: tradiciones nacionales y modelos regionales
 
 La estructura de las revistas científicas no es solo producto de evoluciones temporales, sino también de **tradiciones académicas nacionales y regionales** que desarrollaron modelos editoriales distintivos. Estas diferencias no son meramente formales, sino que reflejan distintas concepciones sobre cómo se organiza la producción de conocimiento, quién tiene autoridad epistémica, y cómo circula el saber en comunidades académicas situadas geopolíticamente.
 
@@ -1132,7 +1127,7 @@ Este recorrido por tradiciones regionales revela que la estructura editorial de 
 
 La diversidad estructural no es un "problema" a homogeneizar, sino una **riqueza epistémica** que refleja la pluralidad de tradiciones intelectuales. La siguiente sección explora cómo las diferencias disciplinarias intersectan con estas geografías, generando una matriz compleja de modelos editoriales.
 
-## 5. Epistemologías disciplinarias: cómo valida el conocimiento cada campo
+## 4. Epistemologías disciplinarias: cómo valida el conocimiento cada campo
 
 Si la geografía académica genera modelos editoriales divergentes, las **diferencias disciplinarias** producen variaciones estructurales aún más profundas. La estructura de una revista no solo refleja dónde se publica, sino **qué tipo de conocimiento** se produce. Esta sección examina cuatro grandes campos —ciencias experimentales, ciencias sociales, humanidades, profesiones aplicadas— mostrando cómo sus estructuras editoriales inscriben epistemologías específicas.
 
@@ -1885,7 +1880,7 @@ Esta sección ha mostrado que las estructuras editoriales no son arbitrarias sin
 
 La siguiente sección explora cómo estas estructuras están siendo transformadas (o desafiadas) por innovaciones tecnológicas, cambios en sistemas de evaluación, y resistencias desde la periferia académica.
 
-## 6. Crisis y transformaciones contemporáneas: entre homogeneización y resistencia
+## 5. Crisis y transformaciones contemporáneas: entre homogeneización y resistencia
 
 Las estructuras editoriales desarrolladas a lo largo de tres siglos enfrentan hoy transformaciones radicales impulsadas por tres fuerzas convergentes: la **presión homogeneizadora** de sistemas de evaluación bibliométrica, las **posibilidades tecnológicas** de la publicación digital, y las **resistencias periféricas** que reclaman autonomía epistémica. Esta sección analiza estas tensiones y las innovaciones estructurales que están emergiendo.
 
@@ -2593,7 +2588,7 @@ Esta sección ha mostrado fuerzas contradictorias:
 La siguiente sección (Conclusión) propone un marco normativo para pensar estas tensiones.
 
 
-## 7. Conclusión: hacia una ecología de modelos editoriales
+## 6. Conclusión: hacia una ecología de modelos editoriales
 
 ### Recapitulación: la estructura editorial como epistemología inscrita
 
