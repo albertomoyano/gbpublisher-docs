@@ -74,7 +74,7 @@ Este trabajo combina:
 - **Análisis histórico** de publicaciones científicas desde el siglo XVII
 - **Análisis comparativo** de revistas contemporáneas en diferentes disciplinas y regiones
 - **Revisión de literatura** sobre sociología de la ciencia, estudios editoriales y geopolítica del conocimiento
-- **Reflexión desde la práctica editorial**: el autor participa activamente en la producción de revistas científicas latinoamericanas y desarrolla herramientas técnicas (gbpublisher) para gestión editorial, lo que proporciona una perspectiva situada sobre los desafíos prácticos de implementar diferentes modelos estructurales
+- **Reflexión desde la práctica editorial**: el autor participa activamente en la producción editorial científica y es el desarrollador de **gbpublisher** (un modelo de producción basado en XML-JATS canónico), lo que proporciona una perspectiva situada sobre los desafíos prácticos de implementar diferentes modelos estructurales
 
 La pregunta central no es "¿cuál es la mejor estructura para una revista científica?" sino "¿qué funciones epistémicas y sociales cumplen las diferentes estructuras en sus contextos específicos?" La respuesta, como veremos, es: muchas y complejas.
 
