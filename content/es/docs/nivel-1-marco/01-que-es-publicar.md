@@ -66,7 +66,7 @@ Para demostrar esta tesis, el artículo se organiza en cinco secciones:
 
 **Sección 5: Crisis y transformaciones contemporáneas: entre homogeneización y resistencia.** Explora las tensiones actuales: presión homogeneizadora de índices internacionales, innovaciones digitales (artículos de datos, informes registrados, revisiones vivas), resistencias periféricas (SciELO, Redalyc), y el debate sobre soberanía temática en la definición de agendas de investigación.
 
-**6. Conclusión: hacia una ecología de modelos editoriales.** Propone pensar en términos de una **ecología de modelos editoriales**, donde la diversidad estructural no es un problema a resolver sino una riqueza a preservar. Discute implicaciones para política científica, infraestructuras técnicas (metadatos, preservación digital) y agenda de investigación futura.
+**Sección 6. Conclusión: hacia una ecología de modelos editoriales.** Propone pensar en términos de una **ecología de modelos editoriales**, donde la diversidad estructural no es un problema a resolver sino una riqueza a preservar. Discute implicaciones para política científica, infraestructuras técnicas (metadatos, preservación digital) y agenda de investigación futura.
 
 ### Nota metodológica
 
