@@ -11,7 +11,7 @@ linkTitle: "Inicio"
 {{% blocks/lead color="primary" %}}
 gbpublisher es una plataforma cliente-servidor de código abierto diseñada específicamente para equipos editoriales académicos de América Latina. Permite convertir manuscritos en publicaciones compatibles con los principales indexadores internacionales, siguiendo estándares como XML-JATS y manteniendo la filosofía de transparencia en todo el proceso editorial.
 
-Esta documentación no solo explica cómo usar gbpublisher, sino que te guía por los fundamentos de la publicación académica moderna, los estándares internacionales y las mejores prácticas editoriales.
+Esta documentación no solo explica cómo usar gbpublisher, es una guía por los fundamentos de la publicación académica moderna, los estándares internacionales y las mejores prácticas editoriales.
 {{% /blocks/lead %}}
 
 {{% blocks/section color="white" type="row" %}}
