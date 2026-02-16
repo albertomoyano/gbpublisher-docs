@@ -58,19 +58,19 @@ Lejos de ser una "peculiaridad" o "retraso" respecto al modelo anglosajón, el *
 
 Para demostrar esta tesis, el artículo se organiza en cinco secciones:
 
-**Sección 2: Genealogía histórica (s. XVII-XX)**
+**Sección 1: Genealogía histórica (s. XVII-XX)**
 Reconstruye el desarrollo temporal de las estructuras editoriales, desde los orígenes indiferenciados del *Journal des Sçavans* (1665) hasta la consolidación del modelo IMRyD en biomedicina (post-1945). Muestra que la estructura "estándar" actual es un producto histórico reciente, no una propiedad esencial de la comunicación científica.
 
-**Sección 3: Geografías editoriales divergentes**
+**Sección 2: Geografías editoriales divergentes**
 Analiza cómo diferentes tradiciones académicas nacionales/regionales desarrollaron modelos editoriales distintivos: el énfasis anglosajón en "contribuciones discretas", la tradición europea continental de números temáticos y debates explícitos, el modelo latinoamericano del *dossier* como red intelectual, y las hibridaciones en Asia, África y Medio Oriente.
 
-**Sección 4: Epistemologías disciplinarias**
+**Sección 3: Epistemologías disciplinarias**
 Examina cómo las diferencias entre campos del conocimiento (ciencias experimentales, ciencias sociales, humanidades, profesiones aplicadas) generan requisitos estructurales divergentes: datos vs. interpretación, replicabilidad vs. reflexividad, métodos explícitos vs. argumentación narrativa.
 
-**Sección 5: Crisis y transformaciones contemporáneas**
+**Sección 4: Crisis y transformaciones contemporáneas**
 Explora las tensiones actuales: presión homogeneizadora de índices internacionales, innovaciones digitales (artículos de datos, informes registrados, revisiones vivas), resistencias periféricas (SciELO, Redalyc), y el debate sobre soberanía temática en la definición de agendas de investigación.
 
-**Sección 6: Conclusión**
+**Sección 5: Conclusión**
 Propone pensar en términos de una **ecología de modelos editoriales**, donde la diversidad estructural no es un problema a resolver sino una riqueza a preservar. Discute implicaciones para política científica, infraestructuras técnicas (metadatos, preservación digital) y agenda de investigación futura.
 
 ### Nota metodológica
