@@ -245,7 +245,7 @@ El análisis del estado del arte permite identificar cuatro brechas que justific
 
 **Brecha 1: perfilado de JATS.** Las herramientas genéricas de conversión (Pandoc, Quarto) producen JATS válido pero no perfilado para plataformas específicas (SciELO, Redalyc, JATS4R). La transformación desde JATS genérico hacia JATS perfilado requiere XSLT o procesamiento adicional que no está incorporado en las herramientas estándar.
 
-**Brecha 2: metadatos complejos.** Los elementos de metadatos más complejos de JATS —identificadores de autor (ORCID), financiamiento (FundRef), licencias (Creative Commons URI), declaraciones de conflicto de interés— no tienen equivalentes directos en la sintaxis Markdown estándar ni en el YAML *front matter* de Pandoc. Su manejo requiere extensiones o convenciones específicas.
+**Brecha 2: metadatos complejos.** Los elementos de metadatos más complejos de JATS —identificadores de autor (ORCID), financiamiento (FundRef), licencias (Creative Commons URI), declaraciones de conflicto de interés— no tienen equivalentes directos en la sintaxis Markdown estándar ni en el YAML front matter de Pandoc. Su manejo requiere extensiones o convenciones específicas.
 
 **Brecha 3: elementos visuales y suplementarios.** El manejo de figuras con múltiples formatos, tablas complejas, material suplementario y medios enriquecidos en el contexto JATS no está completamente resuelto en la cadena Pandoc/Quarto.
 
