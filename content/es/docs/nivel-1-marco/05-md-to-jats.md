@@ -109,7 +109,7 @@ Los términos de búsqueda empleados —en inglés y español— incluyeron comb
 Se incluyeron fuentes que:
 - Abordaran directamente la producción o conversión de documentos científicos en formatos de marcado estructurado.
 - Documentaran especificaciones técnicas de JATS, Markdown o sus variantes académicas.
-- Analizaran flujos editoriales en el contexto de acceso abierto, con énfasis en América Latina cuando disponible.
+- Analizaran flujos editoriales en el contexto de acceso abierto, con énfasis en América Latina.
 - Fueran publicadas preferentemente desde el año 2000 en adelante, salvo para referencias históricas sobre los orígenes de los lenguajes de marcado (SGML, TeX y GML).
 
 Se excluyeron fuentes que:
