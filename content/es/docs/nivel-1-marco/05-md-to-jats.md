@@ -478,7 +478,7 @@ Las directrices de ciencia abierta de las principales agencias de financiamiento
 
 El concepto de artículo ejecutable —un documento científico que integra la narrativa, el código analítico y los datos de manera que los resultados puedan ser reproducidos y verificados por el lector— está ganando tracción en múltiples disciplinas y plataformas [49,50].
 
-Iniciativas como [Binder](mybinder.org), Code Ocean y el programa de artículos reproducibles de *eLife* y *PLOS* convergen en un modelo donde el artículo científico no es solo un texto formateado sino un artefacto computacional ejecutable [49,50,51]. En este paradigma emergente, el formato del artículo fuente es inevitablemente texto plano: Markdown, Jupyter Notebook o Quarto. Markdown en sus formas extendidas es el único formato que puede servir simultáneamente como fuente para un artículo ejecutable y como protocolo de entrada para un flujo de producción JATS [29,30,49].
+Iniciativas como Binder, Code Ocean y el programa de artículos reproducibles de *eLife* y *PLOS* convergen en un modelo donde el artículo científico no es solo un texto formateado sino un artefacto computacional ejecutable [49,50,51]. En este paradigma emergente, el formato del artículo fuente es inevitablemente texto plano: Markdown, Jupyter Notebook o Quarto. Markdown en sus formas extendidas es el único formato que puede servir simultáneamente como fuente para un artículo ejecutable y como protocolo de entrada para un flujo de producción JATS [29,30,49].
 
 #### La evolución del estándar JATS y su relación con Markdown
 
