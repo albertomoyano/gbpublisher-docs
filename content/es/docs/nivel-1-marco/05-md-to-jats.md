@@ -2,7 +2,7 @@
 title: "Markdown como protocolo de entrada en la cadena editorial científica"
 weight: 5
 description: >
-  La publicación científica contemporánea exige que los artículos estén disponibles en formatos estructurados y legibles por máquinas, siendo el estándar JATS (Journal Article Tag Suite, NISO Z39.96) el esquema XML dominante en los sistemas de indexación internacionales. Sin embargo, la producción directa de XML-JATS presenta barreras técnicas significativas para los equipos editoriales. Este artículo analiza por qué Markdown constituye el protocolo de entrada óptimo en una cadena editorial orientada a la producción de JATS canónico, examinando sus fundamentos históricos, su estado de adopción actual, su complementariedad semántica con JATS, su dimensión pragmática en contextos editoriales reales y su proyección futura en el ecosistema de la comunicación científica.
+  La publicación científica contemporánea exige que los artículos estén disponibles en formatos estructurados y legibles por máquinas, siendo el estándar JATS (Journal Article Tag Suite, [NISO Z39.96](https://www.niso.org/standards-committees/jats)) el esquema XML dominante en los sistemas de indexación internacionales. Sin embargo, la producción directa de XML-JATS presenta barreras técnicas significativas para los equipos editoriales. Este artículo analiza por qué Markdown constituye el protocolo de entrada óptimo en una cadena editorial orientada a la producción de JATS canónico, examinando sus fundamentos históricos, su estado de adopción actual, su complementariedad semántica con JATS, su dimensión pragmática en contextos editoriales reales y su proyección futura en el ecosistema de la comunicación científica.
 ---
 
 ## 1. Introducción
@@ -25,7 +25,7 @@ JATS proviene del NLM DTD (National Library of Medicine Document Type Definition
 
 La transición de NLM DTD a JATS implicó una generalización del esquema hacia dominios disciplinares más amplios —ciencias sociales, humanidades, educación— sin abandonar la filosofía de marcado semántico exhaustivo. El resultado es un estándar suficientemente expresivo para representar la complejidad estructural de cualquier artículo científico, pero también suficientemente complejo como para exigir, en su implementación directa, conocimientos especializados de XML que la mayoría de los equipos editoriales no poseen [2,10].
 
-Este es el núcleo de la tensión que fundamenta la pregunta de investigación del presente artículo: ¿cuál es el lenguaje de marcado más adecuado como protocolo de entrada para producir JATS canónico de manera eficiente, accesible y sostenible?
+Este es el núcleo de la tensión que fundamenta la pregunta de investigación del presente artículo: ¿cuál es el lenguaje de marcado más adecuado como protocolo de entrada para producir JATS [canónico](https://dle.rae.es/can%C3%B3nico) de manera eficiente, accesible y sostenible?
 
 ### La búsqueda de un protocolo de entrada adecuado
 
@@ -71,7 +71,7 @@ El artículo está organizado conforme a la estructura IMRyD. La sección de Mat
 
 Se realizó una revisión narrativa de alcance amplio (*scoping review* en la terminología anglosajona), orientada a mapear el estado del conocimiento sobre Markdown como protocolo de entrada en cadenas editoriales científicas orientadas a XML-JATS. Se eligió la revisión narrativa —en lugar de una revisión sistemática con metaanálisis— porque el objeto de estudio combina dimensiones históricas, técnicas y de política editorial que no son reducibles a un conjunto homogéneo de estudios primarios cuantificables [16].
 
-Este tipo de revisión es reconocido como metodológicamente apropiado cuando el objetivo es sintetizar conocimiento heterogéneo sobre un tema emergente, identificar brechas conceptuales y construir marcos analíticos para la práctica [17]. Su limitación principal —la ausencia de un protocolo de búsqueda exhaustivo y reproducible con criterios PRISMA— es asumida explícitamente como una restricción del presente trabajo.
+Este tipo de revisión es reconocido como metodológicamente apropiado cuando el objetivo es sintetizar conocimiento heterogéneo sobre un tema emergente, identificar brechas conceptuales y construir marcos analíticos para la práctica [17]. Su limitación principal —la ausencia de un protocolo de búsqueda exhaustivo y reproducible con criterios [PRISMA](https://www.prisma-statement.org/)— es asumida explícitamente como una restricción del presente trabajo.
 
 ### Fuentes y estrategia de búsqueda
 
@@ -143,13 +143,13 @@ Esta distinción —que en la terminología contemporánea se expresa como la di
 
 #### De GML a SGML: la formalización del marcado genérico
 
-GML evolucionó hacia el Standard Generalized Markup Language (SGML), formalizado como estándar ISO en 1986 (ISO 8879:1986) [20]. SGML estableció la noción de *Document Type Definition* (DTD): un esquema formal que define los elementos válidos en un tipo de documento, sus relaciones jerárquicas y sus atributos. Esta arquitectura —separación entre el esquema (DTD) y el documento instancia— es el precursor directo de XML y, por extensión, de JATS [20,21].
+GML evolucionó hacia el Standard Generalized Markup Language (SGML), formalizado como estándar ISO en 1986 (ISO 8879:1986) [20]. SGML estableció la noción de *Document Type Definition* ([DTD](https://en.wikipedia.org/wiki/Document_type_definition)): un esquema formal que define los elementos válidos en un tipo de documento, sus relaciones jerárquicas y sus atributos. Esta arquitectura —separación entre el esquema (DTD) y el documento instancia— es el precursor directo de XML y, por extensión, de JATS [20,21].
 
 La influencia de SGML en la publicación académica fue significativa: la Association of American Publishers (AAP) desarrolló en 1986 un conjunto de DTDs basadas en SGML para la estructuración de artículos científicos, que constituyen el antecedente más directo de lo que eventualmente se convertiría en el estándar JATS [7]. El trabajo de la AAP reconocía que la producción de artículos científicos tenía características estructurales recurrentes —resúmenes, autorías, referencias bibliográficas, tablas, figuras— que merecían ser codificadas en un esquema formal y portable.
 
 #### El nacimiento de XML y el NLM DTD
 
-La aparición de XML 1.0, publicado por el W3C en 1998 como una simplificación de SGML orientada a la web, proporcionó la base técnica sobre la cual se construirían todos los estándares de marcado documental del siglo XXI [21]. XML retiene los principios fundamentales de SGML —validación contra un esquema, separación entre contenido y presentación, portabilidad— mientras elimina las complejidades sintácticas que dificultaban su implementación práctica.
+La aparición de XML 1.0, publicado por el [W3C](https://www.w3.org/) en 1998 como una simplificación de SGML orientada a la web, proporcionó la base técnica sobre la cual se construirían todos los estándares de marcado documental del siglo XXI [21]. XML retiene los principios fundamentales de SGML —validación contra un esquema, separación entre contenido y presentación, portabilidad— mientras elimina las complejidades sintácticas que dificultaban su implementación práctica.
 
 Sobre esta base, la National Library of Medicine de Estados Unidos desarrolló, a partir del año 2000, el NLM Journal Publishing DTD, diseñado específicamente para el archivo y distribución de artículos científicos en PubMed Central [7,9]. Este DTD fue el resultado de un esfuerzo colectivo que involucró a editores, bibliotecarios y especialistas en información científica, con el objetivo de crear un esquema suficientemente expresivo para capturar la semántica completa de un artículo científico, incluyendo no solo el cuerpo del texto sino también los metadatos administrativos, de autoría, financiamiento y citación [7].
 
@@ -159,13 +159,13 @@ La versión 3.0 del NLM DTD, publicada en 2008, fue la base directa a partir de 
 
 Mientras la tradición SGML/XML construía estándares cada vez más formalizados y exhaustivos para la representación semántica de documentos, una tradición paralela y aparentemente divergente se desarrollaba en el mundo de la escritura técnica y la informática: la búsqueda de formatos de texto plano que pudieran ser escritos por humanos sin asistencia de herramientas especializadas y procesados al mismo tiempo de manera automática para generar diferentes salidas formateadas.
 
-El antecedente más influyente de esta tradición es TeX, desarrollado por Donald Knuth entre 1977 y 1989 para la composición tipográfica de documentos matemáticos [23]. TeX introdujo el principio de que un autor podía escribir en texto plano con marcas mínimas y obtener salidas tipográficas de alta calidad. LaTeX, la extensión de TeX desarrollada por Leslie Lamport a partir de 1984, popularizó este enfoque en la comunidad científica internacional, particularmente en matemáticas, física y ciencias de la computación [24].
+El antecedente más influyente de esta tradición es [TeX](https://es.wikipedia.org/wiki/TeX), desarrollado por [Donald Knuth](https://es.wikipedia.org/wiki/Donald_Knuth) entre 1977 y 1989 para la composición tipográfica de documentos matemáticos [23]. TeX introdujo el principio de que un autor podía escribir en texto plano con marcas mínimas y obtener salidas tipográficas de alta calidad. LaTeX, la extensión de TeX desarrollada por [Leslie Lamport](https://es.wikipedia.org/wiki/Leslie_Lamport) a partir de 1984, popularizó este enfoque en la comunidad científica internacional, particularmente en matemáticas, física y ciencias de la computación [24].
 
 Sin embargo, tanto TeX como LaTeX mantenían una sintaxis relativamente densa —abundante en caracteres de control, llaves y comandos— que aunque era más legible que XML, seguía requiriendo un aprendizaje específico y no resultaba cómoda para disciplinas que no tuvieran una tradición fuerte de composición tipográfica manual.
 
 #### Markdown: la síntesis minimalista
 
-En este contexto histórico, la creación de Markdown por John Gruber y Aaron Swartz en 2004 representa menos una invención radical que una síntesis de tendencias previas llevada a su expresión más minimalista [25]. La declaración de diseño original de Gruber es elocuente en su ambición: Markdown debía ser "lo más legible posible tal como está escrito", de manera que un documento Markdown fuera inteligible incluso sin procesamiento, como texto plano ordinario [25].
+En este contexto histórico, la creación de [Markdown](https://es.wikipedia.org/wiki/Markdown) por John Gruber y Aaron Swartz en 2004 representa menos una invención radical que una síntesis de tendencias previas llevada a su expresión más minimalista [25]. La declaración de diseño original de Gruber es elocuente en su ambición: Markdown debía ser "lo más legible posible tal como está escrito", de manera que un documento Markdown fuera inteligible incluso sin procesamiento, como texto plano ordinario [25].
 
 Esta decisión de diseño —priorizar la legibilidad del texto fuente sobre la exhaustividad del marcado— es exactamente la decisión opuesta a la que tomaron los diseñadores de SGML y XML, y sin embargo conduce, como este artículo argumenta, a un resultado que es funcional y semánticamente compatible con los objetivos de JATS.
 
