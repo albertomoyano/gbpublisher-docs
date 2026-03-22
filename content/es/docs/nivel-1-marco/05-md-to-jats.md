@@ -63,7 +63,7 @@ Los objetivos específicos son:
 
 ### Estructura del artículo
 
-El artículo está organizado conforme a la estructura IMRyD. La sección de Materiales y Métodos describe el enfoque metodológico adoptado para la revisión de la literatura y el análisis de estándares. La sección de Resultados desarrolla los cinco ejes temáticos identificados: historia, estado del arte, complementariedad semántica, dimensión pragmática y proyección futura. La sección de Discusión integra estos hallazgos en una argumentación cohesiva sobre la centralidad de Markdown en las cadenas editoriales orientadas a JATS canónico. Las Conclusiones sintetizan las implicaciones prácticas y teóricas del análisis, con énfasis en el diseño de herramientas editoriales como gbpublisher.
+El artículo está organizado conforme a la estructura [IMRyD](https://es.wikipedia.org/wiki/Introducci%C3%B3n,_M%C3%A9todos,_Resultados_y_Discusi%C3%B3n). La sección de Materiales y Métodos describe el enfoque metodológico adoptado para la revisión de la literatura y el análisis de estándares. La sección de Resultados desarrolla los cinco ejes temáticos identificados: historia, estado del arte, complementariedad semántica, dimensión pragmática y proyección futura. La sección de Discusión integra estos hallazgos en una argumentación cohesiva sobre la centralidad de Markdown en las cadenas editoriales orientadas a JATS canónico. Las Conclusiones sintetizan las implicaciones prácticas y teóricas del análisis, con énfasis en el diseño de herramientas editoriales como gbpublisher.
 
 ## 2. Materiales y métodos
 
