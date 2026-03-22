@@ -1,5 +1,5 @@
 ---
-title: "Markdown como protocolo de entrada en la cadena editorial científica: fundamentos para una convergencia semántica hacia JATS canónico"
+title: "Markdown como protocolo de entrada en la cadena editorial científica"
 weight: 5
 description: >
   La publicación científica contemporánea exige que los artículos estén disponibles en formatos estructurados y legibles por máquinas, siendo el estándar JATS (Journal Article Tag Suite, NISO Z39.96) el esquema XML dominante en los sistemas de indexación internacionales. Sin embargo, la producción directa de XML-JATS presenta barreras técnicas significativas para los equipos editoriales. Este artículo analiza por qué Markdown constituye el protocolo de entrada óptimo en una cadena editorial orientada a la producción de JATS canónico, examinando sus fundamentos históricos, su estado de adopción actual, su complementariedad semántica con JATS, su dimensión pragmática en contextos editoriales reales y su proyección futura en el ecosistema de la comunicación científica.
