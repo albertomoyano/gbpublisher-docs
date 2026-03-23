@@ -503,9 +503,7 @@ Algunas conclusiones merecen subrayarse:
 
 **El desafío de la soberanía de datos es real y requiere respuesta activa.** La infraestructura de datos que sostiene la visibilidad internacional de la ciencia latinoamericana está en gran parte controlada por actores externos a la región. La respuesta no puede ser ignorar esa infraestructura (lo que equivaldría a la invisibilidad), pero tampoco puede ser aceptarla pasivamente. El fortalecimiento de infraestructuras regionales abiertas (AmeliCA, OpenAlex, repositorios institucionales), el uso de estándares abiertos (JATS, ORCID, ROR, DOI), y el desarrollo de herramientas de código abierto adaptadas al contexto latinoamericano (OJS, gbpublisher) son las respuestas disponibles, y todas requieren que los editores comprendan suficientemente el ecosistema para elegir con criterio.
 
-El editor que entiende qué es una base de datos, cómo se relaciona con el XML que produce, y qué rol juega en el ecosistema global no es un editor que sabe más de tecnología:
-
-> es un editor que sabe mejor por qué hace lo que hace, y eso cambia la calidad de las decisiones que toma.
+El editor que entiende qué es una base de datos, cómo se relaciona con el XML que produce, y qué rol juega en el ecosistema global no es un editor que sabe más de tecnología: **es un editor que sabe mejor por qué hace lo que hace, y eso cambia la calidad de las decisiones que toma**.
 
 
 ## Referencias
