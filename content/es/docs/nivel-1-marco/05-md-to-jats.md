@@ -133,13 +133,13 @@ Para comprender por qué Markdown es un protocolo de entrada naturalmente compat
 
 El primer hito en esta historia es la publicación, en 1969, del Generalized Markup Language (GML) por Charles Goldfarb, Edward Mosher y Raymond Lorie en IBM [18]. GML fue concebido como una respuesta al problema de los sistemas de composición tipográfica de la época, que mezclaban instrucciones de formato específicas de cada dispositivo de salida con el contenido del documento, haciéndolo no portable. La idea central de GML era radicalmente simple y, a la vez, de consecuencias enormes: las marcas en un documento deben describir **qué es** un elemento (un título, un párrafo, una referencia), no **cómo debe verse** en un dispositivo particular [18,19].
 
-Esta distinción —que en la terminología contemporánea se expresa como la diferencia entre marcado semántico y marcado de presentación— es el fundamento común de toda la genealogía que conduce tanto a JATS como a Markdown.
+Esta distinción —que en la terminología contemporánea se expresa como la diferencia entre **marcado semántico** y **marcado de presentación**— es el fundamento común de toda la genealogía que conduce tanto a JATS como a Markdown.
 
 #### De GML a SGML: la formalización del marcado genérico
 
-GML evolucionó hacia el Standard Generalized Markup Language (SGML), formalizado como estándar ISO en 1986 (ISO 8879:1986) [20]. SGML estableció la noción de *Document Type Definition* ([DTD](https://en.wikipedia.org/wiki/Document_type_definition)): un esquema formal que define los elementos válidos en un tipo de documento, sus relaciones jerárquicas y sus atributos. Esta arquitectura —separación entre el esquema (DTD) y el documento instancia— es el precursor directo de XML y, por extensión, de JATS [20,21].
+GML evolucionó hacia el Standard Generalized Markup Language ([SGML](https://es.wikipedia.org/wiki/SGML)), formalizado como estándar ISO en 1986 (ISO 8879:1986) [20]. SGML estableció la noción de *Document Type Definition* ([DTD](https://en.wikipedia.org/wiki/Document_type_definition)): un esquema formal que define los elementos válidos en un tipo de documento, sus relaciones jerárquicas y sus atributos. Esta arquitectura —separación entre el esquema (DTD) y el documento instancia— es el precursor directo de XML y, por extensión, de JATS [20,21].
 
-La influencia de SGML en la publicación académica fue significativa: la Association of American Publishers (AAP) desarrolló en 1986 un conjunto de DTDs basadas en SGML para la estructuración de artículos científicos, que constituyen el antecedente más directo de lo que eventualmente se convertiría en el estándar JATS [7]. El trabajo de la AAP reconocía que la producción de artículos científicos tenía características estructurales recurrentes —resúmenes, autorías, referencias bibliográficas, tablas, figuras— que merecían ser codificadas en un esquema formal y portable.
+La influencia de SGML en la publicación académica fue significativa: la Association of American Publishers ([AAP](https://publishers.org/)) desarrolló en 1986 un conjunto de DTDs basadas en SGML para la estructuración de artículos científicos, que constituyen el antecedente más directo de lo que eventualmente se convertiría en el estándar JATS [7]. El trabajo de la AAP reconocía que la producción de artículos científicos tenía características estructurales recurrentes —resúmenes, autorías, referencias bibliográficas, tablas, figuras— que merecían ser codificadas en un esquema formal y portable.
 
 #### El nacimiento de XML y el NLM DTD
 
@@ -159,7 +159,11 @@ Sin embargo, tanto TeX como LaTeX mantenían una sintaxis relativamente densa �
 
 #### Markdown: la síntesis minimalista
 
-En este contexto histórico, la creación de [Markdown](https://es.wikipedia.org/wiki/Markdown) por John Gruber y Aaron Swartz en 2004 representa menos una invención radical que una síntesis de tendencias previas llevada a su expresión más minimalista [25]. La declaración de diseño original de Gruber es elocuente en su ambición: Markdown debía ser "lo más legible posible tal como está escrito", de manera que un documento Markdown fuera inteligible incluso sin procesamiento, como texto plano ordinario [25].
+En este contexto histórico, la creación de [Markdown](https://es.wikipedia.org/wiki/Markdown) por John Gruber y Aaron Swartz en 2004 representa menos una invención radical que una síntesis de tendencias previas llevada a su expresión más minimalista [25]. La declaración de diseño original de Gruber es elocuente en su ambición: Markdown debía ser
+
+> lo más legible posible tal como está escrito [25]
+
+de manera que un documento Markdown fuera inteligible incluso sin procesamiento, como texto plano ordinario.
 
 Esta decisión de diseño —priorizar la legibilidad del texto fuente sobre la exhaustividad del marcado— es exactamente la decisión opuesta a la que tomaron los diseñadores de SGML y XML, y sin embargo conduce, como este artículo argumenta, a un resultado que es funcional y semánticamente compatible con los objetivos de JATS.
 
