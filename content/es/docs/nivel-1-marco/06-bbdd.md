@@ -505,71 +505,131 @@ El editor que entiende qué es una base de datos, cómo se relaciona con el XML 
 
 > es un editor que sabe mejor por qué hace lo que hace, y eso cambia la calidad de las decisiones que toma.
 
----
 
 ## Referencias
 
-[1] Codd, E. F. (1970). A relational model of data for large shared data banks. *Communications of the ACM*, 13(6), 377–387. https://doi.org/10.1145/362384.362685
+[1] Codd, Edgar Frank. (1970). A relational model of data for large shared data banks.
+*Communications of the ACM*, 13(6), 377–387.
+[https://doi.org/10.1145/362384.362685](https://doi.org/10.1145/362384.362685)
 
-[2] Chamberlin, D. D., & Boyce, R. F. (1974). SEQUEL: A structured English query language. En *Proceedings of the 1974 ACM SIGFIDET Workshop on Data Description, Access and Control* (pp. 249–264). ACM. https://doi.org/10.1145/800296.811515
+[2] Chamberlin, Donald D., & Boyce, Raymond F. (1974). SEQUEL: A structured English
+query language. En *Proceedings of the 1974 ACM SIGFIDET Workshop on Data
+Description, Access and Control* (pp. 249–264). ACM.
+[https://doi.org/10.1145/800296.811515](https://doi.org/10.1145/800296.811515)
 
-[3] Stonebraker, M., & Rowe, L. A. (1986). The design of POSTGRES. En *Proceedings of the 1986 ACM SIGMOD International Conference on Management of Data* (pp. 340–355). ACM. https://doi.org/10.1145/16894.16888
+[3] Stonebraker, Michael, & Rowe, Lawrence A. (1986). The design of POSTGRES. En
+*Proceedings of the 1986 ACM SIGMOD International Conference on Management of
+Data* (pp. 340–355). ACM.
+[https://doi.org/10.1145/16894.16888](https://doi.org/10.1145/16894.16888)
 
-[4] Willinsky, J. (2005). Open Journal Systems: An example of open source software for journal management and publishing. *Library Hi Tech*, 23(4), 504–519. https://doi.org/10.1108/07378830510636300
+[4] Willinsky, John. (2005). Open Journal Systems: An example of open source software
+for journal management and publishing. *Library Hi Tech*, 23(4), 504–519.
+[https://doi.org/10.1108/07378830510636300](https://doi.org/10.1108/07378830510636300)
 
-[5] Leavitt, N. (2010). Will NoSQL databases live up to their promise? *IEEE Computer*, 43(2), 12–14. https://doi.org/10.1109/MC.2010.58
+[5] Leavitt, Neal. (2010). Will NoSQL databases live up to their promise? *IEEE
+Computer*, 43(2), 12–14.
+[https://doi.org/10.1109/MC.2010.58](https://doi.org/10.1109/MC.2010.58)
 
-[6] PKP (Public Knowledge Project). (2024). *OJS usage statistics*. Recuperado de https://pkp.sfu.ca/software/ojs/
+[6] PKP (Public Knowledge Project). (2024). *OJS usage statistics*. Recuperado de
+[https://pkp.sfu.ca/software/ojs/](https://pkp.sfu.ca/software/ojs/)
 
-[7] Packer, A. L., Cop, N., Luccisano, A., Ramalho, A., & Spinak, E. (2014). *SciELO – 15 años de acceso abierto: un estudio analítico sobre acceso abierto y comunicación en la investigación*. UNESCO.
+[7] Packer, Abel Laerte, Cop, N., Luccisano, A., Ramalho, A., & Spinak, Ernesto. (2014).
+*SciELO – 15 años de acceso abierto: un estudio analítico sobre acceso abierto y
+comunicación en la investigación*. UNESCO.
 
-[8] Priem, J., Piwowar, H., & Orr, R. (2022). OpenAlex: A fully-open index of the world's research. *arXiv*. https://arxiv.org/abs/2205.01833
+[8] Priem, Jason, Piwowar, Heather, & Orr, R. (2022). OpenAlex: A fully-open index of
+the world's research. *arXiv*.
+[https://arxiv.org/abs/2205.01833](https://arxiv.org/abs/2205.01833)
 
-[9] Ireland, C., Bowers, D., Newton, M., & Waugh, K. (2009). A classification of object-relational impedance mismatch. En *Proceedings of the 2009 First International Confererence on Advances in Databases, Knowledge, and Data Applications* (pp. 36–43). IEEE. https://doi.org/10.1109/DBKDA.2009.11
+[9] Ireland, C., Bowers, D., Newton, M., & Waugh, K. (2009). A classification of
+object-relational impedance mismatch. En *Proceedings of the 2009 First International
+Conference on Advances in Databases, Knowledge, and Data Applications* (pp. 36–43).
+IEEE.
+[https://doi.org/10.1109/DBKDA.2009.11](https://doi.org/10.1109/DBKDA.2009.11)
 
-[10] Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR guiding principles for scientific data management and stewardship. *Scientific Data*, 3, 160018. https://doi.org/10.1038/sdata.2016.18
+[10] Wilkinson, Mark D., Dumontier, Michel, Aalbersberg, IJsbrand Jan, Appleton, G.,
+Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne,
+Philip E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, Mercè, Dillo, I., Dumon, O.,
+Edmunds, S., Evelo, C. T., Finkers, R., … Mons, Barend. (2016). The FAIR guiding
+principles for scientific data management and stewardship. *Scientific Data*, 3, 160018.
+[https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
 
-[11] DataCite Metadata Working Group. (2021). *DataCite Metadata Schema Documentation for the Publication and Citation of Research Data and Other Research Outputs, version 4.4*. DataCite. https://doi.org/10.14454/3w3z-sa82
+[11] DataCite Metadata Working Group. (2021). *DataCite Metadata Schema Documentation
+for the Publication and Citation of Research Data and Other Research Outputs,
+version 4.4*. DataCite.
+[https://doi.org/10.14454/3w3z-sa82](https://doi.org/10.14454/3w3z-sa82)
 
-[12] Shah, N. H., Entwistle, D., & Pfeffer, M. A. (2023). Creation of a large language model–based chatbot for biomedical literature exploration. *JAMA Network Open*, 6(8), e2330620. https://doi.org/10.1001/jamanetworkopen.2023.30620
+[12] Shah, Nigam H., Entwistle, D., & Pfeffer, M. A. (2023). Creation of a large language
+model–based chatbot for biomedical literature exploration. *JAMA Network Open*, 6(8),
+e2330620.
+[https://doi.org/10.1001/jamanetworkopen.2023.30620](https://doi.org/10.1001/jamanetworkopen.2023.30620)
 
-[13] Berners-Lee, T., Hendler, J., & Lassila, O. (2001). The semantic web. *Scientific American*, 284(5), 34–43. https://doi.org/10.1038/scientificamerican0501-34
+[13] Berners-Lee, Tim, Hendler, James, & Lassila, Ora. (2001). The semantic web.
+*Scientific American*, 284(5), 34–43.
+[https://doi.org/10.1038/scientificamerican0501-34](https://doi.org/10.1038/scientificamerican0501-34)
 
-[14] Vrandečić, D., & Krötzsch, M. (2014). Wikidata: A free collaborative knowledgebase. *Communications of the ACM*, 57(10), 78–85. https://doi.org/10.1145/2629489
+[14] Vrandečić, Denny, & Krötzsch, Markus. (2014). Wikidata: A free collaborative
+knowledgebase. *Communications of the ACM*, 57(10), 78–85.
+[https://doi.org/10.1145/2629489](https://doi.org/10.1145/2629489)
 
-[15] Babini, D., & Rovelli, L. (2020). *Tendencias recientes en las políticas científicas de ciencia abierta y acceso abierto en Iberoamérica*. CLACSO; Fundación Dialnet. https://doi.org/10.2307/j.ctv1gm02zq
+[15] Babini, Dominique, & Rovelli, Lorena. (2020). *Tendencias recientes en las políticas
+científicas de ciencia abierta y acceso abierto en Iberoamérica*. CLACSO; Fundación
+Dialnet.
+[https://doi.org/10.2307/j.ctv1gm02zq](https://doi.org/10.2307/j.ctv1gm02zq)
 
-[16] Becerril-García, A., & Aguado-López, E. (2019). The end of a centralized open access project and the beginning of a community-based sustainable infrastructure for Latin America: Redalyc.org after Fifteen Years. En *Scholarly Communication in Latin America, Spain, Portugal and the Caribbean* (pp. 89–104). ELPUB. https://doi.org/10.4000/proceedings.elpub.2019.20
+[16] Becerril-García, Arianna, & Aguado-López, Eduardo. (2019). The end of a centralized
+open access project and the beginning of a community-based sustainable infrastructure
+for Latin America: Redalyc.org after Fifteen Years. En *Scholarly Communication in
+Latin America, Spain, Portugal and the Caribbean* (pp. 89–104). ELPUB.
+[https://doi.org/10.4000/proceedings.elpub.2019.20](https://doi.org/10.4000/proceedings.elpub.2019.20)
 
-[17] Lo, K., Wang, L. L., Neumann, M., Kinney, R., & Weld, D. S. (2020). S2ORC: The Semantic Scholar open research corpus. En *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics* (pp. 4969–4983). ACL. https://doi.org/10.18653/v1/2020.acl-main.447
+[17] Lo, Kyle, Wang, Lucy Lu, Neumann, Mark, Kinney, Rodney, & Weld, Daniel S. (2020).
+S2ORC: The Semantic Scholar open research corpus. En *Proceedings of the 58th
+Annual Meeting of the Association for Computational Linguistics* (pp. 4969–4983). ACL.
+[https://doi.org/10.18653/v1/2020.acl-main.447](https://doi.org/10.18653/v1/2020.acl-main.447)
 
----
 
 ## Bibliografía adicional
 
-Abiteboul, S., Hull, R., & Vianu, V. (1995). *Foundations of Databases*. Addison-Wesley.
+Abiteboul, Serge, Hull, Richard, & Vianu, Victor. (1995). *Foundations of Databases*.
+Addison-Wesley.
 
-Codd, E. F. (1990). *The Relational Model for Database Management: Version 2*. Addison-Wesley.
+Codd, Edgar Frank. (1990). *The Relational Model for Database Management: Version 2*.
+Addison-Wesley.
 
-Date, C. J. (2003). *An Introduction to Database Systems* (8.ª ed.). Addison-Wesley.
+Date, Christopher J. (2003). *An Introduction to Database Systems* (8.ª ed.).
+Addison-Wesley.
 
-García-Molina, H., Ullman, J. D., & Widom, J. (2008). *Database Systems: The Complete Book* (2.ª ed.). Pearson Prentice Hall.
+García-Molina, Hector, Ullman, Jeffrey D., & Widom, Jennifer. (2008). *Database Systems:
+The Complete Book* (2.ª ed.). Pearson Prentice Hall.
 
-Hartig, O., & Pérez, J. (2018). Semantics and complexity of GraphQL. En *Proceedings of the 2018 World Wide Web Conference* (pp. 1155–1164). ACM. https://doi.org/10.1145/3178876.3186014
+Hartig, Olaf, & Pérez, Jorge. (2018). Semantics and complexity of GraphQL. En
+*Proceedings of the 2018 World Wide Web Conference* (pp. 1155–1164). ACM.
+[https://doi.org/10.1145/3178876.3186014](https://doi.org/10.1145/3178876.3186014)
 
-Kleppmann, M. (2017). *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*. O'Reilly Media.
+Kleppmann, Martin. (2017). *Designing Data-Intensive Applications: The Big Ideas Behind
+Reliable, Scalable, and Maintainable Systems*. O'Reilly Media.
 
-Loshin, D. (2010). *Master Data Management*. Morgan Kaufmann.
+Loshin, David. (2010). *Master Data Management*. Morgan Kaufmann.
 
-Ramakrishnan, R., & Gehrke, J. (2002). *Database Management Systems* (3.ª ed.). McGraw-Hill.
+Ramakrishnan, Raghu, & Gehrke, Johannes. (2002). *Database Management Systems*
+(3.ª ed.). McGraw-Hill.
 
-Sadalage, P. J., & Fowler, M. (2012). *NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence*. Addison-Wesley.
+Sadalage, Pramod J., & Fowler, Martin. (2012). *NoSQL Distilled: A Brief Guide to the
+Emerging World of Polyglot Persistence*. Addison-Wesley.
 
-Sandoval Almazán, R. (2011). Gobierno electrónico y bases de datos: fundamentos para su comprensión en las administraciones públicas latinoamericanas. *Gestión y Política Pública*, 20(2), 431–462.
+Sandoval Almazán, R. (2011). Gobierno electrónico y bases de datos: fundamentos para su
+comprensión en las administraciones públicas latinoamericanas. *Gestión y Política
+Pública*, 20(2), 431–462.
 
-Spinak, E. (2017). Sobre las veintidós definiciones de acceso abierto y las bases de datos relacionales. *SciELO en Perspectiva*. Recuperado de https://blog.scielo.org/es/
+Spinak, Ernesto. (2017). Sobre las veintidós definiciones de acceso abierto y las bases de
+datos relacionales. *SciELO en Perspectiva*.
+[https://blog.scielo.org/es/](https://blog.scielo.org/es/)
 
-Stonebraker, M., & Çetintemel, U. (2005). "One size fits all": An idea whose time has come and gone. En *Proceedings of the 21st International Conference on Data Engineering* (pp. 2–11). IEEE. https://doi.org/10.1109/ICDE.2005.1
+Stonebraker, Michael, & Çetintemel, Ugur. (2005). «One size fits all»: An idea whose time
+has come and gone. En *Proceedings of the 21st International Conference on Data
+Engineering* (pp. 2–11). IEEE.
+[https://doi.org/10.1109/ICDE.2005.1](https://doi.org/10.1109/ICDE.2005.1)
 
 ---
 
