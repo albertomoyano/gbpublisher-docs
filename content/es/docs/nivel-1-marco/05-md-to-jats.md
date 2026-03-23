@@ -143,7 +143,7 @@ La influencia de SGML en la publicación académica fue significativa: la Associ
 
 #### El nacimiento de XML y el NLM DTD
 
-La aparición de XML 1.0, publicado por el [W3C](https://www.w3.org/) en 1998 como una simplificación de SGML orientada a la web, proporcionó la base técnica sobre la cual se construirían todos los estándares de marcado documental del siglo XXI [21]. XML retiene los principios fundamentales de SGML —validación contra un esquema, separación entre contenido y presentación, portabilidad— mientras elimina las complejidades sintácticas que dificultaban su implementación práctica.
+La aparición de XML 1.0, publicado por el [W3C](https://www.w3.org/) en 1998 como una simplificación de SGML orientada a la web [21], proporcionó la base técnica sobre la cual se construirían todos los estándares de marcado documental del siglo XXI. XML retiene los principios fundamentales de SGML —validación contra un esquema, separación entre contenido y presentación, portabilidad— mientras elimina las complejidades sintácticas que dificultaban su implementación práctica.
 
 Sobre esta base, la National Library of Medicine de Estados Unidos desarrolló, a partir del año 2000, el NLM Journal Publishing DTD, diseñado específicamente para el archivo y distribución de artículos científicos en PubMed Central [7,9]. Este DTD fue el resultado de un esfuerzo colectivo que involucró a editores, bibliotecarios y especialistas en información científica, con el objetivo de crear un esquema suficientemente expresivo para capturar la semántica completa de un artículo científico, incluyendo no solo el cuerpo del texto sino también los metadatos administrativos, de autoría, financiamiento y citación [7].
 
