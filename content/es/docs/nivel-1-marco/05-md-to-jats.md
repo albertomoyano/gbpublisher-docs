@@ -81,22 +81,22 @@ La búsqueda bibliográfica se realizó en las siguientes fuentes:
 - [ACM Digital Library](https://dl.acm.org/) y [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp), para literatura técnica sobre
   sistemas de marcado de documentos y cadenas de herramientas
   de conversión.
-- SciELO y Redalyc, para literatura latinoamericana sobre flujos
+- [SciELO](https://www.scielo.org/es/) y [Redalyc](https://www.redalyc.org/), para literatura latinoamericana sobre flujos
   editoriales y modelos de acceso abierto.
 
 **Repositorios y documentación técnica:**
 - Especificaciones formales de JATS publicadas por NISO
   (National Information Standards Organization).
 - Documentación oficial de Pandoc.
-- Especificaciones del SciELO Publishing Schema (SPS).
-- Especificaciones de [JATS4R](https://jats4r.niso.org/) (JATS for Requirements).
+- Especificaciones del SciELO Publishing Schema ([SPS](https://scielo.readthedocs.io/projects/scielo-pc-programs/en/latest/index_es.html)).
+- Especificaciones de [JATS4R](https://jats4r.niso.org/).
 - Repositorios de código de herramientas relevantes
   en GitHub/GitLab.
-- Documentación del proyecto ORCID, CrossRef y DataCite en lo relativo a metadatos estructurados.
+- Documentación del proyecto [ORCID](https://orcid.org/), [CrossRef](https://www.crossref.org/) y [DataCite](https://datacite.org/) en lo relativo a metadatos estructurados.
 
 **Literatura gris:**
 - Informes y documentos de trabajo de organizaciones como SPARC, FORCE11, NISO y CLACSO.
-- Entradas de blogs técnicos especializados de amplia circulación en la comunidad de software académico, como *Scholarly Kitchen*, *PLOS Tech* y el blog del proyecto Pandoc.
+- Entradas de blogs técnicos especializados de amplia circulación en la comunidad de software académico, como *[Scholarly Kitchen]*(https://scholarlykitchen.sspnet.org/), *[PLOS Tech]*(https://plos.org/) y el blog del proyecto Pandoc.
 
 Los términos de búsqueda empleados —en inglés y español— incluyeron combinaciones de: *Markdown*, *JATS*, *XML*, *scientific publishing*, *editorial workflow*, *Pandoc*, *lightweight markup*, *structured authoring*, *diamond open access*, *SciELO*, *Redalyc*, *Latin America*, *document conversion*, *semantic markup*.
 
