@@ -81,7 +81,7 @@ Ya hemos descrito los fundamentos del modelo relacional en la sección anterior.
 
 Los datos se organizan en **tablas** (también llamadas relaciones). Cada tabla tiene un esquema fijo: un conjunto predefinido de columnas con tipos de datos específicos (texto, número entero, fecha, booleano). Cada fila de la tabla representa un registro único. Las relaciones entre tablas se expresan mediante **claves**: una clave primaria identifica unívocamente cada fila dentro de una tabla; una clave foránea en otra tabla referencia esa clave primaria, estableciendo así la relación.
 
-La consulta de datos se realiza mediante **SQL** (Structured Query Language), un lenguaje declarativo que permite expresar preguntas complejas sobre los datos sin especificar cómo el sistema debe responderlas. Una consulta SQL puede combinar datos de múltiples tablas (operación llamada *join*), filtrar registros según condiciones, agrupar y agregar datos, ordenar resultados.
+La consulta de datos se realiza mediante SQL (Structured Query Language), un lenguaje declarativo que permite expresar preguntas complejas sobre los datos sin especificar cómo el sistema debe responderlas. Una consulta SQL puede combinar datos de múltiples tablas (operación llamada *join*), filtrar registros según condiciones, agrupar y agregar datos, ordenar resultados.
 
 Las bases de datos relacionales también implementan el concepto de **transacciones** y las propiedades ACID (Atomicidad, Consistencia, Aislamiento, Durabilidad). Una transacción es un conjunto de operaciones que debe ejecutarse completamente o no ejecutarse en absoluto: si se interrumpe a mitad, el sistema garantiza que los datos vuelvan al estado anterior. Esto es crucial en contextos donde la integridad de los datos es crítica.
 
@@ -91,7 +91,7 @@ Los sistemas relacionales más relevantes para el ecosistema editorial son:
 
 **MySQL / MariaDB**: MySQL es uno de los sistemas relacionales de código abierto más utilizados en el mundo, especialmente en combinación con PHP (el lenguaje en que está escrito OJS). MariaDB es un fork comunitario de MySQL creado en 2009 tras la adquisición de MySQL por Oracle, mantenido por muchos de los desarrolladores originales. Ambos son opciones sólidas y ampliamente soportadas.
 
-**PostgreSQL**: Sistema de código abierto considerado el más robusto y completo de los sistemas libres. Soporta tipos de datos avanzados (incluyendo JSON nativo, arrays, tipos geométricos), extensiones, y cumplimiento estricto con el estándar SQL. Es una opción frecuente para instalaciones de producción de OJS y otros sistemas editoriales de alto tráfico.
+**PostgreSQL**: Sistema de código abierto considerado el más robusto y completo de los sistemas libres. Soporta tipos de datos avanzados (incluyendo JSON nativo, arrays, tipos geométricos), extensiones, y cumplimiento estricto con el estándar SQL. Es una opción frecuente para instalaciones de producción de sistemas editoriales de alto tráfico.
 
 **SQLite**: A diferencia de PostgreSQL y MySQL, SQLite no es un servidor: es una biblioteca que se integra directamente en la aplicación. La base de datos completa reside en un único archivo en disco. Esto la hace ideal para aplicaciones de escritorio, herramientas de desarrollo, y sistemas embebidos donde la simplicidad de instalación y mantenimiento supera la necesidad de escalabilidad concurrente. gbpublisher utiliza MySQL como motor principal de su base de datos editorial, y SQLite en una variante cifrada para la gestión de autenticación del administrador del sistema: una separación que permite proteger las credenciales de acceso con un mayor nivel de seguridad sin complejizar la arquitectura general.
 
@@ -103,7 +103,7 @@ Los sistemas de bases de datos documentales resuelven este problema almacenando 
 
 Esta flexibilidad tiene un precio: las operaciones que en una base de datos relacional son simples y eficientes (como un *join* entre dos tablas) son más complejas en bases de datos documentales, porque los documentos no fueron diseñados para relacionarse entre sí de esa manera. Los sistemas documentales son potentes para almacenar y recuperar objetos complejos de manera individualizada, pero menos adecuados para consultas que cruzan múltiples colecciones de manera sistemática.
 
-**MongoDB** es el sistema documental más conocido. **CouchDB** es otra alternativa relevante por su modelo de replicación y su orientación hacia aplicaciones desconectadas o con conectividad intermitente.
+MongoDB es el sistema documental más conocido. CouchDB es otra alternativa relevante por su modelo de replicación y su orientación hacia aplicaciones desconectadas o con conectividad intermitente.
 
 En el ecosistema editorial, los sistemas documentales son relevantes principalmente en el contexto de APIs y servicios que exponen datos de artículos en formato JSON: muchos sistemas de descubrimiento y repositorios usan almacenamiento documental para sus índices de búsqueda, complementando una base de datos relacional subyacente.
 
@@ -113,7 +113,7 @@ Algunas relaciones entre datos son tan complejas y densas que ni el modelo relac
 
 Las bases de datos de grafos representan los datos como nodos (entidades) y aristas (relaciones entre entidades), y están optimizadas para navegar eficientemente esas redes de relaciones. La consulta "encuentra todos los investigadores que están a dos grados de separación del autor X en la red de co-autoría"» es trivial en una base de datos de grafos y extraordinariamente costosa en una base de datos relacional.
 
-**Neo4j** es el sistema de grafos más conocido y usado. En el mundo de la investigación científica, sistemas como **OpenAlex** y algunas infraestructuras de análisis bibliométrico utilizan representaciones de grafo para modelar las redes de citación y colaboración de la literatura científica global.
+Neo4j es el sistema de grafos más conocido y usado. En el mundo de la investigación científica, sistemas como OpenAlex y algunas infraestructuras de análisis bibliométrico utilizan representaciones de grafo para modelar las redes de citación y colaboración de la literatura científica global.
 
 Para el editor de una revista individual, las bases de datos de grafos son tecnología de infraestructura que opera en capas más profundas del ecosistema:
 
@@ -143,7 +143,9 @@ Un malentendido común es que NoSQL implica falta de transacciones o garantías 
 
 Más relevante aún es que la distinción "relacional vs. NoSQL" se ha vuelto menos útil a medida que los sistemas convergen. PostgreSQL, un sistema relacional, incorpora desde hace años soporte nativo para documentos JSON, arrays, y tipos de datos semiestructurados que eran dominio exclusivo de los sistemas NoSQL. MongoDB, un sistema documental, añadió soporte para transacciones multi-documento. Los límites entre categorías se han difuminado.
 
-Para el editor, la lección práctica es esta: la elección entre modelos de bases de datos es una decisión de ingeniería que debe hacerse en función de las características específicas de los datos y las consultas que se necesitan realizar. No existe un modelo universalmente superior; existen modelos más o menos apropiados para contextos específicos.
+Para el editor, la lección práctica es esta:
+
+> la elección entre modelos de bases de datos es una decisión de ingeniería que debe hacerse en función de las características específicas de los datos y las consultas que se necesitan realizar. No existe un modelo universalmente superior; existen modelos más o menos apropiados para contextos específicos.
 
 ## 4. Estado del arte: sistemas de bases de datos en el ecosistema editorial académico
 
