@@ -96,7 +96,7 @@ La búsqueda bibliográfica se realizó en las siguientes fuentes:
 
 **Literatura gris:**
 - Informes y documentos de trabajo de organizaciones como SPARC, FORCE11, NISO y CLACSO.
-- Entradas de blogs técnicos especializados de amplia circulación en la comunidad de software académico, como *[Scholarly Kitchen]*(https://scholarlykitchen.sspnet.org/), *[PLOS Tech]*(https://plos.org/) y el blog del proyecto Pandoc.
+- Entradas de blogs técnicos especializados de amplia circulación en la comunidad de software académico, como [*Scholarly Kitchen*](https://scholarlykitchen.sspnet.org/), [*PLOS Tech*](https://plos.org/) y el blog del proyecto Pandoc.
 
 Los términos de búsqueda empleados —en inglés y español— incluyeron combinaciones de: *Markdown*, *JATS*, *XML*, *scientific publishing*, *editorial workflow*, *Pandoc*, *lightweight markup*, *structured authoring*, *diamond open access*, *SciELO*, *Redalyc*, *Latin America*, *document conversion*, *semantic markup*.
 
