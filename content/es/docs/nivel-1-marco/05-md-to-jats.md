@@ -249,7 +249,7 @@ El análisis del estado del arte permite identificar cuatro brechas que justific
 
 **Brecha 4: interfaz para equipos no técnicos.** Las herramientas disponibles requieren familiaridad con la línea de comandos, editores de texto plano y configuración de archivos YAML, lo que constituye una barrera significativa para los equipos editoriales de revistas sin soporte técnico especializado.
 
-Estas cuatro brechas definen con precisión el espacio de diseño de herramientas como gbpublisher al no reemplazar la cadena Pandoc --> JATS, sino extenderla con: (1) perfilado de plataforma, (2) gestión de metadatos complejos y (3) una interfaz intuitiva para equipos editoriales no técnicos.
+Estas cuatro brechas definen con precisión el espacio de diseño de herramientas como gbpublisher al no reemplazar la cadena Pandoc --> JATS, sino extenderla con: (1) perfilado de plataforma; (2) gestión de metadatos complejos; y (3) una interfaz intuitiva para equipos editoriales no técnicos.
 
 ### Complementariedad semántica: los elementos de Markdown y sus equivalentes en JATS
 
@@ -357,7 +357,7 @@ A pesar de la amplia cobertura documentada en las secciones anteriores, existen 
 
 #### La semántica suficiente como principio de diseño
 
-El análisis de la correspondencia Markdown --> JATS permite formular un principio de diseño que es central para la argumentación de este artículo: el principio de **semántica suficiente**.
+El análisis de la correspondencia Markdown --> JATS permite formular un principio de diseño que es central para la argumentación de este artículo: **el principio de semántica suficiente**.
 
 Markdown no captura el cien por ciento de la semántica de JATS. Tampoco necesita hacerlo para ser un protocolo de entrada efectivo. Lo que necesita —y lo que tiene— es capturar la semántica suficiente: todos los elementos estructurales que aparecen en la gran mayoría de los artículos científicos estándar, con la profundidad suficiente para que una cadena de conversión bien diseñada pueda derivar el JATS canónico completo a partir de esa representación inicial.
 
