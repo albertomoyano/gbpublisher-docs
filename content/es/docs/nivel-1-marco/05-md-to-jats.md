@@ -2,16 +2,14 @@
 title: "Markdown como protocolo de entrada en la cadena editorial científica"
 weight: 5
 description: >
-  La publicación científica contemporánea exige que los artículos estén disponibles en formatos estructurados y legibles por máquinas, siendo el estándar JATS (Journal Article Tag Suite, [NISO Z39.96](https://www.niso.org/standards-committees/jats)) el esquema XML dominante en los sistemas de indexación internacionales. Sin embargo, la producción directa de XML-JATS presenta barreras técnicas significativas para los equipos editoriales. Este artículo analiza por qué Markdown constituye el protocolo de entrada óptimo en una cadena editorial orientada a la producción de JATS canónico, examinando sus fundamentos históricos, su estado de adopción actual, su complementariedad semántica con JATS, su dimensión pragmática en contextos editoriales reales y su proyección futura en el ecosistema de la comunicación científica.
+  La publicación científica contemporánea exige que los artículos estén disponibles en formatos estructurados y legibles por máquinas, siendo el estándar JATS (Journal Article Tag Suite, NISO Z39.96) el esquema XML dominante en los sistemas de indexación internacionales. Sin embargo, la producción directa de XML-JATS presenta barreras técnicas significativas para los equipos editoriales. Este artículo analiza por qué Markdown constituye el protocolo de entrada óptimo en una cadena editorial orientada a la producción de JATS canónico, examinando sus fundamentos históricos, su estado de adopción actual, su complementariedad semántica con JATS, su dimensión pragmática en contextos editoriales reales y su proyección futura en el ecosistema de la comunicación científica.
 ---
 
-## 1. Introducción
-
-### El problema de la fragmentación en los flujos editoriales científicos
+## 1. Introducción: el problema de la fragmentación en los flujos editoriales científicos
 
 La publicación científica atraviesa una paradoja estructural de consecuencias prácticas significativas: mientras los sistemas de indexación internacional convergen hacia el XML estructurado como formato canónico de representación y circulación de artículos, los autores continúan produciendo sus manuscritos en procesadores de texto de propósito general —principalmente Microsoft Word— cuya arquitectura interna es fundamentalmente incompatible con el paradigma del marcado semántico [1,2].
 
-Esta brecha entre el formato de producción y el formato de circulación genera lo que puede denominarse "fragmentación editorial": cada revista debe mantener cadenas de conversión paralelas, a menudo manuales o semimanuales, para transformar los manuscritos recibidos en los formatos exigidos por los distintos sistemas de indexación. En el contexto latinoamericano, esto significa que una misma revista puede necesitar producir variantes para SciELO Publishing Schema (SPS), para las especificaciones de Redalyc, para JATS4R y, eventualmente, para PubMed Central, cada una con sus propias particularidades de implementación, aunque todas deriven del estándar JATS [3,4].
+Esta brecha entre el formato de producción y el formato de circulación genera lo que puede denominarse "fragmentación editorial": cada revista debe mantener cadenas de conversión paralelas, a menudo manuales o semimanuales, para transformar los manuscritos recibidos en los formatos exigidos por los distintos sistemas de indexación. En el contexto latinoamericano, esto significa que una misma revista puede necesitar producir variantes para SciELO Publishing Schema (SPS), para las especificaciones de Redalyc, para [JATS4R](https://jats4r.niso.org/) y, eventualmente, para PubMed Central, cada una con sus propias particularidades de implementación, aunque todas deriven del estándar JATS [3,4].
 
 El costo de esta fragmentación recae desproporcionadamente sobre las revistas del modelo de acceso abierto diamante —aquellas que no cobran ni a lectores ni a autores—, que carecen de los recursos financieros de las grandes editoriales comerciales para sostener equipos técnicos especializados en marcado XML [5]. En América Latina, donde este modelo diamante es predominante y estructuralmente vinculado a instituciones universitarias y organismos públicos de ciencia, el problema adquiere dimensiones críticas [6].
 
@@ -19,7 +17,7 @@ La solución canónica a este problema, tal como ha sido propuesta por diversas 
 
 ### JATS como estándar convergente de la comunicación científica
 
-El estándar JATS (Journal Article Tag Suite), formalizado como NISO Z39.96, es hoy el esquema XML dominante para la representación de artículos científicos en los sistemas de indexación y archivo de mayor alcance mundial [7]. Su adopción por parte de PubMed Central (PMC) en el contexto del National Center for Biotechnology Information (NCBI) de los Estados Unidos, y su posterior incorporación como base de los esquemas editoriales de SciELO y Redalyc en América Latina, le han conferido un papel de facto de infraestructura de la comunicación científica internacional [3,8].
+El estándar JATS (Journal Article Tag Suite), formalizado como [NISO Z39.96](https://www.niso.org/standards-committees/jats), es hoy el esquema XML dominante para la representación de artículos científicos en los sistemas de indexación y archivo de mayor alcance mundial [7]. Su adopción por parte de PubMed Central (PMC) en el contexto del National Center for Biotechnology Information (NCBI) de los Estados Unidos, y su posterior incorporación como base de los esquemas editoriales de SciELO y Redalyc en América Latina, le han conferido un papel de facto de infraestructura de la comunicación científica internacional [3,8].
 
 JATS proviene del NLM DTD (National Library of Medicine Document Type Definition), desarrollado originalmente a comienzos de los años 2000 para el archivo digital de artículos biomédicos en PubMed Central. Su diseño original reflejaba las prioridades del dominio biomédico: estructura rígida, semántica precisa, trazabilidad de elementos (autores, afiliaciones, financiamiento, referencias) y compatibilidad con los flujos de datos de MEDLINE [7,9].
 
@@ -31,13 +29,13 @@ Este es el núcleo de la tensión que fundamenta la pregunta de investigación d
 
 La pregunta por el protocolo de entrada óptimo hacia JATS ha recibido distintas respuestas en la literatura y en la práctica editorial. Las principales alternativas documentadas incluyen:
 
-**a) Producción directa en XML-JATS.** Es el enfoque adoptado formalmente por sistemas como SciELO en sus etapas de producción profesional. Requiere marcadores XML especializados y herramientas como el SciELO PC Programs o editores XML como Oxygen. Su principal desventaja es el alto costo de implementación y la pronunciada curva de aprendizaje, que la hace inviable para equipos pequeños [3].
+**a) Producción directa en XML-JATS.** Es el enfoque adoptado formalmente por sistemas como SciELO en sus etapas de producción profesional. Requiere marcadores XML especializados y herramientas como el SciELO PC Programs o editores XML como [Oxygen](https://www.oxygenxml.com/). Su principal desventaja es el alto costo de implementación y la pronunciada curva de aprendizaje, que la hace inviable para equipos pequeños [3].
 
 **b) Conversión desde Microsoft Word mediante plantillas.** Es el flujo más extendido en la práctica, pero produce XML de calidad variable y frecuentemente requiere revisión manual intensiva. Los metadatos estructurales (afiliaciones, fondos de financiamiento, declaraciones de conflicto de interés) rara vez se capturan correctamente en este flujo [2,11].
 
-**c) LaTeX como formato intermedio.** Adoptado en disciplinas matemáticas y físicas, presenta ventajas en la representación de fórmulas y notación científica, pero su curva de aprendizaje es elevada y su uso en ciencias sociales, humanidades y ciencias de la salud clínica es marginal. Herramientas como latex2jats existen pero tienen soporte limitado [12].
+**c) [LaTeX](https://www.latex-project.org/) como formato intermedio.** Adoptado en disciplinas matemáticas y físicas, presenta ventajas en la representación de fórmulas y notación científica, pero su curva de aprendizaje es elevada y su uso en ciencias sociales, humanidades y ciencias de la salud clínica es marginal. Herramientas como latex2jats existen pero tienen soporte limitado [12].
 
-**d) Markdown como protocolo de entrada.** Es la alternativa relativamente más reciente en términos de adopción sistemática en flujos editoriales científicos, cuenta con un ecosistema de herramientas maduro —centrado en Pandoc— y una creciente base de evidencia empírica sobre su eficacia [13,14].
+**d) Markdown como protocolo de entrada.** Es la alternativa relativamente más reciente en términos de adopción sistemática en flujos editoriales científicos, cuenta con un ecosistema de herramientas maduro —centrado en [Pandoc](https://pandoc.org/)— y una creciente base de evidencia empírica sobre su eficacia [13,14].
 
 Este artículo sostiene que la cuarta alternativa —Markdown como protocolo de entrada— es la óptima para el objetivo de producción de JATS canónico en el contexto de revistas con recursos limitados, y articula los fundamentos de esta tesis a lo largo de las secciones siguientes.
 
@@ -65,9 +63,7 @@ Los objetivos específicos son:
 
 El artículo está organizado conforme a la estructura [IMRyD](https://es.wikipedia.org/wiki/Introducci%C3%B3n,_M%C3%A9todos,_Resultados_y_Discusi%C3%B3n). La sección de Materiales y Métodos describe el enfoque metodológico adoptado para la revisión de la literatura y el análisis de estándares. La sección de Resultados desarrolla los cinco ejes temáticos identificados: historia, estado del arte, complementariedad semántica, dimensión pragmática y proyección futura. La sección de Discusión integra estos hallazgos en una argumentación cohesiva sobre la centralidad de Markdown en las cadenas editoriales orientadas a JATS canónico. Las Conclusiones sintetizan las implicaciones prácticas y teóricas del análisis, con énfasis en el diseño de herramientas editoriales como gbpublisher.
 
-## 2. Materiales y métodos
-
-### Diseño del estudio
+## 2. Materiales y métodos: diseño del estudio
 
 Se realizó una revisión narrativa de alcance amplio (*scoping review* en la terminología anglosajona), orientada a mapear el estado del conocimiento sobre Markdown como protocolo de entrada en cadenas editoriales científicas orientadas a XML-JATS. Se eligió la revisión narrativa —en lugar de una revisión sistemática con metaanálisis— porque el objeto de estudio combina dimensiones históricas, técnicas y de política editorial que no son reducibles a un conjunto homogéneo de estudios primarios cuantificables [16].
 
@@ -82,7 +78,7 @@ La búsqueda bibliográfica se realizó en las siguientes fuentes:
   en publicación biomédica y especificaciones JATS/NLM DTD.
 - Scopus y Web of Science, para literatura sobre comunicación
   científica, acceso abierto y estándares de publicación.
-- ACM Digital Library y IEEE Xplore, para literatura técnica sobre
+- [ACM Digital Library](https://dl.acm.org/) y [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp), para literatura técnica sobre
   sistemas de marcado de documentos y cadenas de herramientas
   de conversión.
 - SciELO y Redalyc, para literatura latinoamericana sobre flujos
@@ -91,9 +87,9 @@ La búsqueda bibliográfica se realizó en las siguientes fuentes:
 **Repositorios y documentación técnica:**
 - Especificaciones formales de JATS publicadas por NISO
   (National Information Standards Organization).
-- Documentación oficial de Pandoc (pandoc.org).
+- Documentación oficial de Pandoc.
 - Especificaciones del SciELO Publishing Schema (SPS).
-- Especificaciones de JATS4R (JATS for Requirements).
+- Especificaciones de [JATS4R](https://jats4r.niso.org/) (JATS for Requirements).
 - Repositorios de código de herramientas relevantes
   en GitHub/GitLab.
 - Documentación del proyecto ORCID, CrossRef y DataCite en lo relativo a metadatos estructurados.
@@ -129,9 +125,7 @@ La principal limitación de este trabajo es su naturaleza de revisión narrativa
 
 Esta escasez es en sí misma un hallazgo relevante, que subraya la pertinencia del presente artículo como contribución a la sistematización de ese conocimiento disperso.
 
-## 3. Resultados
-
-### Genealogía histórica: Markdown y JATS como expresiones del mismo principio fundacional
+## 3. Resultados: genealogía histórica. Markdown y JATS como expresiones del mismo principio fundacional
 
 #### El principio de separación entre contenido y forma
 
@@ -520,9 +514,7 @@ El YAML, el JSON bibliográfico y cualquier otro artefacto de intercambio técni
 
 **Principio 5: la aplicación de escritorio como plataforma de entrega apropiada.** La implementación de gbpublisher como aplicación de escritorio —desarrollada en Gambas 3 sobre Linux— no es una limitación tecnológica sino una decisión de diseño fundamentada. Las aplicaciones de escritorio pueden implementar formularios con validación inmediata, interacción fluida con el sistema de archivos local, procesamiento sin dependencia de conectividad a internet y una experiencia de usuario consistente independiente de las variaciones de los navegadores web. Para equipos editoriales que trabajan con volúmenes sostenidos de artículos en entornos institucionales que no siempre garantizan conectividad estable, este modelo de entrega es más apropiado que las alternativas basadas en navegador [56,57].
 
-## 4. Discusión
-
-### La convergencia como argumento central
+## 4. Discusión: la convergencia como argumento central
 
 Los resultados presentados en las secciones anteriores permiten articular con precisión el argumento central de este artículo: Markdown es el protocolo de entrada óptimo para la producción de JATS canónico no por razones de conveniencia circunstancial ni por la popularidad creciente del formato en la comunidad técnica, sino por razones estructurales que se articulan en cinco dimensiones complementarias que este trabajo ha analizado sistemáticamente.
 
