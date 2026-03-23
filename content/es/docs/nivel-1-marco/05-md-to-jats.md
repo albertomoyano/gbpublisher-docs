@@ -249,7 +249,9 @@ El análisis del estado del arte permite identificar cuatro brechas que justific
 
 **Brecha 4: interfaz para equipos no técnicos.** Las herramientas disponibles requieren familiaridad con la línea de comandos, editores de texto plano y configuración de archivos YAML, lo que constituye una barrera significativa para los equipos editoriales de revistas sin soporte técnico especializado.
 
-Estas cuatro brechas definen con precisión el espacio de diseño de herramientas como gbpublisher: no reemplazar la cadena Pandoc --> JATS, sino extenderla con perfilado de plataforma, gestión de metadatos complejos (que incluya gobernanza) y una interfaz accesible (con los principios de una aplicación nativa para escritorio) para equipos editoriales no técnicos.
+Estas cuatro brechas definen con precisión el espacio de diseño de herramientas como gbpublisher
+
+> no reemplazar la cadena Pandoc --> JATS, sino extenderla con: (1) perfilado de plataforma, (2) gestión de metadatos complejos (que incluya gobernanza), (3) una interfaz intuitiva para equipos editoriales no técnicos.
 
 ### Complementariedad semántica: los elementos de Markdown y sus equivalentes en JATS
 
