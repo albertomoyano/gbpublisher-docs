@@ -51,17 +51,23 @@ defaultContentLanguage = "es"
     footer_about_disable = false
 
   # ENLACES EN EL PIE Y NAVBAR
-  [params.links]
-    [[params.links.user]]
-      name = "Repositorio gbpublisher"
-      url = "https://github.com/albertomoyano/gbpublisher"
-      icon = "fab fa-github"
-      desc = "Código fuente de gbpublisher"
-    [[params.links.user]]
-      name = "Estudio 2A"
-      url = "https://estudio2a.netlify.app/"
-      icon = "fas fa-home"
-      desc = "Sitio web de Estudio 2A"
+# ENLACES EN EL PIE Y NAVBAR
+[params.links]
+  [[params.links.user]]
+    name = "Repositorio gbpublisher"
+    url  = "https://github.com/albertomoyano/gbpublisher"
+    icon = "fab fa-github"
+    desc = "Código fuente de gbpublisher"
+  [[params.links.user]]
+    name = "Estudio 2A"
+    url  = "https://estudio2a.netlify.app/"
+    icon = "fas fa-home"
+    desc = "Sitio web de Estudio 2A"
+  [[params.links.user]]
+    name = "RSS Feed"
+    url  = "https://albertomoyano.github.io/gbpublisher-docs/index.xml"
+    icon = "fas fa-rss"
+    desc = "Suscribite a las actualizaciones de gbpublisher"
 
 
 # IDIOMAS - CONFIGURACIÓN MULTILINGÜE
