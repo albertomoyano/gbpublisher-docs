@@ -4,7 +4,7 @@ linkTitle: "Inicio"
 ---
 
 {{< blocks/cover title="gbpublisher" image_anchor="top" height="full" >}}
-<p class="display-6">Un modelo de producción XML que simplemente funciona</p>
+<p class="display-6">Un sistema de producción XML que traslada la complejidad del pipeline a una arquitectura integrada</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 

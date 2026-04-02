@@ -5,7 +5,7 @@ linkTitle: "Home"
 ---
 
 {{< blocks/cover title="gbpublisher" image_anchor="top" height="full" >}}
-<p class="display-6">An XML production model that simply works</p>
+<p class="display-6">An XML production system that shifts pipeline complexity into an integrated architecture</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
