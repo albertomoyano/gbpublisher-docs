@@ -1,11 +1,11 @@
 ---
-title: "El paradigma clave=valor en los lenguajes de marcas: fundamentos, historia e implementaciones en flujos editoriales científicos"
+title: "El paradigma clave=valor en los lenguajes de marcas"
 weight: 7
 description: >
   La producción editorial científica contemporánea descansa sobre una infraestructura de metadatos que, en gran medida, permanece invisible para los actores del proceso. Autores, correctores y editores interactúan cotidianamente con formularios, campos de ingreso y plantillas sin percibir que detrás de cada uno de esos elementos opera un principio de organización de la información de notable antigüedad y coherencia formal: el paradigma clave=valor.
 ---
 
-## 1. Introducción
+## 1. Introducción: fundamentos, historia e implementaciones en flujos editoriales científicos
 
 
 El paradigma **clave=valor** consiste, en su formulación más elemental, en la asignación de un dato —el valor— a un identificador unívoco —la clave— dentro de un sistema que garantiza la interpretación consistente de esa relación. Su aparente simplicidad es engañosa: sobre esta estructura mínima se construyen los metadatos bibliográficos, los esquemas de configuración de herramientas de composición tipográfica, los atributos de los documentos XML, los encabezados de conversión de Pandoc y los registros de los grandes indexadores internacionales. En todos estos contextos, el principio subyacente es el mismo, aunque su sintaxis, sus convenciones y sus restricciones varíen de forma significativa.
