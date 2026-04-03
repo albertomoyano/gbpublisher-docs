@@ -506,10 +506,6 @@ El paradigma clave=valor, en definitiva, no es un problema técnico que los edit
 
 ## Referencias
 
-Aquí están las 23 referencias reformateadas. Marco con ※ las tres donde no existe DOI disponible y uso la URL canónica del documento.
-
----
-
 [1] Library of Congress. (1999). *MARC 21 Format for Bibliographic Data*. Library of Congress.
 [https://www.loc.gov/marc/bibliographic/](https://www.loc.gov/marc/bibliographic/)
 
@@ -519,7 +515,7 @@ Aquí están las 23 referencias reformateadas. Marco con ※ las tres donde no e
 [3] Raymond, Eric Steven. (2003). *The Art of Unix Programming*. Addison-Wesley.
 [http://www.catb.org/esr/writings/taoup/html/](http://www.catb.org/esr/writings/taoup/html/)
 
-[4] ※ Patashnik, Oren. (1988). *BibTeXing* [documento técnico]. Stanford University.
+[4] Patashnik, Oren. (1988). *BibTeXing* [documento técnico]. Stanford University.
 [https://ctan.org/pkg/bibtex](https://ctan.org/pkg/bibtex)
 
 [5] World Wide Web Consortium. (1998). *Extensible Markup Language (XML) 1.0*. W3C Recommendation.
@@ -528,13 +524,13 @@ Aquí están las 23 referencias reformateadas. Marco con ※ las tres donde no e
 [6] Lehman, Philipp, Kime, Philip, Boruvka, Audrey, & Wright, Joseph. (2023). *The biblatex package: Sophisticated Bibliographies in LaTeX*. CTAN.
 [https://ctan.org/pkg/biblatex](https://ctan.org/pkg/biblatex)
 
-[7] ※ Carlisle, David, & Rahtz, Sebastian. (1999). *The keyval package*. CTAN.
+[7] Carlisle, David, & Rahtz, Sebastian. (1999). *The keyval package*. CTAN.
 [https://ctan.org/pkg/keyval](https://ctan.org/pkg/keyval)
 
 [8] Ben-Kiki, Oren, Evans, Clark, & döt Net, Ingy. (2021). *YAML Ain't Markup Language (YAML) Version 1.2*. yaml.org.
 [https://yaml.org/spec/1.2.2/](https://yaml.org/spec/1.2.2/)
 
-[9] ※ Preston-Werner, Tom. (2021). *TOML: Tom's Obvious, Minimal Language. Version 1.0.0*. toml.io.
+[9] Preston-Werner, Tom. (2021). *TOML: Tom's Obvious, Minimal Language. Version 1.0.0*. toml.io.
 [https://toml.io/en/v1.0.0](https://toml.io/en/v1.0.0)
 
 [10] Ecma International. (2017). *ECMA-404: The JSON Data Interchange Syntax* (2ª ed.). Ecma International.
