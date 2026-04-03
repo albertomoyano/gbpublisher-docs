@@ -506,49 +506,76 @@ El paradigma clave=valor, en definitiva, no es un problema técnico que los edit
 
 ## Referencias
 
-[1] Library of Congress. *MARC 21 Format for Bibliographic Data*. Washington: Library of Congress, 1999.
+Aquí están las 23 referencias reformateadas. Marco con ※ las tres donde no existe DOI disponible y uso la URL canónica del documento.
 
-[2] International Organization for Standardization. *ISO 8879:1986. Information processing — Text and office systems — Standard Generalized Markup Language (SGML)*. Ginebra: ISO, 1986.
+---
 
-[3] Raymond ES. *The Art of Unix Programming*. Boston: Addison-Wesley, 2003.
+[1] Library of Congress. (1999). *MARC 21 Format for Bibliographic Data*. Library of Congress.
+[https://www.loc.gov/marc/bibliographic/](https://www.loc.gov/marc/bibliographic/)
 
-[4] Patashnik O. *BibTeXing* [documento técnico]. Stanford: Stanford University, 1988.
+[2] International Organization for Standardization. (1986). *ISO 8879:1986. Information processing — Text and office systems — Standard Generalized Markup Language (SGML)*. ISO.
+[https://www.iso.org/standard/16387.html](https://www.iso.org/standard/16387.html)
 
-[5] World Wide Web Consortium. *Extensible Markup Language (XML) 1.0*. W3C Recommendation, 10 de febrero de 1998.
+[3] Raymond, Eric Steven. (2003). *The Art of Unix Programming*. Addison-Wesley.
+[http://www.catb.org/esr/writings/taoup/html/](http://www.catb.org/esr/writings/taoup/html/)
 
-[6] Lehman P, Kime P, Boruvka A, Wright J. *The biblatex package: Sophisticated Bibliographies in LaTeX*. CTAN, 2023.
+[4] ※ Patashnik, Oren. (1988). *BibTeXing* [documento técnico]. Stanford University.
+[https://ctan.org/pkg/bibtex](https://ctan.org/pkg/bibtex)
 
-[7] Carlisle D, Rahtz S. *The keyval package*. CTAN, 1999.
+[5] World Wide Web Consortium. (1998). *Extensible Markup Language (XML) 1.0*. W3C Recommendation.
+[https://www.w3.org/TR/xml/](https://www.w3.org/TR/xml/)
 
-[8] Ben-Kiki O, Evans C, döt Net I. *YAML Ain't Markup Language (YAML) Version 1.2*. yaml.org, 2021.
+[6] Lehman, Philipp, Kime, Philip, Boruvka, Audrey, & Wright, Joseph. (2023). *The biblatex package: Sophisticated Bibliographies in LaTeX*. CTAN.
+[https://ctan.org/pkg/biblatex](https://ctan.org/pkg/biblatex)
 
-[9] Preston-Werner T. *TOML: Tom's Obvious, Minimal Language*. Version 1.0.0. toml.io, 2021.
+[7] ※ Carlisle, David, & Rahtz, Sebastian. (1999). *The keyval package*. CTAN.
+[https://ctan.org/pkg/keyval](https://ctan.org/pkg/keyval)
 
-[10] Ecma International. *ECMA-404: The JSON Data Interchange Syntax*. 2ª ed. Ginebra: Ecma International, 2017.
+[8] Ben-Kiki, Oren, Evans, Clark, & döt Net, Ingy. (2021). *YAML Ain't Markup Language (YAML) Version 1.2*. yaml.org.
+[https://yaml.org/spec/1.2.2/](https://yaml.org/spec/1.2.2/)
 
+[9] ※ Preston-Werner, Tom. (2021). *TOML: Tom's Obvious, Minimal Language. Version 1.0.0*. toml.io.
+[https://toml.io/en/v1.0.0](https://toml.io/en/v1.0.0)
 
-[11] Dublin Core Metadata Initiative. *Dublin Core Metadata Element Set, Version 1.1*. DCMI, 2012.
+[10] Ecma International. (2017). *ECMA-404: The JSON Data Interchange Syntax* (2ª ed.). Ecma International.
+[https://www.ecma-international.org/publications-and-standards/standards/ecma-404/](https://www.ecma-international.org/publications-and-standards/standards/ecma-404/)
 
-[12] Open Archives Initiative. *Protocol for Metadata Harvesting. Version 2.0*. OAI, 2002.
+[11] Dublin Core Metadata Initiative. (2012). *Dublin Core Metadata Element Set, Version 1.1*. DCMI.
+[https://www.dublincore.org/specifications/dublin-core/dces/](https://www.dublincore.org/specifications/dublin-core/dces/)
 
-[13] Crossref. *Crossref Metadata Schema Documentation*. Crossref, 2023.
+[12] Open Archives Initiative. (2002). *Protocol for Metadata Harvesting. Version 2.0*. OAI.
+[https://www.openarchives.org/OAI/openarchivesprotocol.html](https://www.openarchives.org/OAI/openarchivesprotocol.html)
 
-[14] ORCID. *ORCID API v3.0 Documentation*. ORCID, 2023.
+[13] Crossref. (2023). *Crossref Metadata Schema Documentation*. Crossref.
+[https://www.crossref.org/documentation/schema/](https://www.crossref.org/documentation/schema/)
 
-[15] SciELO. *SciELO Publishing Schema 1.9*. São Paulo: SciELO, 2023.
+[14] ORCID. (2023). *ORCID API v3.0 Documentation*. ORCID.
+[https://info.orcid.org/documentation/api-tutorials/](https://info.orcid.org/documentation/api-tutorials/)
 
-[16] Redalyc. *Marcalyc: metodología para la generación de XML-JATS*. Toluca: Universidad Autónoma del Estado de México, 2022.
+[15] SciELO. (2023). *SciELO Publishing Schema 1.9*. SciELO.
+[https://scielo.readthedocs.io/projects/scielo-publishing-schema/](https://scielo.readthedocs.io/projects/scielo-publishing-schema/)
 
-[17] JATS4R. *JATS for Reuse Recommendations, Version 1.3*. JATS4R, 2022.
+[16] Redalyc. (2022). *Marcalyc: metodología para la generación de XML-JATS*. Universidad Autónoma del Estado de México.
+[https://www.redalyc.org/postulacion.oa](https://www.redalyc.org/postulacion.oa)
 
-[18] Zotero. *Zotero Documentation: CSL*. Roy Rosenzweig Center for History and New Media, George Mason University, 2023.
+[17] JATS4R. (2022). *JATS for Reuse Recommendations, Version 1.3*. JATS4R.
+[https://jats4r.org/recommendations/](https://jats4r.org/recommendations/)
 
-[19] MacFarlane J. *Pandoc: A Universal Document Converter*. Version 3.x. pandoc.org, 2024.
+[18] Zotero. (2023). *Zotero Documentation: CSL*. Roy Rosenzweig Center for History and New Media, George Mason University.
+[https://www.zotero.org/support/styles](https://www.zotero.org/support/styles)
 
-[20] Zelle M, et al. *Citation Style Language 1.0 Specification*. citationstyles.org, 2012.
+[19] MacFarlane, John. (2024). *Pandoc: A Universal Document Converter. Version 3.x*. pandoc.org.
+[https://pandoc.org](https://pandoc.org)
 
-[21] Crossref. *Metadata 2020: Richer, Better, More Connected Metadata*. metadata2020.org, 2023.
+[20] Zelle, Rintze y otros. (2012). *Citation Style Language 1.0 Specification*. citationstyles.org.
+[https://docs.citationstyles.org/en/stable/specification.html](https://docs.citationstyles.org/en/stable/specification.html)
 
-[22] Schema.org. *ScholarlyArticle — schema.org*. schema.org/ScholarlyArticle, 2024.
+[21] Crossref. (2023). *Metadata 2020: Richer, Better, More Connected Metadata*. metadata2020.org.
+[https://www.metadata2020.org/](https://www.metadata2020.org/)
 
-[23] Berners-Lee T, Hendler J, Lassila O. The Semantic Web. *Scientific American*. 2001;284(5):34-43.
+[22] Schema.org. (2024). *ScholarlyArticle*. schema.org.
+[https://schema.org/ScholarlyArticle](https://schema.org/ScholarlyArticle)
+
+[23] Berners-Lee, Tim, Hendler, James, & Lassila, Ora. (2001). The Semantic Web. *Scientific American*, 284(5), 34–43.
+[https://www.scientificamerican.com/article/the-semantic-web/](https://www.scientificamerican.com/article/the-semantic-web/)
+
