@@ -259,7 +259,7 @@ Sistemas modernos como Editorial Manager incluyen herramientas para:
 
 **Modalidades de revisión**:
 
-Los flujos de trabajo deben especificar claramente el modelo adoptado [12]:
+Los flujos de trabajo deben especificar claramente el modelo adoptado:
 
 - **Simple ciego**: Revisores conocen identidad de autores, pero no viceversa (más común)
 - **Doble ciego**: Identidades mutuamente ocultas
@@ -295,7 +295,7 @@ Los revisores evalúan:
 
 **Tiempo y gestión**:
 
-El tiempo de revisión es un punto crítico. Estudios documentan [13]:
+El tiempo de revisión es un punto crítico. Estudios documentan [12]:
 - Mediana de tiempo de revisión: 85-100 días
 - Casos extremos: más de 370 días desde envío hasta publicación
 - Impacto en carreras académicas, especialmente investigadores tempranos
@@ -481,7 +481,7 @@ La operativización de estos complejos flujos de trabajo ha llevado al desarroll
 - **Submittable**: Plataforma basada en suscripción popular en humanidades y ciencias sociales
 - **Sistemas institucionales**: Desarrollados por universidades y consorcios
 
-**Ventajas de sistemas estructurados** [14]:
+**Ventajas de sistemas estructurados** [13]:
 
 - Agilidad en gestión y tiempos de respuesta controlados
 - Avisos automáticos para alertar retrasos
@@ -611,7 +611,7 @@ Los procesos estructurados garantizan:
 
 ### Presiones contemporáneas
 
-Los flujos de trabajo editoriales enfrentan múltiples presiones [15]:
+Los flujos de trabajo editoriales enfrentan múltiples presiones [14]:
 
 **Volumen creciente**: La producción científica continúa acelerándose, incrementando carga sobre sistemas editoriales.
 
@@ -634,7 +634,7 @@ Los flujos de trabajo editoriales enfrentan múltiples presiones [15]:
 
 Sin embargo, estas herramientas complementan, no reemplazan, el juicio humano experto.
 
-**Revisión por pares abierta**: Experimentación con [12]:
+**Revisión por pares abierta**: Experimentación con:
 - Publicación de revisiones junto con artículos
 - Identidades reveladas de revisores
 - Comentarios post-publicación
@@ -694,7 +694,7 @@ En resumen: los flujos de trabajo editoriales importan porque la calidad del con
 
 ## Referencias
 
-[1] Fyfe, A. et al. (2019). *A Brief History of Peer Review*. Historia de la revisión por pares desde el siglo XVII.
+[1] Moxham, N. & Fyfe, A. (2018). The Royal Society and the Prehistory of Peer Review, 1665–1965. *The Historical Journal*, 61(4), 863–889. https://doi.org/10.1017/S0018246X17000334
 
 [2] Baldwin, M. (2017). In referees we trust? *Physics Today*, 70(2), 44-49.
 
@@ -708,25 +708,19 @@ En resumen: los flujos de trabajo editoriales importan porque la calidad del con
 
 [7] Menéndez-González, M. (2015). Revisión por pares: plataformas de reconocimiento para revisores de artículos científicos. *Archivos de Medicina*, 11(3), 3.
 
-[8] Committee on Publication Ethics (COPE). (2017). *Ethical Guidelines for Peer Reviewers*. Version 2. https://doi.org/10.24318/cope.2019.1.10
+[8] Committee on Publication Ethics (COPE). (2017). *COPE Ethical Guidelines for Peer Reviewers* — English. Version 2. https://doi.org/10.24318/cope.2019.1.9
 
-[9] Montilva, J.A., & Barrios, J. (2021). *Fundamentos de la Ingeniería del Software. Un Enfoque basado en Procesos*. Sello Editorial Publicaciones del Vicerrectorado Académico de la Universidad de Los Andes.
+[9] Montilva C., J.A. & Barrios A., J. (2021). *Ingeniería del Software: Un enfoque basado en procesos*. Sello Editorial del Vicerrectorado Académico de la Universidad de Los Andes. ISBN: 978-980-11-2029-2.
 
 [10] SciELO. (s.f.). *Gestión de revistas científicas: etapas, acciones y participantes de los procesos editoriales*. Recuperado de https://lilacs.bvsalud.org/guias-e-manuais/es/
 
 [11] Scholastica. (s.f.). *Fully-OA Journal Publishing Toolkit*. Mejores prácticas en publicación de acceso abierto.
 
-[12] Wikipedia contributors. (2025). *Revisión académica por pares*. Wikipedia.
+[12] Powell, K. (2016). Does it take too long to publish research? *Nature*, 530, 148-151. https://doi.org/10.1038/530148a
 
-[13] Powell, K. (2016). Does it take too long to publish research? *Nature*, 530, 148-151.
+[13] Pelletier, K., McCormack, M., Muscanell, N., Reeves, J., Robert, J. & Arbino, N. (2024). *2024 EDUCAUSE Horizon Report®: Teaching and Learning Edition*. EDUCAUSE.
 
-[14] Educause. (2024). *Horizon Report 2024*. Sobre sistemas de gestión académica.
-
-[15] The Royal Society. (2011). *Knowledge, networks and nations: Global scientific collaboration in the 21st century*. Sobre colaboración científica global.
-
-**Bibliografía adicional**
-
-Wikipedia contributors. (2025). *Academic publishing*. Wikipedia.
+[14] The Royal Society. (2011). *Knowledge, networks and nations: Global scientific collaboration in the 21st century*. ISBN: 978-0-85403-890-9.
 
 ---
 
