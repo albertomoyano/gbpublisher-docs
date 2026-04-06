@@ -506,7 +506,7 @@ Los formatos dependientes de presentación (PDF) o software propietario requiere
 
 ### Preservación como acto político: soberanía del conocimiento
 
-Para regiones como Latinoamérica, la preservación digital del conocimiento científico en formatos abiertos y estándares públicos tiene dimensiones de soberanía epistemológica [15].
+Para regiones como Latinoamérica, la preservación digital del conocimiento científico en formatos abiertos y estándares públicos tiene dimensiones de soberanía epistemológica.
 
 Si el conocimiento científico producido en la región depende de formatos propietarios controlados por corporaciones del Norte Global, la permanencia de ese conocimiento depende de decisiones comerciales sobre las cuales la región no tiene control. Si un formato propietario se descontinúa, el conocimiento codificado en ese formato puede volverse inaccesible.
 
@@ -518,7 +518,7 @@ La adopción masiva de JATS por SciELO y Redalyc debe entenderse en este context
 
 ### Curva de aprendizaje y recursos necesarios
 
-La adopción de JATS no es trivial. Representa una transformación significativa en los flujos de trabajo editoriales que requiere [16]:
+La adopción de JATS no es trivial. Representa una transformación significativa en los flujos de trabajo editoriales que requiere [15]:
 
 **Capacitación técnica**: Editores, correctores y personal de producción deben entender conceptos de marcado semántico, estructuración XML, validación de esquemas. Estas competencias no son tradicionalmente parte de la formación de editores.
 
@@ -623,11 +623,11 @@ El conocimiento científico ha sobrevivido milenios porque cada generación ha a
 
 ## Referencias
 
-[1] Gil Leyva, I. (2022). La edición digital y la lógica semántica de la web. En *Prácticas editoriales en el siglo XXI*. México: Universidad Nacional Autónoma de México.
+[1] Gil Leyva, I. (2022). Posibilidades del xml jats para el tratamiento y la recuperación de información: El caso del sistema de indización automática SISA. En C. Naumis Peña & A. A. Rodríguez García (Coords.). *La investigación bibliotecológica y de la información hacia el 2030: desarrollo sostenible*. Universidad Nacional Autónoma de México.
 
 [2] National Information Standards Organization [NISO]. (2012). *ANSI/NISO Z39.96-2012: JATS: Journal Article Tag Suite, version 1.0*.
 
-[3] Packer, A. L. (2014). Los criterios de indexación de SciELO se alinean con la comunicación en la investigación de vanguardia. *SciELO en Perspectiva*. Recuperado de https://blog.scielo.org/es/
+[3] Packer, A. L. (2014). Los criterios de indexación de SciELO se alinean con la comunicación en la investigación de vanguardia. *SciELO en Perspectiva*. https://blog.scielo.org/es/2014/04/04/porque-xml/
 
 [4] Aguado-López, E., Becerril-García, A., & Leonardo-Valentín, E. (2024). *Manual de usuario Marcalyc versión 4.0*. Sistema de Información Científica Redalyc.
 
@@ -639,11 +639,11 @@ El conocimiento científico ha sobrevivido milenios porque cada generación ha a
 
 [8] CrossRef. (2020). *Using JATS XML*. Recuperado de https://www.crossref.org/documentation/register-maintain-records/direct-deposit-xml/jats-xml/
 
-[9] Beagrie, N. (2013). *Preservación, fiabilidad y acceso continuado a las revistas digitales*. Digital Preservation Coalition Technology Watch Report.
+[9] Beagrie, N. (2013). *Preservation, Trust and Continuing Access for E-Journals*. Digital Preservation Coalition Technology Watch Report TWR13-04. https://doi.org/10.7207/twr13-04
 
-[10] Packer, A. L., & Gómes, N. (2023). SciELO Marketplace: Una interfaz para servicios editoriales. *SciELO en Perspectiva*.
+[10] Packer, A.L. & Gomes, L.G.S. (2023). SciELO MarketPlace – plataforma de comercialización de productos y servicios de comunicación científica. *SciELO en Perspectiva*. https://blog.scielo.org/es/2023/03/16/scielo-marketplace/
 
-[11] Gross, M. (2025). From Valid XML to Valuable XML: When "Good" Matters More Than "Valid". En *Journal Article Tag Suite Conference (JATS-Con) Proceedings 2025*. Bethesda (MD): National Center for Biotechnology Information.
+[11] Gross, M. (2025). From Valid XML to Valuable XML: When "Good" Matters More Than "Valid". En *Journal Article Tag Suite Conference (JATS-Con) Proceedings 2025*. Bethesda (MD): National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/books/NBK611679/
 
 [12] JATS4R Group. (2018). *JATS for Reuse: Best practices for JATS tagging*. Recuperado de https://jats4r.org/
 
@@ -651,9 +651,7 @@ El conocimiento científico ha sobrevivido milenios porque cada generación ha a
 
 [14] McKnight, C. (1997). Electronic journals: What do users think of them? En *Proceedings of International Symposium on Research, Development and Practice in Digital Libraries*.
 
-[15] Sánchez-Pereyra, A. (2017). SciELO: 20 años de acceso abierto en América Latina. En *Historia de la ciencia abierta en América Latina*. Buenos Aires: CLACSO.
-
-[16] Rozemblum, C. (2021). Desafíos y oportunidades en la adopción de XML-JATS en revistas científicas de América Latina. *Palabra Clave (La Plata)*, 10(2), e098.
+[15] Rozemblum, V. (2021). *Propuesta de implementación de marcado XML-JATS para revistas científicas sostenidas por la Universidad Nacional de La Plata* [Tesis de grado]. Universidad Nacional de La Plata. http://sedici.unlp.edu.ar/handle/10915/115124
 
 **Bibliografía adicional**
 
@@ -665,7 +663,7 @@ Guzmán-Useche, M. F., & Rodríguez-Contreras, L. (2016). Análisis comparativo 
 
 National Center for Biotechnology Information [NCBI]. (2012). *JATS: Journal Article Tag Suite, version 1.0*. Recuperado de https://jats.nlm.nih.gov/
 
-Zetter Patiño, E. (2018). *El desarrollo de JATS y su implementación global* [Tesis de maestría]. Universidad Nacional Autónoma de México.
+Zetter-Patiño, J. (2018). Estandarización XML-JATS. Un modelo para la publicación en acceso abierto. En *Cuarto Congreso Nacional y Segundo Congreso Iberoamericano de Editores Científicos*. [Ponencia].
 
 ---
 
