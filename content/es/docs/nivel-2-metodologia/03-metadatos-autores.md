@@ -1,6 +1,6 @@
 ---
 title: "Metadatos, autores y afiliaciones"
-weight: 2
+weight: 3
 description: >
   Gestión de metadatos complejos: información de autores, afiliaciones institucionales y contribuciones.
 ---

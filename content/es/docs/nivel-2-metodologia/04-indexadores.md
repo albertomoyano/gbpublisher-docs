@@ -1,6 +1,6 @@
 ---
 title: "Indexadores y circulación"
-weight: 3
+weight: 4
 description: >
   Requisitos y procesos para asegurar que las publicaciones circulen efectivamente a través de sistemas académicos.
 ---

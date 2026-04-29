@@ -1,6 +1,6 @@
 ---
 title: "Del manuscrito al artículo"
-weight: 1
+weight: 2
 description: >
   El proceso de transformación editorial desde el manuscrito recibido hasta el artículo publicado.
 ---
