@@ -1,5 +1,5 @@
 ---
-title: "Del manuscrito al artículo"
+title: "DTP vs. XML-Firts vs. Single Source Publishing"
 weight: 1
 description: >
   Análisis comparativo de los flujos de producción DTP vs. XML-Firts vs. Single Source Publishing.
