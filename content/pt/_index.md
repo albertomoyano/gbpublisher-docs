@@ -4,7 +4,7 @@ linkTitle: "Início"
 ---
 
 {{< blocks/cover title="gbpublisher" image_anchor="top" height="full" >}}
-<p class="display-6">Um sistema de produção XML que transfere a complexidade do pipeline para uma arquitetura integrada</p>
+<p class="display-6">Do manuscrito à indexação, em um único sistema</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
