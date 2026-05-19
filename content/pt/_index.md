@@ -9,7 +9,7 @@ linkTitle: "Início"
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-gbpublisher é uma plataforma de código aberto projetada especificamente para equipes editoriais acadêmicas da América Latina. Converte manuscritos em publicações compatíveis com os principais indexadores internacionais, seguindo padrões como XML-JATS e mantendo a filosofia de transparência em todo o processo editorial.
+gbpublisher é uma aplicação desktop para equipes editoriais acadêmicas da América Latina. Gerencia o fluxo editorial completo: desde o recebimento do manuscrito até a geração de saídas em múltiplos formatos (XML-JATS, PDF, EPUB, HTML) e a integração com os principais indexadores internacionais —SciELO, DOAJ, Redalyc, CrossRef e ORCID—. Sua arquitetura de fonte única garante que todos os formatos de saída derivem do mesmo documento canônico, eliminando a duplicação de trabalho e os erros de coerência entre versões.
 
 Esta documentação não apenas explica como usar o gbpublisher, mas guia você pelos fundamentos da publicação acadêmica moderna, padrões internacionais e melhores práticas editoriais.
 {{% /blocks/lead %}}
